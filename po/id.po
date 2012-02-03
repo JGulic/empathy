@@ -1,0 +1,4515 @@
+# translation of empathy to Bahasa Indonesia
+# Copyright (C) YEAR THE empathy'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the empathy package.
+#
+# Taufiq Wirahman <taufiq.wirahman@gmail.com>, 2010.
+# Dirgita <dirgitadevina@yahoo.co.id>, 2011.
+# Andika Triwidada <andika@gmail.com>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: empathy master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=empathy&keywords=I18N+L10N&component=General\n"
+"POT-Creation-Date: 2011-09-25 06:33+0000\n"
+"PO-Revision-Date: 2011-09-25 13:59+0700\n"
+"Last-Translator: Andika Triwidada <andika@gmail.com>\n"
+"Language-Team: GNOME Indonesian Translation Team <gnome@i15n.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: id\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: KBabel 1.11.4\n"
+
+#: ../data/empathy.desktop.in.in.h:1
+msgid "Chat on Google Talk, Facebook, MSN and many other chat services"
+msgstr "Mengobrol pada Google Talk, Facebook, MSN, dan banyak layanan obrolan lain"
+
+#: ../data/empathy.desktop.in.in.h:2
+msgid "Empathy"
+msgstr "Empathy"
+
+#: ../data/empathy.desktop.in.in.h:3
+msgid "Empathy Internet Messaging"
+msgstr "Perpesanan Internet Empathy"
+
+#: ../data/empathy.desktop.in.in.h:4
+msgid "IM Client"
+msgstr "Klien IM"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:1
+msgid "Always open a separate chat window for new chats."
+msgstr "Selalu membuka jendela obrolan yang terpisah untuk obrolan baru."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:2
+msgid "Call volume"
+msgstr "Volume panggilan"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:3
+msgid "Call volume, as a percentage."
+msgstr "Volume panggilan, dalam persentase."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:4
+msgid "Camera device"
+msgstr "Perangkat kamera"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:5
+msgid "Camera position"
+msgstr "Posisi kamera"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:6
+msgid "Character to add after nickname when using nick completion (tab) in group chat."
+msgstr "Karakter yang ditambahkan setelah nama panggilan saat menggunakan penyelesaian nama panggilan (tab) dalam grup obrolan."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:7
+msgid "Chat window theme"
+msgstr "Tema jendela obrolan"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:8
+msgid "Chat window theme variant"
+msgstr "Varian tema jendela obrolan"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:9
+msgid "Comma-separated list of spell checker languages to use (e.g. \"en, fr, nl\")."
+msgstr "Daftar yang dipisahkan koma dari bahasa pemeriksa ejaan yang digunakan (misalnya \"en, fr, nl\")."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:10
+msgid "Compact contact list"
+msgstr "Daftar kontak ringkas"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:11
+msgid "Connection managers should be used"
+msgstr "Manajer koneksi yang mesti digunakan"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:12
+msgid "Contact list sort criterion"
+msgstr "Kriteria urutan daftar kontak"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:13
+msgid "Default camera device to use in video calls, e.g. /dev/video0."
+msgstr "Perangkat kamera bawaan untuk dipakai dalam panggilan video, mis. /dev/video0."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:14
+msgid "Default directory to select an avatar image from"
+msgstr "Direktori bawaan untuk memilih gambar avatar"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:15
+msgid "Disable popup notifications when away"
+msgstr "Nonaktifkan pemberitahuan popup ketika pergi"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:16
+msgid "Disable sounds when away"
+msgstr "Nonaktifkan suara ketika pergi"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:17
+msgid "Display incoming events in the status area"
+msgstr "Tampilkan kejadian masuk di area status"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:18
+msgid "Display incoming events in the status area. If false, present them to the user immediately."
+msgstr "Tampilkan kejadian masuk di area status. Bila false, sajikan mereka seketika ke pengguna."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:19
+msgid "Echo cancellation support"
+msgstr "Dukungan penghilangan gaung"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:20
+msgid "Empathy can publish the user's location"
+msgstr "Empathy dapat mempublikasikan lokasi pengguna"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:21
+msgid "Empathy can use the GPS to guess the location"
+msgstr "Empathy dapat menggunakan GPS untuk menebak lokasi"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:22
+msgid "Empathy can use the cellular network to guess the location"
+msgstr "Empathy dapat menggunakan jaringan selular untuk menebak lokasi"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:23
+msgid "Empathy can use the network to guess the location"
+msgstr "Empathy dapat menggunakan jaringan untuk menebak lokasi"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:24
+msgid "Empathy default download folder"
+msgstr "Folder unduh bawaan Empathy"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:25
+msgid "Empathy has migrated butterfly logs"
+msgstr "Empathy telah memindahkan log kupu-kupu"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:26
+msgid "Empathy should auto-away when idle"
+msgstr "Empathy harus otomatis berstatus pergi saat menganggur"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:27
+msgid "Empathy should auto-connect on startup"
+msgstr "Empathy mesti otomatis terhubung pada saat awalan"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:28
+msgid "Empathy should reduce the location's accuracy"
+msgstr "Empathy harus mengurangi akurasi lokasi"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:29
+msgid "Empathy should use the avatar of the contact as the chat window icon"
+msgstr "Empathy harus menggunakan avatar dari kontak sebagai ikon jendela obrolan"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:30
+msgid "Enable WebKit Developer Tools"
+msgstr "Aktifkan Perangkat Pengembang WebKit"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:31
+msgid "Enable popup notifications for new messages"
+msgstr "Aktifkan pemberitahuan popup untuk pesan baru"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:32
+msgid "Enable spell checker"
+msgstr "Aktifkan pemeriksa ejaan"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:33
+msgid "Hide main window"
+msgstr "Sembunyikan jendela utama"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:34
+msgid "Hide the main window."
+msgstr "Sembunyikan jendela utama."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:35
+msgid "Nick completed character"
+msgstr "Karakter lengkap panggilan"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:36
+msgid "Open new chats in separate windows"
+msgstr "Buka obrolan baru di jendela terpisah"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:37
+msgid "Path of the Adium theme to use"
+msgstr "Jalur tema Adium untuk digunakan"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:38
+msgid "Path of the Adium theme to use if the theme used for chat is Adium."
+msgstr "Jalur tema Adium yang digunakan jika tema yang digunakan untuk mengobrol adalah Adium."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:39
+msgid "Play a sound for incoming messages"
+msgstr "Putar suara untuk pesan masuk"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:40
+msgid "Play a sound for new conversations"
+msgstr "Putar suara untuk percakapan baru"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:41
+msgid "Play a sound for outgoing messages"
+msgstr "Putar suara untuk pesan keluar"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:42
+msgid "Play a sound when a contact logs in"
+msgstr "Putar suara saat kontak masuk"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:43
+msgid "Play a sound when a contact logs out"
+msgstr "Putar suara saat kontak keluar"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:44
+msgid "Play a sound when we log in"
+msgstr "Putar suara saat kita masuk"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:45
+msgid "Play a sound when we log out"
+msgstr "Putar suara saat kita keluar"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:46
+msgid "Pop up notifications if the chat isn't focused"
+msgstr "Munculkan pemberitahuan jika obrolan tidak terfokus"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:47
+msgid "Pop up notifications when a contact logs in"
+msgstr "munculkan pemberitahuan bila kontak masuk"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:48
+msgid "Pop up notifications when a contact logs out"
+msgstr "Munculkan pemberitahuan bila kontak keluar"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:49
+msgid "Position the camera preview should be during a call."
+msgstr "Posisi pratilik kamera saat memanggil."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:50
+msgid "Show Balance in contact list"
+msgstr "Tampilkan Kredit di daftar kontak"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:51
+msgid "Show avatars"
+msgstr "Tampilkan avatar"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:52
+msgid "Show contact list in rooms"
+msgstr "Tampilkan daftar kontak di ruang"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:53
+msgid "Show hint about closing the main window"
+msgstr "Tampilkan petunjuk tentang menutup jendela utama"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:54
+msgid "Show offline contacts"
+msgstr "Tampilkan kontak luring"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:55
+msgid "Show protocols"
+msgstr "Tampilkan protokol"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:56
+msgid "Spell checking languages"
+msgstr "Bahasa pemeriksaan ejaan"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:57
+msgid "The default folder to save file transfers in."
+msgstr "Folder bawaan untuk menyimpan berkas masuk."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:58
+msgid "The last directory that an avatar image was chosen from."
+msgstr "Direktori terakhir tempat gambar avatar dipilih darinya."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:59
+msgid "The position for the chat window side pane"
+msgstr "Posisi panel sisi jendela obrolan"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:60
+msgid "The stored position (in pixels) of the chat window side pane."
+msgstr "Posisi tersimpan (dalam piksel) dari panel sisi jendela obrolan."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:61
+msgid "The theme that is used to display the conversation in chat windows."
+msgstr "Tema yang digunakan untuk menampilkan percakapan di jendela obrolan."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:62
+msgid "The theme variant that is used to display the conversation in chat windows."
+msgstr "Varian tema yang digunakan untuk menampilkan percakapan di jendela obrolan."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:63
+msgid "Use graphical smileys"
+msgstr "Gunakan smiley grafis"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:64
+msgid "Use notification sounds"
+msgstr "Gunakan suara pemberitahuan"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:65
+msgid "Use theme for chat rooms"
+msgstr "Gunakan tema untuk ruang obrolan"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:66
+msgid "Whether Empathy can publish the user's location to their contacts."
+msgstr "Apakah Empathy dapat mempublikasikan lokasi pengguna ke kontak mereka."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:67
+msgid "Whether Empathy can use the GPS to guess the location."
+msgstr "Apakah Empathy dapat menggunakan GPS untuk menebak lokasi."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:68
+msgid "Whether Empathy can use the cellular network to guess the location."
+msgstr "Apakah Empathy dapat menggunakan jaringan selular untuk menebak lokasi."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:69
+msgid "Whether Empathy can use the network to guess the location."
+msgstr "Apakah Empathy dapat menggunakan jaringan untuk menebak lokasi."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:70
+msgid "Whether Empathy has migrated butterfly logs."
+msgstr "Apakah Empathy telah memindahkan log kupu-kupu."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:71
+msgid "Whether Empathy should automatically log into your accounts on startup."
+msgstr "Apakah Empathy akan secara otomatis masuk ke akun Anda pada startup."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:72
+msgid "Whether Empathy should go into away mode automatically if the user is idle."
+msgstr "Apakah Empathy harus pergi ke modus pergi secara otomatis jika pengguna menganggur."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:73
+msgid "Whether Empathy should reduce the location's accuracy for privacy reasons."
+msgstr "Apakah Empathy harus mengurangi akurasi lokasi untuk alasan privasi."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:74
+msgid "Whether Empathy should use the avatar of the contact as the chat window icon."
+msgstr "Apakah Empathy harus menggunakan avatar dari kontak sebagai ikon jendela obrolan."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:75
+msgid "Whether WebKit developer tools, such as the Web Inspector, should be enabled."
+msgstr "Apakah perangkat pengembang WebKit, seperti Inspektur Web, harus diaktifkan."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:76
+msgid "Whether connectivity managers should be used to automatically disconnect/reconnect."
+msgstr "Apakah manajer konektivitas harus digunakan untuk secara otomatis melepas/menyambung kembali."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:77
+msgid "Whether to check words typed against the languages you want to check with."
+msgstr "Apakah akan memeriksa kata-kata yang diketik terhadap bahasa yang ingin memeriksa dengannya."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:78
+msgid "Whether to convert smileys into graphical images in conversations."
+msgstr "Apakah akan mengkonversi smiley menjadi gambar grafis dalam percakapan."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:79
+msgid "Whether to enable Pulseaudio's echo cancellation filter."
+msgstr "Apakah akan mengaktifkan penyaring penghilangan gaung Pulseaudio."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:80
+msgid "Whether to play a sound to notify of contacts logging into the network."
+msgstr "Apakah akan memainkan suara untuk memberitahu kontak masuk ke jaringan."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:81
+msgid "Whether to play a sound to notify of contacts logging out of the network."
+msgstr "Apakah akan memainkan suara untuk memberitahu kontak keluar dari jaringan."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:82
+msgid "Whether to play a sound to notify of events."
+msgstr "Apakah akan memainkan suara untuk memberitahukan peristiwa."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:83
+msgid "Whether to play a sound to notify of incoming messages."
+msgstr "Apakah akan memainkan suara untuk memberitahukan pesan masuk."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:84
+msgid "Whether to play a sound to notify of new conversations."
+msgstr "Apakah akan memainkan suara untuk memberitahukan pembicaraan baru."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:85
+msgid "Whether to play a sound to notify of outgoing messages."
+msgstr "Apakah akan memainkan suara untuk memberitahukan pesan keluar."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:86
+msgid "Whether to play a sound when logging into a network."
+msgstr "Apakah akan memainkan suara ketika masuk ke jaringan."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:87
+msgid "Whether to play a sound when logging out of a network."
+msgstr "Apakah akan memainkan suara ketika keluar dari jaringan."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:88
+msgid "Whether to play sound notifications when away or busy."
+msgstr "Apakah akan memainkan suara pemberitahuan ketika pergi atau sibuk."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:89
+msgid "Whether to show a popup notification when a contact goes offline."
+msgstr "Apakah akan menampilkan pemberitahuan popup ketika kontak pergi luring."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:90
+msgid "Whether to show a popup notification when a contact goes online."
+msgstr "Apakah akan menampilkan pemberitahuan popup ketika kontak menjadi daring."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:91
+msgid "Whether to show a popup notification when receiving a new message even if the chat is already opened, but not focused."
+msgstr "Apakah akan menampilkan pemberitahuan popup saat menerima pesan baru bahkan jika obrolan sudah terbuka, tapi tidak terfokus."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:92
+msgid "Whether to show a popup notification when receiving a new message."
+msgstr "Apakah akan menampilkan pemberitahuan popup saat menerima pesan baru."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:93
+msgid "Whether to show account balances in the contact list."
+msgstr "Apakah akan menampilkan sisa kredit akun dalam daftar kontak."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:94
+msgid "Whether to show avatars for contacts in the contact list and chat windows."
+msgstr "Apakah akan menampilkan avatar untuk kontak dalam daftar kontak dan jendela obrolan."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:95
+msgid "Whether to show contacts that are offline in the contact list."
+msgstr "Apakah akan menampilkan kontak yang sedang luring dalam daftar kontak."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:96
+msgid "Whether to show popup notifications when away or busy."
+msgstr "Apakah akan menampilkan pemberitahuan popup ketika pergi atau sibuk."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:97
+msgid "Whether to show protocols for contacts in the contact list."
+msgstr "Apakah akan menampilkan protokol untuk kontak dalam daftar kontak."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:98
+msgid "Whether to show the contact list in chat rooms."
+msgstr "Apakah akan menampilkan daftar kontak di ruang mengobrol."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:99
+msgid "Whether to show the contact list in compact mode."
+msgstr "Apakah akan menampilkan daftar kontak dalam mode kompak."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:100
+msgid "Whether to show the message dialog about closing the main window with the 'x' button in the title bar."
+msgstr "Apakah akan menampilkan dialog pesan tentang menutup jendela utama dengan tombol 'x' pada panel judul."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:101
+msgid "Whether to use the theme for chat rooms."
+msgstr "Apakah akan menggunakan tema untuk ruang mengobrol."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:102
+msgid "Which criterion to use when sorting the contact list. Default is to sort by the contact's name with the value \"name\". A value of \"state\" will sort the contact list by state."
+msgstr "Kriteria mana yang digunakan saat mngurutkan daftar kontak. Standar adalah untuk mengurutkan berdasarkan nama kontak dengan nilai \"nama\". Nilai \"negara\" akan menyortir daftar kontak berdasar negara."
+
+#: ../data/empathy-accounts.desktop.in.in.h:1
+msgid "Manage Messaging and VoIP accounts"
+msgstr "Mengelola akun Perpesanan dan VoIP"
+
+#. Tweak the dialog
+#: ../data/empathy-accounts.desktop.in.in.h:2
+#: ../src/empathy-accounts-dialog.c:2324
+msgid "Messaging and VoIP Accounts"
+msgstr "Akun Perpesanan dan VoIP"
+
+#: ../libempathy/empathy-ft-handler.c:825
+msgid "File transfer completed, but the file was corrupted"
+msgstr "Transfer berkas selesai, tapi berkas rusak"
+
+# belum konsisten: file - berkas
+#: ../libempathy/empathy-ft-handler.c:1111
+msgid "File transfer not supported by remote contact"
+msgstr "Transfer berkas tidak didukung oleh kontak remote"
+
+# belum konsisten: file - berkas
+#: ../libempathy/empathy-ft-handler.c:1167
+msgid "The selected file is not a regular file"
+msgstr "Berkas yang dipilih bukan merupakan berkas biasa"
+
+# belum konsisten: file - berkas
+#: ../libempathy/empathy-ft-handler.c:1176
+msgid "The selected file is empty"
+msgstr "Berkas yang dipilih kosong"
+
+#: ../libempathy/empathy-message.c:415
+#: ../src/empathy-call-observer.c:131
+#, c-format
+msgid "Missed call from %s"
+msgstr "Panggilan tak terjawab dari %s"
+
+#. Translators: this is an outgoing call, e.g. 'Called Alice'
+#: ../libempathy/empathy-message.c:419
+#, c-format
+msgid "Called %s"
+msgstr "Memanggil %s"
+
+#: ../libempathy/empathy-message.c:422
+#, c-format
+msgid "Call from %s"
+msgstr "Panggilan dari %s"
+
+#: ../libempathy/empathy-tp-file.c:268
+msgid "Socket type not supported"
+msgstr "Jenis soket tidak didukung"
+
+#: ../libempathy/empathy-tp-file.c:387
+msgid "No reason was specified"
+msgstr "Tidak ada alasan tertentu"
+
+#: ../libempathy/empathy-tp-file.c:390
+msgid "The change in state was requested"
+msgstr "Perubahan keadaan telah diminta"
+
+# belum konsisten: file - berkas
+#: ../libempathy/empathy-tp-file.c:393
+msgid "You canceled the file transfer"
+msgstr "Anda membatalkan transfer berkas"
+
+# belum konsisten: file - berkas
+#: ../libempathy/empathy-tp-file.c:396
+msgid "The other participant canceled the file transfer"
+msgstr "Peserta lain membatalkan transfer berkas"
+
+# belum konsisten: file - berkas
+#: ../libempathy/empathy-tp-file.c:399
+msgid "Error while trying to transfer the file"
+msgstr "Kesalahan ketika mencoba untuk mentransfer berkas"
+
+# belum konsisten: file - berkas
+#: ../libempathy/empathy-tp-file.c:402
+msgid "The other participant is unable to transfer the file"
+msgstr "Peserta lainnya tidak dapat mentransfer berkas"
+
+#: ../libempathy/empathy-tp-file.c:405
+#: ../libempathy/empathy-utils.c:312
+msgid "Unknown reason"
+msgstr "Alasan yang tidak diketahui"
+
+#: ../libempathy/empathy-utils.c:232
+msgid "Available"
+msgstr "Tersedia"
+
+#: ../libempathy/empathy-utils.c:234
+msgid "Busy"
+msgstr "Sibuk"
+
+#: ../libempathy/empathy-utils.c:237
+msgid "Away"
+msgstr "Pergi"
+
+#: ../libempathy/empathy-utils.c:239
+msgid "Invisible"
+msgstr "Tak kelihatan"
+
+#: ../libempathy/empathy-utils.c:241
+msgid "Offline"
+msgstr "Luring"
+
+#. translators: presence type is unknown
+#: ../libempathy/empathy-utils.c:244
+msgctxt "presence"
+msgid "Unknown"
+msgstr "Tak dikenal"
+
+# msgid "Unknown"
+# msgstr "Tidak Diketahui"
+#: ../libempathy/empathy-utils.c:284
+msgid "No reason specified"
+msgstr "Tidak ada alasan tertentu"
+
+#: ../libempathy/empathy-utils.c:286
+#: ../libempathy/empathy-utils.c:342
+msgid "Status is set to offline"
+msgstr "Status diatur ke luring"
+
+# Kesalahan jaringan?
+#: ../libempathy/empathy-utils.c:288
+#: ../libempathy/empathy-utils.c:322
+#: ../libempathy-gtk/empathy-call-utils.c:49
+msgid "Network error"
+msgstr "Kesalahan jaringan"
+
+#: ../libempathy/empathy-utils.c:290
+#: ../libempathy/empathy-utils.c:324
+msgid "Authentication failed"
+msgstr "Otentikasi gagal"
+
+# Kesalahan penyandian?
+# Saya tetap memakai enkripsi sebagai lawan dari dekripsi (decryption) dengan acuan dari KBBI
+#: ../libempathy/empathy-utils.c:292
+#: ../libempathy/empathy-utils.c:326
+msgid "Encryption error"
+msgstr "Kesalahan enkripsi"
+
+#: ../libempathy/empathy-utils.c:294
+msgid "Name in use"
+msgstr "Nama sedang dipakai"
+
+#: ../libempathy/empathy-utils.c:296
+#: ../libempathy/empathy-utils.c:328
+msgid "Certificate not provided"
+msgstr "Sertifikat tidak disediakan"
+
+#: ../libempathy/empathy-utils.c:298
+#: ../libempathy/empathy-utils.c:330
+msgid "Certificate untrusted"
+msgstr "Sertifikat tidak dipercaya"
+
+#: ../libempathy/empathy-utils.c:300
+#: ../libempathy/empathy-utils.c:332
+msgid "Certificate expired"
+msgstr "Sertifikat kadaluarsa"
+
+#: ../libempathy/empathy-utils.c:302
+#: ../libempathy/empathy-utils.c:334
+msgid "Certificate not activated"
+msgstr "Sertifikat tidak diaktifkan"
+
+#: ../libempathy/empathy-utils.c:304
+#: ../libempathy/empathy-utils.c:336
+msgid "Certificate hostname mismatch"
+msgstr "Nama host sertifikat tidak cocok"
+
+#: ../libempathy/empathy-utils.c:306
+#: ../libempathy/empathy-utils.c:338
+msgid "Certificate fingerprint mismatch"
+msgstr "Sidik jari sertifikat tidak cocok"
+
+#: ../libempathy/empathy-utils.c:308
+#: ../libempathy/empathy-utils.c:340
+msgid "Certificate self-signed"
+msgstr "Sertifikat ditandatangani sendiri"
+
+#: ../libempathy/empathy-utils.c:310
+msgid "Certificate error"
+msgstr "Sertifikat salah"
+
+#: ../libempathy/empathy-utils.c:344
+msgid "Encryption is not available"
+msgstr "Enkripsi tidak tersedia"
+
+#: ../libempathy/empathy-utils.c:346
+msgid "Certificate is invalid"
+msgstr "Sertifikat tak valid"
+
+#: ../libempathy/empathy-utils.c:348
+msgid "Connection has been refused"
+msgstr "Koneksi telah ditolak"
+
+#: ../libempathy/empathy-utils.c:350
+msgid "Connection can't be established"
+msgstr "Koneksi tak dapat dijalin"
+
+#: ../libempathy/empathy-utils.c:352
+msgid "Connection has been lost"
+msgstr "Koneksi telah terputus"
+
+#: ../libempathy/empathy-utils.c:354
+msgid "This resource is already connected to the server"
+msgstr "Sumber daya ini sudah tersambung ke server"
+
+#: ../libempathy/empathy-utils.c:356
+msgid "Connection has been replaced by a new connection using the same resource"
+msgstr "Koneksi telah digantikan oleh koneksi baru memakai sumberdaya yang sama"
+
+#: ../libempathy/empathy-utils.c:359
+msgid "The account already exists on the server"
+msgstr "Akun ini sudah ada di server"
+
+#: ../libempathy/empathy-utils.c:361
+msgid "Server is currently too busy to handle the connection"
+msgstr "Server kini terlalu sibuk untuk menangani koneksi"
+
+#: ../libempathy/empathy-utils.c:363
+msgid "Certificate has been revoked"
+msgstr "Sertifikat telah dicabut"
+
+#: ../libempathy/empathy-utils.c:365
+msgid "Certificate uses an insecure cipher algorithm or is cryptographically weak"
+msgstr "Sertifikat memakai algorima cipher yang tak aman atau lemah secara kriptografi"
+
+#: ../libempathy/empathy-utils.c:368
+msgid "The length of the server certificate, or the depth of the server certificate chain, exceed the limits imposed by the cryptography library"
+msgstr "Panjang sertifikat server, atau kedalaman rantai sertifikat server, melampaui batas yang diberlakukan oleh pustaka kriptografi"
+
+#: ../libempathy/empathy-utils.c:529
+#: ../libempathy-gtk/empathy-contact-list-store.h:73
+msgid "People Nearby"
+msgstr "Orang-orang Berada di Sekitar"
+
+#: ../libempathy/empathy-utils.c:534
+msgid "Yahoo! Japan"
+msgstr "Yahoo! Jepang"
+
+#: ../libempathy/empathy-utils.c:563
+msgid "Google Talk"
+msgstr "Google Talk"
+
+#: ../libempathy/empathy-utils.c:564
+msgid "Facebook Chat"
+msgstr "Obrolan Facebook"
+
+#: ../libempathy/empathy-time.c:88
+#, c-format
+msgid "%d second ago"
+msgid_plural "%d seconds ago"
+msgstr[0] "%d detik yang lalu"
+
+#: ../libempathy/empathy-time.c:93
+#, c-format
+msgid "%d minute ago"
+msgid_plural "%d minutes ago"
+msgstr[0] "%d menit yang lalu"
+
+#: ../libempathy/empathy-time.c:98
+#, c-format
+msgid "%d hour ago"
+msgid_plural "%d hours ago"
+msgstr[0] "%d jam yang lalu "
+
+#: ../libempathy/empathy-time.c:103
+#, c-format
+msgid "%d day ago"
+msgid_plural "%d days ago"
+msgstr[0] "%d hari yang lalu"
+
+#: ../libempathy/empathy-time.c:108
+#, c-format
+msgid "%d week ago"
+msgid_plural "%d weeks ago"
+msgstr[0] "%d minggu yang lalu"
+
+#: ../libempathy/empathy-time.c:113
+#, c-format
+msgid "%d month ago"
+msgid_plural "%d months ago"
+msgstr[0] "%d bulan yang lalu"
+
+#: ../libempathy/empathy-time.c:136
+msgid "in the future"
+msgstr "di masa mendatang"
+
+#: ../libempathy-gtk/empathy-account-chooser.c:540
+msgid "All accounts"
+msgstr "Semua akun"
+
+#: ../libempathy-gtk/empathy-account-widget.c:694
+#: ../src/empathy-import-widget.c:321
+msgid "Account"
+msgstr "Akun"
+
+#: ../libempathy-gtk/empathy-account-widget.c:695
+msgid "Password"
+msgstr "Sandi"
+
+#: ../libempathy-gtk/empathy-account-widget.c:696
+#: ../libempathy-gtk/empathy-irc-network-dialog.c:507
+msgid "Server"
+msgstr "Server"
+
+#: ../libempathy-gtk/empathy-account-widget.c:697
+#: ../libempathy-gtk/empathy-irc-network-dialog.c:522
+msgid "Port"
+msgstr "Porta"
+
+#: ../libempathy-gtk/empathy-account-widget.c:769
+#: ../libempathy-gtk/empathy-account-widget.c:826
+#, c-format
+msgid "%s:"
+msgstr "%s:"
+
+#: ../libempathy-gtk/empathy-account-widget.c:1192
+msgid "My Web Accounts"
+msgstr "Akun Webku"
+
+#: ../libempathy-gtk/empathy-account-widget.c:1208
+#, c-format
+msgid "The account %s is edited via %s."
+msgstr "Akun %s disunting melalui %s."
+
+#: ../libempathy-gtk/empathy-account-widget.c:1214
+#, c-format
+msgid "The account %s cannot be edited in Empathy."
+msgstr "Akun %s tak dapat disunting di Empathy."
+
+#: ../libempathy-gtk/empathy-account-widget.c:1233
+msgid "Launch My Web Accounts"
+msgstr "Luncurkan Akun Webku"
+
+#. general handler
+#: ../libempathy-gtk/empathy-account-widget.c:1241
+#, c-format
+msgid "Edit %s"
+msgstr "Sunting %s"
+
+#: ../libempathy-gtk/empathy-account-widget.c:1591
+#: ../libempathy-gtk/empathy-account-widget-irc.ui.h:11
+msgid "Username:"
+msgstr "Nama pengguna:"
+
+#: ../libempathy-gtk/empathy-account-widget.c:1909
+msgid "A_pply"
+msgstr "Tera_pkan"
+
+#: ../libempathy-gtk/empathy-account-widget.c:1939
+msgid "L_og in"
+msgstr "_Masuk"
+
+#: ../libempathy-gtk/empathy-account-widget.c:2013
+msgid "This account already exists on the server"
+msgstr "Akun ini sudah ada di server"
+
+#: ../libempathy-gtk/empathy-account-widget.c:2016
+msgid "Create a new account on the server"
+msgstr "Buat akun baru pada server"
+
+#: ../libempathy-gtk/empathy-account-widget.c:2208
+msgid "Ca_ncel"
+msgstr "_Batal"
+
+#. To translators: The first parameter is the login id and the
+#. * second one is the network. The resulting string will be something
+#. * like: "MyUserName on freenode".
+#. * You should reverse the order of these arguments if the
+#. * server should come before the login id in your locale.
+#: ../libempathy-gtk/empathy-account-widget.c:2486
+#, c-format
+msgid "%1$s on %2$s"
+msgstr "%1$s pada %2$s"
+
+#. To translators: The parameter is the protocol name. The resulting
+#. * string will be something like: "Jabber Account"
+#: ../libempathy-gtk/empathy-account-widget.c:2512
+#, c-format
+msgid "%s Account"
+msgstr "Akun %s"
+
+#: ../libempathy-gtk/empathy-account-widget.c:2516
+msgid "New account"
+msgstr "Akun baru"
+
+#: ../libempathy-gtk/empathy-account-widget-aim.ui.h:1
+msgid "<b>Example:</b> MyScreenName"
+msgstr "<b>Contoh:</b> NamaLayarSaya"
+
+#: ../libempathy-gtk/empathy-account-widget-aim.ui.h:2
+#: ../libempathy-gtk/empathy-account-widget-generic.ui.h:1
+#: ../libempathy-gtk/empathy-account-widget-groupwise.ui.h:2
+#: ../libempathy-gtk/empathy-account-widget-icq.ui.h:2
+#: ../libempathy-gtk/empathy-account-widget-irc.ui.h:1
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:3
+#: ../libempathy-gtk/empathy-account-widget-msn.ui.h:2
+#: ../libempathy-gtk/empathy-account-widget-local-xmpp.ui.h:1
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:2
+#: ../libempathy-gtk/empathy-account-widget-yahoo.ui.h:2
+msgid "Advanced"
+msgstr "Tingkat Lanjut"
+
+#: ../libempathy-gtk/empathy-account-widget-aim.ui.h:3
+#: ../libempathy-gtk/empathy-account-widget-groupwise.ui.h:4
+#: ../libempathy-gtk/empathy-account-widget-icq.ui.h:5
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:8
+#: ../libempathy-gtk/empathy-account-widget-msn.ui.h:4
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:13
+#: ../libempathy-gtk/empathy-account-widget-yahoo.ui.h:5
+msgid "Pass_word:"
+msgstr "_Sandi:"
+
+#: ../libempathy-gtk/empathy-account-widget-aim.ui.h:4
+#: ../libempathy-gtk/empathy-account-widget-groupwise.ui.h:5
+#: ../libempathy-gtk/empathy-account-widget-icq.ui.h:6
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:10
+#: ../libempathy-gtk/empathy-account-widget-msn.ui.h:5
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:16
+msgid "Remember Password"
+msgstr "Ingat Sandi"
+
+#. remember password ticky box
+#: ../libempathy-gtk/empathy-account-widget-aim.ui.h:5
+#: ../libempathy-gtk/empathy-account-widget-groupwise.ui.h:6
+#: ../libempathy-gtk/empathy-account-widget-icq.ui.h:7
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:11
+#: ../libempathy-gtk/empathy-account-widget-msn.ui.h:6
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:17
+#: ../libempathy-gtk/empathy-account-widget-yahoo.ui.h:6
+#: ../libempathy-gtk/empathy-password-dialog.c:311
+msgid "Remember password"
+msgstr "Ingat sandi"
+
+#: ../libempathy-gtk/empathy-account-widget-aim.ui.h:6
+msgid "Screen _Name:"
+msgstr "_Nama Layar:"
+
+#: ../libempathy-gtk/empathy-account-widget-aim.ui.h:7
+msgid "What is your AIM password?"
+msgstr "Apa sandi AIM Anda?"
+
+#: ../libempathy-gtk/empathy-account-widget-aim.ui.h:8
+msgid "What is your AIM screen name?"
+msgstr "Apa nama layar AIM Anda?"
+
+#: ../libempathy-gtk/empathy-account-widget-aim.ui.h:9
+#: ../libempathy-gtk/empathy-account-widget-groupwise.ui.h:9
+#: ../libempathy-gtk/empathy-account-widget-icq.ui.h:10
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:26
+#: ../libempathy-gtk/empathy-account-widget-msn.ui.h:9
+#: ../libempathy-gtk/empathy-account-widget-yahoo.ui.h:10
+msgid "_Port:"
+msgstr "_Porta:"
+
+#: ../libempathy-gtk/empathy-account-widget-aim.ui.h:10
+#: ../libempathy-gtk/empathy-account-widget-groupwise.ui.h:10
+#: ../libempathy-gtk/empathy-account-widget-icq.ui.h:11
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:27
+#: ../libempathy-gtk/empathy-account-widget-msn.ui.h:10
+#: ../src/empathy-new-chatroom-dialog.ui.h:9
+msgid "_Server:"
+msgstr "_Server:"
+
+#: ../libempathy-gtk/empathy-account-widget-groupwise.ui.h:1
+#: ../libempathy-gtk/empathy-account-widget-yahoo.ui.h:1
+msgid "<b>Example:</b> username"
+msgstr "<b>Contoh:</b> namapengguna"
+
+#: ../libempathy-gtk/empathy-account-widget-groupwise.ui.h:3
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:6
+#: ../libempathy-gtk/empathy-account-widget-msn.ui.h:3
+msgid "Login I_D:"
+msgstr "I_D Masuk:"
+
+#: ../libempathy-gtk/empathy-account-widget-groupwise.ui.h:7
+msgid "What is your GroupWise User ID?"
+msgstr "Apa ID Pengguna GroupWise Anda?"
+
+#: ../libempathy-gtk/empathy-account-widget-groupwise.ui.h:8
+msgid "What is your GroupWise password?"
+msgstr "Apa sandi GroupWise Anda?"
+
+#: ../libempathy-gtk/empathy-account-widget-icq.ui.h:1
+msgid "<b>Example:</b> 123456789"
+msgstr "<b>Contoh:</b> 123456789"
+
+#: ../libempathy-gtk/empathy-account-widget-icq.ui.h:3
+#: ../libempathy-gtk/empathy-account-widget-yahoo.ui.h:3
+msgid "Ch_aracter set:"
+msgstr "Set k_arakter:"
+
+#: ../libempathy-gtk/empathy-account-widget-icq.ui.h:4
+msgid "ICQ _UIN:"
+msgstr "_UIN ICQ:"
+
+#: ../libempathy-gtk/empathy-account-widget-icq.ui.h:8
+msgid "What is your ICQ UIN?"
+msgstr "Apa UIN ICQ Anda?"
+
+#: ../libempathy-gtk/empathy-account-widget-icq.ui.h:9
+msgid "What is your ICQ password?"
+msgstr "Apa sandi ICQ Anda?"
+
+#: ../libempathy-gtk/empathy-account-widget-sip.c:206
+#: ../libempathy-gtk/empathy-account-widget-sip.c:239
+msgid "Auto"
+msgstr "Otomatis"
+
+#: ../libempathy-gtk/empathy-account-widget-sip.c:209
+msgid "UDP"
+msgstr "UDP"
+
+#: ../libempathy-gtk/empathy-account-widget-sip.c:212
+msgid "TCP"
+msgstr "TCP"
+
+#: ../libempathy-gtk/empathy-account-widget-sip.c:215
+msgid "TLS"
+msgstr "TLS"
+
+#. translators: this string is very specific to SIP's internal; maybe
+#. * best to keep the English version.
+#: ../libempathy-gtk/empathy-account-widget-sip.c:244
+msgid "Register"
+msgstr "Register"
+
+#. translators: this string is very specific to SIP's internal; maybe
+#. * best to keep the English version.
+#: ../libempathy-gtk/empathy-account-widget-sip.c:249
+msgid "Options"
+msgstr "Pilihan"
+
+#: ../libempathy-gtk/empathy-account-widget-sip.c:252
+msgid "None"
+msgstr "Tidak ada"
+
+#: ../libempathy-gtk/empathy-account-widget-irc.ui.h:2
+msgid "Character set:"
+msgstr "Himpunan karakter:"
+
+#: ../libempathy-gtk/empathy-account-widget-irc.ui.h:3
+msgid "Most IRC servers don't need a password, so if you're not sure, don't enter a password."
+msgstr "Kebanyakan server IRC tak memerlukan sandi, maka jika Anda tak yakin, jangan masukkan sandi."
+
+#: ../libempathy-gtk/empathy-account-widget-irc.ui.h:4
+msgid "Network"
+msgstr "Jaringan"
+
+#: ../libempathy-gtk/empathy-account-widget-irc.ui.h:5
+msgid "Network:"
+msgstr "Jaringan:"
+
+#: ../libempathy-gtk/empathy-account-widget-irc.ui.h:6
+msgid "Nickname:"
+msgstr "Panggilan:"
+
+#: ../libempathy-gtk/empathy-account-widget-irc.ui.h:7
+msgid "Password:"
+msgstr "Sandi:"
+
+#: ../libempathy-gtk/empathy-account-widget-irc.ui.h:8
+msgid "Quit message:"
+msgstr "Pesan keluar:"
+
+#: ../libempathy-gtk/empathy-account-widget-irc.ui.h:9
+msgid "Real name:"
+msgstr "Nama asli:"
+
+#: ../libempathy-gtk/empathy-account-widget-irc.ui.h:10
+msgid "Servers"
+msgstr "Server"
+
+#: ../libempathy-gtk/empathy-account-widget-irc.ui.h:12
+msgid "What is your IRC nickname?"
+msgstr "Apa nama panggilan IRC Anda?"
+
+#: ../libempathy-gtk/empathy-account-widget-irc.ui.h:13
+msgid "Which IRC network?"
+msgstr "Jaringan IRC yang mana?"
+
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:1
+msgid "<b>Example:</b> user@gmail.com"
+msgstr "<b>Contoh:</b> user@gmail.com"
+
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:2
+msgid "<b>Example:</b> user@jabber.org"
+msgstr "<b>Contoh:</b> user@jabber.org"
+
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:4
+msgid "Encr_yption required (TLS/SSL)"
+msgstr "_Enkripsi diperlukan (TLS/SSL)"
+
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:5
+msgid "I_gnore SSL certificate errors"
+msgstr "Abaikan _galat pada sertifikat SSL"
+
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:7
+msgid "Override server settings"
+msgstr "Timpa pengaturan server"
+
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:9
+msgid "Priori_ty:"
+msgstr "Priori_tas:"
+
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:12
+msgid "Reso_urce:"
+msgstr "S_umber:"
+
+#. This string is not wrapped in the dialog so you may have to add some '\n' to make it look nice.
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:14
+msgid ""
+"This is your username, not your normal Facebook login.\n"
+"If you are facebook.com/<b>badger</b>, enter <b>badger</b>.\n"
+"Use <a href=\"http://www.facebook.com/username/\">this page</a> to choose a Facebook username if you don't have one."
+msgstr ""
+"Ini adalah nama pengguna Anda, bukan akun masuk Facebook Anda secara normal.\n"
+"Jika Anda facebook.com/<b>badger</b>, masukkan <b>badger</b>.\n"
+"Gunakan <a href=\"http://www.facebook.com/username/\">halaman ini</a> untuk memilih nama pengguna Facebook jika Anda belum memiliki."
+
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:17
+msgid "Use old SS_L"
+msgstr "Gunakan SS_L lama"
+
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:18
+msgid "What is your Facebook password?"
+msgstr "Apakah sandi Facebook Anda?"
+
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:19
+msgid "What is your Facebook username?"
+msgstr "Apakah nama pengguna Facebook Anda?"
+
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:20
+msgid "What is your Google ID?"
+msgstr "Apa ID Google Anda?"
+
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:21
+msgid "What is your Google password?"
+msgstr "Apa sandi Google Anda?"
+
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:22
+msgid "What is your Jabber ID?"
+msgstr "Apa ID Jabber Anda?"
+
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:23
+msgid "What is your Jabber password?"
+msgstr "Apa sandi Jabber Anda?"
+
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:24
+msgid "What is your desired Jabber ID?"
+msgstr "Apa ID Jabber yang Anda inginkan?"
+
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:25
+msgid "What is your desired Jabber password?"
+msgstr "Apa sandi Jabber yang Anda inginkan?"
+
+#: ../libempathy-gtk/empathy-account-widget-msn.ui.h:1
+msgid "<b>Example:</b> user@hotmail.com"
+msgstr "<b>Contoh:</b> user@hotmail.com"
+
+#: ../libempathy-gtk/empathy-account-widget-msn.ui.h:7
+msgid "What is your Windows Live ID?"
+msgstr "Apakah ID Windows Live Anda?"
+
+#: ../libempathy-gtk/empathy-account-widget-msn.ui.h:8
+msgid "What is your Windows Live password?"
+msgstr "Apa sandi Windows Live Anda?"
+
+#: ../libempathy-gtk/empathy-account-widget-local-xmpp.ui.h:2
+msgid "E-_mail address:"
+msgstr "Alamat surel:"
+
+#: ../libempathy-gtk/empathy-account-widget-local-xmpp.ui.h:3
+msgid "Nic_kname:"
+msgstr "Nama pan_ggilan:"
+
+#: ../libempathy-gtk/empathy-account-widget-local-xmpp.ui.h:4
+msgid "_First Name:"
+msgstr "Nama _Depan:"
+
+#: ../libempathy-gtk/empathy-account-widget-local-xmpp.ui.h:5
+msgid "_Jabber ID:"
+msgstr "ID _Jabber:"
+
+#: ../libempathy-gtk/empathy-account-widget-local-xmpp.ui.h:6
+msgid "_Last Name:"
+msgstr "Nama Be_lakang:"
+
+#: ../libempathy-gtk/empathy-account-widget-local-xmpp.ui.h:7
+msgid "_Published Name:"
+msgstr "Nama _Publik:"
+
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:1
+msgid "<b>Example:</b> user@my.sip.server"
+msgstr "<b>Contoh:</b> user@my.sip.server"
+
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:3
+msgid "Authentication username:"
+msgstr "Otentikasi nama pengguna:"
+
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:4
+msgid "Discover Binding"
+msgstr "Temukan Ikatan"
+
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:5
+msgid "Discover the STUN server automatically"
+msgstr "Temukan server STUN secara otomatis"
+
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:6
+msgid "Ignore TLS Errors"
+msgstr "Abaikan Galat TLS"
+
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:7
+msgid "Interval (seconds)"
+msgstr "Interval (detik)"
+
+# keep alive = jaga tetap hidup
+# barangkali ada yang lebih pendek?
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:8
+msgid "Keep-Alive Options"
+msgstr "Pilihan Jaga-Tetap-Hidup"
+
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:9
+msgid "Loose Routing"
+msgstr "Routing Santai"
+
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:10
+msgid "Mechanism:"
+msgstr "Mekanisme:"
+
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:11
+msgid "Miscellaneous Options"
+msgstr "Pilihan Lain-lain"
+
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:12
+msgid "NAT Traversal Options"
+msgstr "Pilihan Traversal NAT"
+
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:14
+msgid "Port:"
+msgstr "Porta:"
+
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:15
+msgid "Proxy Options"
+msgstr "Pilihan Proxy"
+
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:18
+msgid "STUN Server:"
+msgstr "Server STUN:"
+
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:19
+#: ../libempathy-gtk/empathy-contact-widget.c:347
+msgid "Server:"
+msgstr "Server:"
+
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:20
+msgid "Transport:"
+msgstr "Transportasi:"
+
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:21
+msgid "Use this account to call _landlines and mobile phones"
+msgstr "Gunakan akun ini untuk memanggi_l telepon tetap dan seluler"
+
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:22
+msgid "What is your SIP account password?"
+msgstr "Apa sandi akun SIP Anda?"
+
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:23
+msgid "What is your SIP login ID?"
+msgstr "Apa ID masuk SIP Anda?"
+
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:24
+msgid "_Username:"
+msgstr "Nama pengg_una:"
+
+#: ../libempathy-gtk/empathy-account-widget-yahoo.ui.h:4
+msgid "I_gnore conference and chat room invitations"
+msgstr "Aba_ikan undangan konferensi dan ruang mengobrol"
+
+#: ../libempathy-gtk/empathy-account-widget-yahoo.ui.h:7
+msgid "What is your Yahoo! ID?"
+msgstr "Apakah ID Yahoo! Anda?"
+
+#: ../libempathy-gtk/empathy-account-widget-yahoo.ui.h:8
+msgid "What is your Yahoo! password?"
+msgstr "Apa sandi Yahoo! Anda?"
+
+#: ../libempathy-gtk/empathy-account-widget-yahoo.ui.h:9
+msgid "Yahoo! I_D:"
+msgstr "I_D Yahoo!:"
+
+#: ../libempathy-gtk/empathy-account-widget-yahoo.ui.h:11
+msgid "_Room List locale:"
+msgstr "Daftar _Ruang lokal:"
+
+#: ../libempathy-gtk/empathy-avatar-chooser.c:471
+#: ../libempathy-gtk/empathy-avatar-chooser.c:556
+msgid "Couldn't convert image"
+msgstr "Tidak dapat mengubah gambar"
+
+#: ../libempathy-gtk/empathy-avatar-chooser.c:472
+msgid "None of the accepted image formats are supported on your system"
+msgstr "Tidak ada dari format gambar yang diterima, didukung pada sistem Anda"
+
+#: ../libempathy-gtk/empathy-avatar-chooser.c:819
+msgid "Couldn't save picture to file"
+msgstr "Tak bisa menyimpan gambar ke berkas"
+
+#: ../libempathy-gtk/empathy-avatar-chooser.c:939
+msgid "Select Your Avatar Image"
+msgstr "Pilih Gambar Avatar Anda"
+
+#: ../libempathy-gtk/empathy-avatar-chooser.c:947
+msgid "Take a picture..."
+msgstr "Ambil gambar..."
+
+#: ../libempathy-gtk/empathy-avatar-chooser.c:960
+msgid "No Image"
+msgstr "Tidak Ada Gambar"
+
+#: ../libempathy-gtk/empathy-avatar-chooser.c:1017
+msgid "Images"
+msgstr "Gambar"
+
+#: ../libempathy-gtk/empathy-avatar-chooser.c:1021
+msgid "All Files"
+msgstr "Semua File"
+
+#: ../libempathy-gtk/empathy-avatar-image.c:322
+msgid "Click to enlarge"
+msgstr "Klik untuk memperbesar"
+
+#: ../libempathy-gtk/empathy-call-utils.c:44
+#: ../libempathy-gtk/empathy-call-utils.c:60
+msgid "There was an error starting the call"
+msgstr "Ada galat saat memulai panggilan"
+
+#: ../libempathy-gtk/empathy-call-utils.c:51
+msgid "The specified contact doesn't support calls"
+msgstr "Kontak yang dinyatakan tak mendukung panggilan"
+
+#: ../libempathy-gtk/empathy-call-utils.c:53
+msgid "The specified contact is offline"
+msgstr "Kontak yang dinyatakan sedang luring"
+
+#: ../libempathy-gtk/empathy-call-utils.c:55
+msgid "The specified contact is not valid"
+msgstr "Kontak yang dinyatakan tak valid"
+
+#: ../libempathy-gtk/empathy-call-utils.c:57
+msgid "Emergency calls are not supported on this protocol"
+msgstr "Panggilan darurat tak didukung protokol ini"
+
+#: ../libempathy-gtk/empathy-chat.c:704
+msgid "Failed to open private chat"
+msgstr "Gagal membuka obrolan pribadi"
+
+#: ../libempathy-gtk/empathy-chat.c:765
+msgid "Topic not supported on this conversation"
+msgstr "Topik tidak didukung pada percakapan ini"
+
+#: ../libempathy-gtk/empathy-chat.c:771
+msgid "You are not allowed to change the topic"
+msgstr "Anda tidak diperbolehkan untuk mengubah topik"
+
+#: ../libempathy-gtk/empathy-chat.c:975
+#, c-format
+msgid "“%s” is not a valid contact ID"
+msgstr "\"%s\" bukan ID kontak yang valid"
+
+#: ../libempathy-gtk/empathy-chat.c:1060
+msgid "/clear: clear all messages from the current conversation"
+msgstr "/clear: menghapus semua pesan dari percakapan aktif saat ini"
+
+#: ../libempathy-gtk/empathy-chat.c:1063
+msgid "/topic <topic>: set the topic of the current conversation"
+msgstr "/topic <topik> : Mengatur topik percakapan aktif saat itu"
+
+#: ../libempathy-gtk/empathy-chat.c:1066
+msgid "/join <chat room ID>: join a new chat room"
+msgstr "/join <ID ruang mengobrol>: Bergabung dengan ruang mengbrol baru"
+
+#: ../libempathy-gtk/empathy-chat.c:1069
+msgid "/j <chat room ID>: join a new chat room"
+msgstr "/j <ID ruang mengobrol>: Bergabung dengan ruang mengobrol baru"
+
+#: ../libempathy-gtk/empathy-chat.c:1073
+msgid "/part [<chat room ID>] [<reason>]: leave the chat room, by default the current one"
+msgstr "/part [<ID ruang obrolan>][<alasan>]: meninggalkan ruang obrolan, secara baku yang sedang aktif"
+
+#: ../libempathy-gtk/empathy-chat.c:1077
+msgid "/query <contact ID> [<message>]: open a private chat"
+msgstr "/query <ID kontak> [<pesan>]: Membuka obrolan pribadi"
+
+#: ../libempathy-gtk/empathy-chat.c:1080
+msgid "/msg <contact ID> <message>: open a private chat"
+msgstr "/msg <ID kontak><pesan>: Membuka obrolan pribadi"
+
+#: ../libempathy-gtk/empathy-chat.c:1083
+msgid "/nick <nickname>: change your nickname on the current server"
+msgstr "/nick <nama panggilan>: Mengubah nama panggilan Anda pada server saat ini"
+
+#: ../libempathy-gtk/empathy-chat.c:1086
+msgid "/me <message>: send an ACTION message to the current conversation"
+msgstr "/me <pesan>: Mengirim pesan TINDAKAN untuk percakapan aktif saat itu"
+
+#: ../libempathy-gtk/empathy-chat.c:1089
+msgid "/say <message>: send <message> to the current conversation. This is used to send a message starting with a '/'. For example: \"/say /join is used to join a new chat room\""
+msgstr "/say <pesan>: Mengirim <pesan> pada percakapan aktif saat itu. Ini digunakan untuk mengirim pesan yang dimulai dengan sebuah '/'. Sebagai contoh: \"/say /join digunakan untuk bergabung dalam ruang mengobrol baru\""
+
+#: ../libempathy-gtk/empathy-chat.c:1094
+msgid "/whois <contact ID>: display information about a contact"
+msgstr "/whois <ID kontak>: menampilkan informasi tentang kontak"
+
+#: ../libempathy-gtk/empathy-chat.c:1097
+msgid "/help [<command>]: show all supported commands. If <command> is defined, show its usage."
+msgstr "/help [<perintah>]: Menampilkan semua perintah yang didukung. Jika <perintah> didefinisikan, menunjukkan cara penggunaannya."
+
+#: ../libempathy-gtk/empathy-chat.c:1114
+#, c-format
+msgid "Usage: %s"
+msgstr "Penggunaan: %s"
+
+#: ../libempathy-gtk/empathy-chat.c:1159
+msgid "Unknown command"
+msgstr "Perintah tidak dikenal"
+
+#: ../libempathy-gtk/empathy-chat.c:1285
+msgid "Unknown command; see /help for the available commands"
+msgstr "Perintah tak dikenal; lihat /help untuk perintah yang tersedia"
+
+#. translators: error used when user doesn't have enough credit on his
+#. * account to send the message.
+#: ../libempathy-gtk/empathy-chat.c:1455
+msgid "insufficient balance to send message"
+msgstr "tak cukup kredit untuk mengirim pesan"
+
+#: ../libempathy-gtk/empathy-chat.c:1457
+msgid "not capable"
+msgstr "tak mampu"
+
+#: ../libempathy-gtk/empathy-chat.c:1464
+msgid "offline"
+msgstr "luring"
+
+#: ../libempathy-gtk/empathy-chat.c:1467
+msgid "invalid contact"
+msgstr "kontak tidak valid"
+
+#: ../libempathy-gtk/empathy-chat.c:1470
+msgid "permission denied"
+msgstr "ijin ditolak"
+
+#: ../libempathy-gtk/empathy-chat.c:1473
+msgid "too long message"
+msgstr "pesan terlalu panjang"
+
+#: ../libempathy-gtk/empathy-chat.c:1476
+msgid "not implemented"
+msgstr "tidak dilaksanakan"
+
+#: ../libempathy-gtk/empathy-chat.c:1480
+msgid "unknown"
+msgstr "tidak diketahui"
+
+#: ../libempathy-gtk/empathy-chat.c:1486
+#, c-format
+msgid "Error sending message '%s': %s"
+msgstr "Kesalahan pengiriman pesan '%s':%s"
+
+#: ../libempathy-gtk/empathy-chat.c:1490
+#, c-format
+msgid "Error sending message: %s"
+msgstr "Galat saat mengirim pesan: %s"
+
+#: ../libempathy-gtk/empathy-chat.c:1551
+#: ../src/empathy-chat-window.c:761
+msgid "Topic:"
+msgstr "Topik:"
+
+#: ../libempathy-gtk/empathy-chat.c:1563
+#, c-format
+msgid "Topic set to: %s"
+msgstr "Topik diatur ke: %s"
+
+#: ../libempathy-gtk/empathy-chat.c:1565
+msgid "No topic defined"
+msgstr "Tidak ada topik didefinisikan"
+
+#: ../libempathy-gtk/empathy-chat.c:2074
+msgid "(No Suggestions)"
+msgstr "(Tidak Ada Saran)"
+
+#. translators: %s is the selected word
+#: ../libempathy-gtk/empathy-chat.c:2142
+#, c-format
+msgid "Add '%s' to Dictionary"
+msgstr "Tambahkan '%s' ke Kamus"
+
+#. translators: first %s is the selected word,
+#. * second %s is the language name of the target dictionary
+#: ../libempathy-gtk/empathy-chat.c:2179
+#, c-format
+msgid "Add '%s' to %s Dictionary"
+msgstr "Tambahkan '%s' ke Kamus %s"
+
+#: ../libempathy-gtk/empathy-chat.c:2249
+msgid "Insert Smiley"
+msgstr "Sisipkan Smiley"
+
+#. send button
+#: ../libempathy-gtk/empathy-chat.c:2267
+#: ../libempathy-gtk/empathy-ui-utils.c:1839
+msgid "_Send"
+msgstr "_Kirim"
+
+#. Spelling suggestions
+#: ../libempathy-gtk/empathy-chat.c:2321
+msgid "_Spelling Suggestions"
+msgstr "_Saran Ejaan"
+
+#: ../libempathy-gtk/empathy-chat.c:2410
+msgid "Failed to retrieve recent logs"
+msgstr "Gagal mengambil catatan terbaru"
+
+#: ../libempathy-gtk/empathy-chat.c:2547
+#, c-format
+msgid "%s has disconnected"
+msgstr "%s telah terputus"
+
+#. translators: reverse the order of these arguments
+#. * if the kicked should come before the kicker in your locale.
+#.
+#: ../libempathy-gtk/empathy-chat.c:2554
+#, c-format
+msgid "%1$s was kicked by %2$s"
+msgstr "%1$s ditendang oleh %2$s"
+
+#: ../libempathy-gtk/empathy-chat.c:2557
+#, c-format
+msgid "%s was kicked"
+msgstr "%s ditendang"
+
+#. translators: reverse the order of these arguments
+#. * if the banned should come before the banner in your locale.
+#.
+#: ../libempathy-gtk/empathy-chat.c:2565
+#, c-format
+msgid "%1$s was banned by %2$s"
+msgstr "%1$s dilarang oleh %2$s"
+
+#: ../libempathy-gtk/empathy-chat.c:2568
+#, c-format
+msgid "%s was banned"
+msgstr "%s dilarang"
+
+#: ../libempathy-gtk/empathy-chat.c:2572
+#, c-format
+msgid "%s has left the room"
+msgstr "%s telah meninggalkan ruangan"
+
+#. Note to translators: this string is appended to
+#. * notifications like "foo has left the room", with the message
+#. * given by the user living the room. If this poses a problem,
+#. * please let us know. :-)
+#.
+#: ../libempathy-gtk/empathy-chat.c:2581
+#, c-format
+msgid " (%s)"
+msgstr " (%s)"
+
+#: ../libempathy-gtk/empathy-chat.c:2606
+#, c-format
+msgid "%s has joined the room"
+msgstr "%s telah bergabung dengan ruangan"
+
+#: ../libempathy-gtk/empathy-chat.c:2631
+#, c-format
+msgid "%s is now known as %s"
+msgstr "%s sekarang dikenal sebagai %s"
+
+#. We don't know if the incoming call has been accepted or not, so we
+#. * assume it hasn't and if it has, we'll set the proper status when
+#. * we get the new handler.
+#: ../libempathy-gtk/empathy-chat.c:2784
+#: ../src/empathy-streamed-media-window.c:1894
+#: ../src/empathy-event-manager.c:1240
+#: ../src/empathy-call-window.c:1432
+#: ../src/empathy-call-window.c:1482
+#: ../src/empathy-call-window.c:2527
+msgid "Disconnected"
+msgstr "Terputus"
+
+#. Add message
+#: ../libempathy-gtk/empathy-chat.c:3428
+msgid "Would you like to store this password?"
+msgstr "Apakah Anda ingin menyimpan sandi ini?"
+
+#: ../libempathy-gtk/empathy-chat.c:3434
+msgid "Remember"
+msgstr "Ingat"
+
+#: ../libempathy-gtk/empathy-chat.c:3444
+msgid "Not now"
+msgstr "Jangan sekarang"
+
+#: ../libempathy-gtk/empathy-chat.c:3488
+msgid "Retry"
+msgstr "Mencoba kembali"
+
+#: ../libempathy-gtk/empathy-chat.c:3492
+msgid "Wrong password; please try again:"
+msgstr "Sandi salah, coba lagi:"
+
+#. Add message
+#: ../libempathy-gtk/empathy-chat.c:3622
+msgid "This room is protected by a password:"
+msgstr "Ruangan ini dilindungi oleh sandi:"
+
+#: ../libempathy-gtk/empathy-chat.c:3649
+msgid "Join"
+msgstr "Gabung"
+
+#: ../libempathy-gtk/empathy-chat.c:3851
+#: ../src/empathy-event-manager.c:1261
+msgid "Connected"
+msgstr "Terhubung"
+
+#: ../libempathy-gtk/empathy-chat.c:3906
+msgid "Conversation"
+msgstr "Percakapan"
+
+#. Translators: this string is a something like
+#. * "Escher Cat (SMS)"
+#: ../libempathy-gtk/empathy-chat.c:3911
+#, c-format
+msgid "%s (SMS)"
+msgstr "%s (SMS)"
+
+#: ../libempathy-gtk/empathy-contact-blocking-dialog.c:424
+msgid "Unknown or invalid identifier"
+msgstr "Identifier tak dikenal atau tak valid"
+
+#: ../libempathy-gtk/empathy-contact-blocking-dialog.c:426
+msgid "Contact blocking temporarily unavailable"
+msgstr "Pemblokiran kontak sementara tak tersedia"
+
+#: ../libempathy-gtk/empathy-contact-blocking-dialog.c:428
+msgid "Contact blocking unavailable"
+msgstr "Blokir kontak tak tersedia"
+
+#: ../libempathy-gtk/empathy-contact-blocking-dialog.c:430
+msgid "Permission Denied"
+msgstr "Ijin Ditolak"
+
+#: ../libempathy-gtk/empathy-contact-blocking-dialog.c:434
+msgid "Could not block contact"
+msgstr "Tak bisa memblokir kontak"
+
+#: ../libempathy-gtk/empathy-contact-blocking-dialog.c:774
+msgid "Edit Blocked Contacts"
+msgstr "Sunting Kontak Yang Diblokir"
+
+#. Account and Identifier
+#: ../libempathy-gtk/empathy-contact-blocking-dialog.ui.h:1
+#: ../libempathy-gtk/empathy-contact-search-dialog.c:512
+#: ../libempathy-gtk/empathy-contact-widget.ui.h:2
+#: ../libempathy-gtk/empathy-individual-widget.c:1489
+#: ../libempathy-gtk/empathy-contact-selector-dialog.ui.h:1
+#: ../src/empathy-chatrooms-window.ui.h:1
+#: ../src/empathy-new-chatroom-dialog.ui.h:1
+msgid "Account:"
+msgstr "Akun:"
+
+#: ../libempathy-gtk/empathy-contact-blocking-dialog.ui.h:2
+msgid "Blocked Contacts"
+msgstr "Kontak Yang Diblokir"
+
+#: ../libempathy-gtk/empathy-contact-blocking-dialog.ui.h:3
+#: ../libempathy-gtk/empathy-status-preset-dialog.ui.h:1
+#: ../src/empathy-accounts-dialog.ui.h:5
+#: ../src/empathy-chatrooms-window.ui.h:3
+msgid "Remove"
+msgstr "Buang"
+
+#. Copy Link Address menu item
+#: ../libempathy-gtk/empathy-chat-text-view.c:320
+#: ../libempathy-gtk/empathy-webkit-utils.c:277
+msgid "_Copy Link Address"
+msgstr "Salin Alamat _Tautan"
+
+#. Open Link menu item
+#: ../libempathy-gtk/empathy-chat-text-view.c:327
+#: ../libempathy-gtk/empathy-webkit-utils.c:284
+msgid "_Open Link"
+msgstr "_Buka Tautan"
+
+# %A %d %B %Y?
+#. Translators: timestamp displayed between conversations in
+#. * chat windows (strftime format string)
+#: ../libempathy-gtk/empathy-chat-text-view.c:415
+msgid "%A %B %d %Y"
+msgstr "%A %d %B %Y"
+
+#: ../libempathy-gtk/empathy-contact-dialogs.c:299
+#: ../libempathy-gtk/empathy-individual-edit-dialog.c:247
+msgid "Edit Contact Information"
+msgstr "Edit Informasi Kontak"
+
+#: ../libempathy-gtk/empathy-contact-dialogs.c:350
+msgid "Personal Information"
+msgstr "Informasi Pribadi"
+
+#: ../libempathy-gtk/empathy-contact-dialogs.c:459
+#: ../libempathy-gtk/empathy-individual-dialogs.c:119
+msgid "New Contact"
+msgstr "Kontak Baru"
+
+#: ../libempathy-gtk/empathy-contact-dialogs.c:533
+#: ../libempathy-gtk/empathy-individual-dialogs.c:200
+#, c-format
+msgid "Block %s?"
+msgstr "Blok %s?"
+
+#: ../libempathy-gtk/empathy-contact-dialogs.c:538
+#: ../libempathy-gtk/empathy-individual-dialogs.c:255
+#, c-format
+msgid "Are you sure you want to block '%s' from contacting you again?"
+msgstr "Anda yakin ingin memblokir '%s' agar tak bisa menghubungi Anda lagi?"
+
+#: ../libempathy-gtk/empathy-contact-dialogs.c:543
+#: ../libempathy-gtk/empathy-individual-dialogs.c:277
+msgid "_Block"
+msgstr "_Blok"
+
+#: ../libempathy-gtk/empathy-contact-dialogs.c:559
+#: ../libempathy-gtk/empathy-individual-dialogs.c:286
+msgid "_Report this contact as abusive"
+msgid_plural "_Report these contacts as abusive"
+msgstr[0] "Lapo_rkan kontak ini sebagai abusif?"
+
+#: ../libempathy-gtk/empathy-contact-dialogs.ui.h:1
+msgid "Decide _Later"
+msgstr "Putuskan _Nanti"
+
+#: ../libempathy-gtk/empathy-contact-dialogs.ui.h:2
+msgid "Subscription Request"
+msgstr "Permintaan Berlangganan"
+
+#: ../libempathy-gtk/empathy-contact-dialogs.ui.h:3
+msgid "_Block User"
+msgstr "_Blok Pengguna"
+
+#: ../libempathy-gtk/empathy-contact-list-store.h:71
+msgid "Ungrouped"
+msgstr "Tak dikelompokkan"
+
+#: ../libempathy-gtk/empathy-contact-list-store.h:72
+msgid "Favorite People"
+msgstr "Orang Favorit"
+
+#: ../libempathy-gtk/empathy-contact-list-view.c:1986
+#: ../libempathy-gtk/empathy-individual-view.c:2376
+#, c-format
+msgid "Do you really want to remove the group '%s'?"
+msgstr "Apakah Anda benar-benar ingin menghapus grup '%s'?"
+
+#: ../libempathy-gtk/empathy-contact-list-view.c:1988
+#: ../libempathy-gtk/empathy-individual-view.c:2379
+msgid "Removing group"
+msgstr "Menghapus grup"
+
+#. Remove
+#: ../libempathy-gtk/empathy-contact-list-view.c:2037
+#: ../libempathy-gtk/empathy-contact-list-view.c:2114
+#: ../libempathy-gtk/empathy-individual-view.c:2434
+#: ../libempathy-gtk/empathy-individual-view.c:2637
+msgid "_Remove"
+msgstr "_Hapus"
+
+#: ../libempathy-gtk/empathy-contact-list-view.c:2067
+#: ../libempathy-gtk/empathy-individual-view.c:2501
+#, c-format
+msgid "Do you really want to remove the contact '%s'?"
+msgstr "Apakah Anda benar-benar ingin menghapus kontak '%s'?"
+
+#: ../libempathy-gtk/empathy-contact-list-view.c:2069
+#: ../libempathy-gtk/empathy-individual-view.c:2522
+msgid "Removing contact"
+msgstr "Menghapus kontak"
+
+#: ../libempathy-gtk/empathy-contact-menu.c:220
+#: ../src/empathy-main-window-menubar.ui.h:14
+msgid "_Add Contact…"
+msgstr "T_ambah Kontak..."
+
+#: ../libempathy-gtk/empathy-contact-menu.c:300
+msgid "_Block Contact"
+msgstr "_Blok Kontak"
+
+#: ../libempathy-gtk/empathy-contact-menu.c:329
+#: ../libempathy-gtk/empathy-individual-menu.c:758
+#: ../src/empathy-main-window-menubar.ui.h:16
+msgid "_Chat"
+msgstr "_Obrolan"
+
+#: ../libempathy-gtk/empathy-contact-menu.c:361
+#: ../libempathy-gtk/empathy-individual-menu.c:849
+msgctxt "menu item"
+msgid "_Audio Call"
+msgstr "_Panggilan Suar_a"
+
+#: ../libempathy-gtk/empathy-contact-menu.c:394
+#: ../libempathy-gtk/empathy-individual-menu.c:894
+msgctxt "menu item"
+msgid "_Video Call"
+msgstr "Panggilan _Video"
+
+#: ../libempathy-gtk/empathy-contact-menu.c:440
+#: ../libempathy-gtk/empathy-individual-menu.c:947
+#: ../src/empathy-main-window-menubar.ui.h:27
+msgid "_Previous Conversations"
+msgstr "_Percakapan Sebelumnya"
+
+#: ../libempathy-gtk/empathy-contact-menu.c:462
+#: ../libempathy-gtk/empathy-individual-menu.c:988
+msgid "Send File"
+msgstr "Kirim Berkas"
+
+#: ../libempathy-gtk/empathy-contact-menu.c:485
+#: ../libempathy-gtk/empathy-individual-menu.c:1030
+msgid "Share My Desktop"
+msgstr "Berbagi Desktop Saya"
+
+#: ../libempathy-gtk/empathy-contact-menu.c:525
+#: ../libempathy-gtk/empathy-contact-widget.c:1886
+#: ../libempathy-gtk/empathy-individual-menu.c:1065
+#: ../libempathy-gtk/empathy-individual-widget.c:1372
+msgid "Favorite"
+msgstr "Favorit"
+
+#: ../libempathy-gtk/empathy-contact-menu.c:554
+#: ../libempathy-gtk/empathy-individual-menu.c:1093
+msgid "Infor_mation"
+msgstr "Infor_masi"
+
+#: ../libempathy-gtk/empathy-contact-menu.c:600
+msgctxt "Edit contact (contextual menu)"
+msgid "_Edit"
+msgstr "_Edit"
+
+#: ../libempathy-gtk/empathy-contact-menu.c:654
+#: ../libempathy-gtk/empathy-individual-menu.c:1284
+#: ../src/empathy-chat-window.c:1011
+msgid "Inviting you to this room"
+msgstr "Mengundang Anda ke ruangan ini"
+
+#: ../libempathy-gtk/empathy-contact-menu.c:685
+#: ../libempathy-gtk/empathy-individual-menu.c:1330
+msgid "_Invite to Chat Room"
+msgstr "_Undang ke Ruang Mengobrol"
+
+#. Title
+#: ../libempathy-gtk/empathy-contact-search-dialog.c:505
+msgid "Search contacts"
+msgstr "Cari kontak"
+
+#: ../libempathy-gtk/empathy-contact-search-dialog.c:535
+msgid "Search: "
+msgstr "Cari:"
+
+#: ../libempathy-gtk/empathy-contact-search-dialog.c:593
+msgid "_Add Contact"
+msgstr "T_ambah Kontak"
+
+#: ../libempathy-gtk/empathy-contact-search-dialog.c:611
+msgid "No contacts found"
+msgstr "Kontak tak ditemukan"
+
+#: ../libempathy-gtk/empathy-contact-search-dialog.c:627
+msgid "Your message introducing yourself:"
+msgstr "Pesan perkenalan diri Anda:"
+
+#: ../libempathy-gtk/empathy-contact-search-dialog.c:635
+msgid "Please let me see when you're online. Thanks!"
+msgstr "Mohon ijinkan saya melihat ketika Anda daring. Terima kasih!"
+
+#: ../libempathy-gtk/empathy-contact-selector.c:129
+msgid "Select a contact"
+msgstr "Pilih kontak"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:336
+#: ../libempathy-gtk/empathy-individual-widget.c:153
+msgid "Full name:"
+msgstr "Nama lengkap:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:337
+#: ../libempathy-gtk/empathy-individual-widget.c:154
+msgid "Phone number:"
+msgstr "Nomor telepon:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:338
+#: ../libempathy-gtk/empathy-individual-widget.c:155
+msgid "E-mail address:"
+msgstr "Alamat Surel:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:339
+#: ../libempathy-gtk/empathy-individual-widget.c:156
+msgid "Website:"
+msgstr "Situs web:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:340
+#: ../libempathy-gtk/empathy-individual-widget.c:157
+msgid "Birthday:"
+msgstr "Tanggal Lahir:"
+
+#. Note to translators: this is the caption for a string of the form "5
+#. * minutes ago", and refers to the time since the contact last interacted
+#. * with their IM client.
+#.
+#: ../libempathy-gtk/empathy-contact-widget.c:346
+msgid "Last seen:"
+msgstr "Terakhir terlihat:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:348
+msgid "Connected from:"
+msgstr "Tersambung dari:"
+
+#. FIXME: once Idle implements SimplePresence using this information, we can
+#. * and should bin this.
+#.
+#: ../libempathy-gtk/empathy-contact-widget.c:353
+msgid "Away message:"
+msgstr "Pesan pergi:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:606
+msgid "Channels:"
+msgstr "Kanal:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:897
+#: ../libempathy-gtk/empathy-individual-widget.c:469
+msgid "Country ISO Code:"
+msgstr "Kode ISO Negara:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:899
+#: ../libempathy-gtk/empathy-individual-widget.c:471
+msgid "Country:"
+msgstr "Negara:"
+
+# pada konteks ini, rasanya state = negara bagian
+#: ../libempathy-gtk/empathy-contact-widget.c:901
+#: ../libempathy-gtk/empathy-individual-widget.c:473
+msgid "State:"
+msgstr "Negara Bagian:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:903
+#: ../libempathy-gtk/empathy-individual-widget.c:475
+msgid "City:"
+msgstr "Kota:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:905
+#: ../libempathy-gtk/empathy-individual-widget.c:477
+msgid "Area:"
+msgstr "Area:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:907
+#: ../libempathy-gtk/empathy-individual-widget.c:479
+msgid "Postal Code:"
+msgstr "Kode Pos:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:909
+#: ../libempathy-gtk/empathy-individual-widget.c:481
+msgid "Street:"
+msgstr "Jalan:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:911
+#: ../libempathy-gtk/empathy-individual-widget.c:483
+msgid "Building:"
+msgstr "Gedung:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:913
+#: ../libempathy-gtk/empathy-individual-widget.c:485
+msgid "Floor:"
+msgstr "Lantai:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:915
+#: ../libempathy-gtk/empathy-individual-widget.c:487
+msgid "Room:"
+msgstr "Kamar:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:917
+#: ../libempathy-gtk/empathy-individual-widget.c:489
+msgid "Text:"
+msgstr "Teks:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:919
+#: ../libempathy-gtk/empathy-individual-widget.c:491
+msgid "Description:"
+msgstr "Keterangan:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:921
+#: ../libempathy-gtk/empathy-individual-widget.c:493
+msgid "URI:"
+msgstr "URI:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:923
+#: ../libempathy-gtk/empathy-individual-widget.c:495
+msgid "Accuracy Level:"
+msgstr "Tingkat Keakuratan:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:925
+#: ../libempathy-gtk/empathy-individual-widget.c:497
+msgid "Error:"
+msgstr "Kesalahan:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:927
+#: ../libempathy-gtk/empathy-individual-widget.c:499
+msgid "Vertical Error (meters):"
+msgstr "Kesalahan Vertikal(meter):"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:929
+#: ../libempathy-gtk/empathy-individual-widget.c:501
+msgid "Horizontal Error (meters):"
+msgstr "Kesalahan Horisontal (meter):"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:931
+#: ../libempathy-gtk/empathy-individual-widget.c:503
+msgid "Speed:"
+msgstr "Kecepatan:"
+
+# bearing = arah?
+#: ../libempathy-gtk/empathy-contact-widget.c:933
+#: ../libempathy-gtk/empathy-individual-widget.c:505
+msgid "Bearing:"
+msgstr "Arah:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:935
+#: ../libempathy-gtk/empathy-individual-widget.c:507
+msgid "Climb Speed:"
+msgstr "Kecepatan Mendaki:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:937
+#: ../libempathy-gtk/empathy-individual-widget.c:509
+msgid "Last Updated on:"
+msgstr "Terakhir Diperbarui:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:939
+#: ../libempathy-gtk/empathy-individual-widget.c:511
+msgid "Longitude:"
+msgstr "Bujur:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:941
+#: ../libempathy-gtk/empathy-individual-widget.c:513
+msgid "Latitude:"
+msgstr "Lintang:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:943
+#: ../libempathy-gtk/empathy-individual-widget.c:515
+msgid "Altitude:"
+msgstr "Ketinggian:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:996
+#: ../libempathy-gtk/empathy-contact-widget.c:1011
+#: ../libempathy-gtk/empathy-individual-widget.c:607
+#: ../libempathy-gtk/empathy-individual-widget.c:622
+#: ../src/empathy-preferences.ui.h:17
+msgid "Location"
+msgstr "Lokasi"
+
+#. translators: format is "Location, $date"
+#: ../libempathy-gtk/empathy-contact-widget.c:1013
+#: ../libempathy-gtk/empathy-individual-widget.c:624
+#, c-format
+msgid "%s, %s"
+msgstr "%s, %s"
+
+# man strftime
+# %B %e, %Y = nama_bulan tanggal, tahun
+#: ../libempathy-gtk/empathy-contact-widget.c:1065
+#: ../libempathy-gtk/empathy-individual-widget.c:673
+msgid "%B %e, %Y at %R UTC"
+msgstr "%e %B %Y pada %R UTC"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:1147
+#: ../libempathy-gtk/empathy-individual-widget.c:915
+msgid "Save Avatar"
+msgstr "Simpan Avatar"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:1203
+#: ../libempathy-gtk/empathy-individual-widget.c:973
+msgid "Unable to save avatar"
+msgstr "Tidak dapat menyimpan avatar"
+
+# (date) mungkin placeholder untuk variabel? mesti cek source code
+# \t di akhir baris hilang
+#: ../libempathy-gtk/empathy-contact-widget.ui.h:1
+msgid "<b>Location</b> at (date)\t"
+msgstr "<b>Lokasi</b> pada (date)\t"
+
+#. Alias
+#: ../libempathy-gtk/empathy-contact-widget.ui.h:3
+#: ../libempathy-gtk/empathy-individual-widget.c:1308
+msgid "Alias:"
+msgstr "Alias:"
+
+#: ../libempathy-gtk/empathy-contact-widget.ui.h:4
+msgid "Client Information"
+msgstr "Informasi Klien"
+
+#: ../libempathy-gtk/empathy-contact-widget.ui.h:5
+msgid "Client:"
+msgstr "Klien:"
+
+#: ../libempathy-gtk/empathy-contact-widget.ui.h:6
+#: ../libempathy-gtk/empathy-individual-widget.ui.h:2
+msgid "Contact Details"
+msgstr "Rincian Kontak"
+
+#. Identifier to connect to Instant Messaging network
+#. Translators: Identifier to connect to Instant Messaging network
+#: ../libempathy-gtk/empathy-contact-widget.ui.h:8
+#: ../libempathy-gtk/empathy-individual-widget.c:1517
+msgid "Identifier:"
+msgstr "Identifair:"
+
+#: ../libempathy-gtk/empathy-contact-widget.ui.h:9
+#: ../libempathy-gtk/empathy-individual-widget.ui.h:3
+msgid "Information requested…"
+msgstr "Informasi yang diminta ..."
+
+#: ../libempathy-gtk/empathy-contact-widget.ui.h:10
+msgid "OS:"
+msgstr "OS:"
+
+#: ../libempathy-gtk/empathy-contact-widget.ui.h:11
+msgid "Version:"
+msgstr "Versi:"
+
+#: ../libempathy-gtk/empathy-groups-widget.c:333
+msgid "Groups"
+msgstr "Group"
+
+#: ../libempathy-gtk/empathy-groups-widget.c:345
+msgid "Select the groups you want this contact to appear in.  Note that you can select more than one group or no groups."
+msgstr "Pilih grup dimaana Anda menginginkan kontak ini muncul. Perhatikan bahwa Anda dapat memilih lebih dari satu grup atau tidak sama sekali."
+
+#: ../libempathy-gtk/empathy-groups-widget.c:364
+msgid "_Add Group"
+msgstr "T_ambah Grup"
+
+#: ../libempathy-gtk/empathy-groups-widget.c:399
+msgctxt "verb in a column header displaying group names"
+msgid "Select"
+msgstr "Pilih"
+
+#: ../libempathy-gtk/empathy-groups-widget.c:409
+#: ../src/empathy-main-window.c:1807
+msgid "Group"
+msgstr "Grup"
+
+#: ../libempathy-gtk/empathy-individual-dialogs.c:260
+msgid "The following identity will be blocked:"
+msgid_plural "The following identities will be blocked:"
+msgstr[0] "Identitas berikut akan diblokir:"
+
+#: ../libempathy-gtk/empathy-individual-dialogs.c:267
+msgid "The following identity can not be blocked:"
+msgid_plural "The following identities can not be blocked:"
+msgstr[0] "Identitas berikut tak dapat diblokir:"
+
+#. Translators: the heading at the top of the Information dialogue
+#: ../libempathy-gtk/empathy-individual-information-dialog.c:288
+msgid "Linked Contacts"
+msgstr "Kontak Terkait"
+
+#: ../libempathy-gtk/empathy-individual-linker.c:370
+msgid "Select contacts to link"
+msgstr "Pilih kontak untuk dikait"
+
+#: ../libempathy-gtk/empathy-individual-linker.c:444
+msgid "New contact preview"
+msgstr "Pratilik kontak baru"
+
+#: ../libempathy-gtk/empathy-individual-linker.c:488
+msgid "Contacts selected in the list on the left will be linked together."
+msgstr "Kontak yang dipilih pada daftar di sebelah kiri akan dikaitkan bersama-sama."
+
+#. Translators: this is used in the context menu for a contact. The first
+#. * parameter is a contact ID (e.g. foo@jabber.org) and the second is one
+#. * of the user's account IDs (e.g. me@hotmail.com).
+#: ../libempathy-gtk/empathy-individual-menu.c:145
+#, c-format
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+#: ../libempathy-gtk/empathy-individual-menu.c:309
+msgid "Select account to use to place the call"
+msgstr "Pilih akun yang dipakai untuk memanggil"
+
+#. translators: Call is a noun. This string is used in the window
+#. * title
+#: ../libempathy-gtk/empathy-individual-menu.c:313
+#: ../libempathy-gtk/empathy-log-window.ui.h:2
+#: ../src/empathy-streamed-media-window.c:1299
+#: ../src/empathy-call-window.ui.h:2
+msgid "Call"
+msgstr "Panggilan"
+
+#: ../libempathy-gtk/empathy-individual-menu.c:378
+msgid "Mobile"
+msgstr "Seluler"
+
+#: ../libempathy-gtk/empathy-individual-menu.c:380
+msgid "Work"
+msgstr "Kantor"
+
+#: ../libempathy-gtk/empathy-individual-menu.c:382
+msgid "HOME"
+msgstr "RUMAH"
+
+#. add an SMS button
+#: ../libempathy-gtk/empathy-individual-menu.c:804
+#: ../libempathy-gtk/empathy-new-message-dialog.c:215
+msgid "_SMS"
+msgstr "_SMS"
+
+#: ../libempathy-gtk/empathy-individual-menu.c:1142
+msgctxt "Edit individual (contextual menu)"
+msgid "_Edit"
+msgstr "_Sunting"
+
+#. Translators: this is a verb meaning "to connect two contacts together
+#. * to form a meta-contact".
+#: ../libempathy-gtk/empathy-individual-menu.c:1168
+msgctxt "Link individual (contextual menu)"
+msgid "_Link Contacts…"
+msgstr "_Kaitkan Kontak..."
+
+#: ../libempathy-gtk/empathy-individual-view.c:2341
+msgid "Delete and _Block"
+msgstr "Hapus dan _Blokir"
+
+#: ../libempathy-gtk/empathy-individual-view.c:2510
+#, c-format
+msgid "Do you really want to remove the linked contact '%s'? Note that this will remove all the contacts which make up this linked contact."
+msgstr "Anda yakin ingin menghapus kontak terkait '%s'? Hal ini akan menghapus semua kontak yang menyusun kontak terkait ini."
+
+#: ../libempathy-gtk/empathy-individual-widget.c:1656
+#, c-format
+msgid "Linked contact containing %u contact"
+msgid_plural "Linked contacts containing %u contacts"
+msgstr[0] "Kontak terkait memuat %u kontak"
+
+# (date) mungkin placeholder untuk variabel? mesti cek source code
+# \t di akhir baris hilang
+#: ../libempathy-gtk/empathy-individual-widget.ui.h:1
+msgid "<b>Location</b> at (date)"
+msgstr "<b>Lokasi</b> pada (date)"
+
+#: ../libempathy-gtk/empathy-individual-widget.ui.h:4
+msgid "Online from a phone or mobile device"
+msgstr "Daring dari telepon atau perangkat mobil"
+
+#: ../libempathy-gtk/empathy-irc-network-chooser-dialog.c:332
+msgid "New Network"
+msgstr "Jaringan Baru"
+
+#: ../libempathy-gtk/empathy-irc-network-chooser-dialog.c:527
+msgid "Choose an IRC network"
+msgstr "Pilih jaringan IRC"
+
+#: ../libempathy-gtk/empathy-irc-network-chooser-dialog.c:584
+msgid "Reset _Networks List"
+msgstr "Reset Daftar Jaringa_n"
+
+#: ../libempathy-gtk/empathy-irc-network-chooser-dialog.c:588
+msgctxt "verb displayed on a button to select an IRC network"
+msgid "Select"
+msgstr "Pilih"
+
+#: ../libempathy-gtk/empathy-irc-network-dialog.c:280
+msgid "new server"
+msgstr "server baru"
+
+#: ../libempathy-gtk/empathy-irc-network-dialog.c:535
+msgid "SSL"
+msgstr "SSL"
+
+#. Translators: this is the title of the linking dialogue (reached by
+#. * right-clicking on a contact and selecting "Link…"). "Link" in this title
+#. * is a verb.
+#: ../libempathy-gtk/empathy-linking-dialog.c:115
+msgid "Link Contacts"
+msgstr "Kaitkan Kontak"
+
+#: ../libempathy-gtk/empathy-linking-dialog.c:120
+msgctxt "Unlink individual (button)"
+msgid "_Unlink…"
+msgstr "_Lepaskan..."
+
+#: ../libempathy-gtk/empathy-linking-dialog.c:121
+msgid "Completely split the displayed linked contacts into the separate contacts."
+msgstr "Uraikan sepenuhnya kontak terkait yang ditampilkan ke kontak-kontak terpisah"
+
+# Dirgita: "Link" sebagai kata kerja (verba).
+#. Add button
+#. Translators: this is an action button in the linking dialogue. "Link" is
+#. * used here as a verb meaning "to connect two contacts to form a
+#. * meta-contact".
+#: ../libempathy-gtk/empathy-linking-dialog.c:136
+msgid "_Link"
+msgstr "_Tautkan"
+
+#: ../libempathy-gtk/empathy-linking-dialog.c:183
+#, c-format
+msgid "Unlink linked contacts '%s'?"
+msgstr "Lepaskan kontak terkait '%s'?"
+
+#: ../libempathy-gtk/empathy-linking-dialog.c:186
+msgid "Are you sure you want to unlink these linked contacts? This will completely split the linked contacts into separate contacts."
+msgstr "Anda yakin ingin mengurai kontak-kontak terkait ini? Ini akan mengurai seluruh kontak yang terkait ke kontak-kontak terpisah."
+
+#: ../libempathy-gtk/empathy-linking-dialog.c:190
+msgctxt "Unlink individual (button)"
+msgid "_Unlink"
+msgstr "_Lepaskan"
+
+#: ../libempathy-gtk/empathy-log-window.c:634
+msgid "History"
+msgstr "Riwayat"
+
+#: ../libempathy-gtk/empathy-log-window.c:689
+msgid "Show"
+msgstr "Tampilkan"
+
+#: ../libempathy-gtk/empathy-log-window.c:711
+msgid "Search"
+msgstr "Pencarian"
+
+#: ../libempathy-gtk/empathy-log-window.c:1159
+#, c-format
+msgid "Chat in %s"
+msgstr "Obrolan di %s"
+
+#: ../libempathy-gtk/empathy-log-window.c:1161
+#, c-format
+msgid "Chat with %s"
+msgstr "Obrolan dengan %s"
+
+# %A %d %B %Y?
+#: ../libempathy-gtk/empathy-log-window.c:1211
+#: ../libempathy-gtk/empathy-log-window.c:1358
+msgctxt "A date with the time"
+msgid "%A, %e %B %Y %X"
+msgstr "%A, %e %B %Y %X"
+
+#. Translators: this is an emote: '* Danielle waves'
+#: ../libempathy-gtk/empathy-log-window.c:1300
+#, c-format
+msgid "<i>* %s %s</i>"
+msgstr "<i>* %s %s</i>"
+
+#. Translators: this is a message: 'Danielle: hello'
+#. * The string in bold is the sender's name
+#: ../libempathy-gtk/empathy-log-window.c:1306
+#, c-format
+msgid "<b>%s:</b> %s"
+msgstr "<b>%s:</b> %s"
+
+#: ../libempathy-gtk/empathy-log-window.c:1382
+#, c-format
+msgid "%s second"
+msgid_plural "%s seconds"
+msgstr[0] "%s detik"
+
+#: ../libempathy-gtk/empathy-log-window.c:1389
+#, c-format
+msgid "%s minute"
+msgid_plural "%s minutes"
+msgstr[0] "%s menit"
+
+#: ../libempathy-gtk/empathy-log-window.c:1397
+#, c-format
+msgid "Call took %s, ended at %s"
+msgstr "Panggilan selama %s, berakhir pada %s"
+
+#: ../libempathy-gtk/empathy-log-window.c:1729
+msgid "Today"
+msgstr "Hari ini"
+
+#: ../libempathy-gtk/empathy-log-window.c:1733
+msgid "Yesterday"
+msgstr "Kemarin"
+
+# %A %d %B %Y?
+#. Translators: A date such as '23 May 2010' (strftime format)
+#: ../libempathy-gtk/empathy-log-window.c:1748
+msgid "%e %B %Y"
+msgstr "%e %B %Y"
+
+#: ../libempathy-gtk/empathy-log-window.c:1829
+#: ../libempathy-gtk/empathy-log-window.c:3444
+msgid "Anytime"
+msgstr "Kapanpun"
+
+#: ../libempathy-gtk/empathy-log-window.c:1916
+#: ../libempathy-gtk/empathy-log-window.c:2372
+msgid "Anyone"
+msgstr "Siapapun"
+
+#: ../libempathy-gtk/empathy-log-window.c:2685
+msgid "Who"
+msgstr "Siapa"
+
+#: ../libempathy-gtk/empathy-log-window.c:2889
+msgid "When"
+msgstr "Kapan"
+
+#: ../libempathy-gtk/empathy-log-window.c:3005
+msgid "Anything"
+msgstr "Apapun"
+
+#: ../libempathy-gtk/empathy-log-window.c:3007
+msgid "Text chats"
+msgstr "Obrolan teks"
+
+#: ../libempathy-gtk/empathy-log-window.c:3009
+#: ../src/empathy-preferences.ui.h:4
+msgid "Calls"
+msgstr "Panggilan"
+
+#: ../libempathy-gtk/empathy-log-window.c:3014
+msgid "Incoming calls"
+msgstr "Panggilan masuk"
+
+#: ../libempathy-gtk/empathy-log-window.c:3015
+msgid "Outgoing calls"
+msgstr "Panggilan keluar"
+
+#: ../libempathy-gtk/empathy-log-window.c:3016
+msgid "Missed calls"
+msgstr "Panggilan tak terjawab"
+
+#: ../libempathy-gtk/empathy-log-window.c:3038
+msgid "What"
+msgstr "Apa"
+
+#: ../libempathy-gtk/empathy-log-window.c:3747
+msgid "Are you sure you want to delete all logs of previous conversations?"
+msgstr "Anda yakin ingin menghapus semua log dari percakapan sebelumnya?"
+
+#: ../libempathy-gtk/empathy-log-window.c:3751
+msgid "Clear All"
+msgstr "Hapus Semua"
+
+#: ../libempathy-gtk/empathy-log-window.c:3758
+msgid "Delete from:"
+msgstr "Hapus dari:"
+
+#: ../libempathy-gtk/empathy-log-window.ui.h:1
+msgid "<span size=\"x-large\">Loading...</span>"
+msgstr "<span size=\"x-large\">Memuat...</span>"
+
+#: ../libempathy-gtk/empathy-log-window.ui.h:3
+#: ../src/empathy-chat-window.ui.h:3
+msgid "Chat"
+msgstr "Obrolan"
+
+#: ../libempathy-gtk/empathy-log-window.ui.h:4
+msgid "Delete All History..."
+msgstr "Hapus Semua Riwayat..."
+
+#: ../libempathy-gtk/empathy-log-window.ui.h:5
+msgid "Profile"
+msgstr "Profil"
+
+#: ../libempathy-gtk/empathy-log-window.ui.h:6
+#: ../src/empathy-call-window.ui.h:22
+#: ../src/empathy-streamed-media-window.ui.h:20
+msgid "Video"
+msgstr "Video"
+
+#: ../libempathy-gtk/empathy-log-window.ui.h:7
+#: ../src/empathy-call-window.ui.h:28
+#: ../src/empathy-chat-window.ui.h:12
+#: ../src/empathy-main-window-menubar.ui.h:20
+msgid "_Edit"
+msgstr "_Sunting"
+
+#: ../libempathy-gtk/empathy-log-window.ui.h:8
+msgid "_File"
+msgstr "_Berkas"
+
+#: ../libempathy-gtk/empathy-log-window.ui.h:9
+msgid "page 2"
+msgstr "halaman 2"
+
+#: ../libempathy-gtk/empathy-contact-selector-dialog.ui.h:2
+msgid "Contact ID:"
+msgstr "ID Kontak:"
+
+#. add chat button
+#: ../libempathy-gtk/empathy-new-message-dialog.c:225
+msgid "C_hat"
+msgstr "O_brolan"
+
+#. Tweak the dialog
+#: ../libempathy-gtk/empathy-new-message-dialog.c:244
+msgid "New Conversation"
+msgstr "Percakapan baru"
+
+#. add video toggle
+#: ../libempathy-gtk/empathy-new-call-dialog.c:204
+msgid "Send _Video"
+msgstr "Kirim _Video"
+
+#. add chat button
+#: ../libempathy-gtk/empathy-new-call-dialog.c:215
+msgid "C_all"
+msgstr "P_anggil"
+
+#. Tweak the dialog
+#: ../libempathy-gtk/empathy-new-call-dialog.c:225
+msgid "New Call"
+msgstr "Panggilan Baru"
+
+#: ../libempathy-gtk/empathy-password-dialog.c:274
+#, c-format
+msgid ""
+"Enter your password for account\n"
+"<b>%s</b>"
+msgstr ""
+"Ketikkan sandi untuk akun\n"
+"<b>%s</b>"
+
+#. COL_STATUS_TEXT
+#. COL_STATE_ICON_NAME
+#. COL_STATE
+#. COL_DISPLAY_MARKUP
+#. COL_STATUS_CUSTOMISABLE
+#. COL_TYPE
+#: ../libempathy-gtk/empathy-presence-chooser.c:167
+#: ../libempathy-gtk/empathy-presence-chooser.c:203
+msgid "Custom Message…"
+msgstr "Pesan gubahan..."
+
+#: ../libempathy-gtk/empathy-presence-chooser.c:220
+#: ../libempathy-gtk/empathy-presence-chooser.c:222
+msgid "Edit Custom Messages…"
+msgstr "Sunting Pesan Gubahan..."
+
+#: ../libempathy-gtk/empathy-presence-chooser.c:345
+msgid "Click to remove this status as a favorite"
+msgstr "Klik untuk menghapus status ini sebagai favorit"
+
+#: ../libempathy-gtk/empathy-presence-chooser.c:354
+msgid "Click to make this status a favorite"
+msgstr "Klik untuk membuat status favorit"
+
+#: ../libempathy-gtk/empathy-presence-chooser.c:388
+msgid "Set status"
+msgstr "Mengatur status"
+
+#: ../libempathy-gtk/empathy-presence-chooser.c:943
+msgid "Set your presence and current status"
+msgstr "Mengatur kehadiran Anda dan status saat ini"
+
+#. Custom messages
+#: ../libempathy-gtk/empathy-presence-chooser.c:1131
+msgid "Custom messages…"
+msgstr "Pesan gubahan..."
+
+#. Create account
+#. To translator: %s is the name of the protocol, such as "Google Talk" or
+#. * "Yahoo!"
+#.
+#: ../libempathy-gtk/empathy-protocol-chooser.c:584
+#, c-format
+msgid "New %s account"
+msgstr "Akun %s baru"
+
+#: ../libempathy-gtk/empathy-search-bar.ui.h:1
+msgid "Find:"
+msgstr "Cari:"
+
+#: ../libempathy-gtk/empathy-search-bar.ui.h:2
+msgid "Mat_ch case"
+msgstr "_Cocokkan huruf"
+
+#: ../libempathy-gtk/empathy-search-bar.ui.h:3
+msgid "Phrase not found"
+msgstr "Frasa tidak ditemukan"
+
+#: ../libempathy-gtk/empathy-search-bar.ui.h:4
+msgid "_Next"
+msgstr "Selanjut_nya"
+
+#: ../libempathy-gtk/empathy-search-bar.ui.h:5
+msgid "_Previous"
+msgstr "Se_belumnya"
+
+#: ../libempathy-gtk/empathy-sound-manager.c:51
+msgid "Received an instant message"
+msgstr "Menerima pesan instan"
+
+#: ../libempathy-gtk/empathy-sound-manager.c:53
+msgid "Sent an instant message"
+msgstr "Mengirim pesan instan"
+
+#: ../libempathy-gtk/empathy-sound-manager.c:55
+msgid "Incoming chat request"
+msgstr "Masuk permintaan obrolan"
+
+#: ../libempathy-gtk/empathy-sound-manager.c:57
+msgid "Contact connected"
+msgstr "Kontak terhubung"
+
+#: ../libempathy-gtk/empathy-sound-manager.c:59
+msgid "Contact disconnected"
+msgstr "Kontak terputus"
+
+#: ../libempathy-gtk/empathy-sound-manager.c:61
+msgid "Connected to server"
+msgstr "Terhubung ke server"
+
+#: ../libempathy-gtk/empathy-sound-manager.c:63
+msgid "Disconnected from server"
+msgstr "Terputus dari server"
+
+#: ../libempathy-gtk/empathy-sound-manager.c:65
+msgid "Incoming voice call"
+msgstr "Masuk panggilan suara"
+
+#: ../libempathy-gtk/empathy-sound-manager.c:67
+msgid "Outgoing voice call"
+msgstr "Panggilan suara keluar"
+
+#: ../libempathy-gtk/empathy-sound-manager.c:69
+msgid "Voice call ended"
+msgstr "Suara panggilan berakhir"
+
+#: ../libempathy-gtk/empathy-status-preset-dialog.c:296
+msgid "Edit Custom Messages"
+msgstr "Sunting Pesan Gubahan"
+
+#: ../libempathy-gtk/empathy-theme-adium.c:1036
+#, c-format
+msgid "Message edited at %s"
+msgstr "Pesan disunting pada %s"
+
+#: ../libempathy-gtk/empathy-theme-adium.c:1726
+msgid "Normal"
+msgstr "Normal"
+
+#: ../libempathy-gtk/empathy-theme-manager.c:70
+msgid "Classic"
+msgstr "Klasik"
+
+#: ../libempathy-gtk/empathy-theme-manager.c:71
+msgid "Simple"
+msgstr "Sederhana"
+
+#: ../libempathy-gtk/empathy-theme-manager.c:72
+msgid "Clean"
+msgstr "Bersih"
+
+#: ../libempathy-gtk/empathy-theme-manager.c:73
+msgid "Blue"
+msgstr "Biru"
+
+#: ../libempathy-gtk/empathy-tls-dialog.c:150
+msgid "The identity provided by the chat server cannot be verified."
+msgstr "Identitas yang diberikan oleh server obrolan tak dapat diverifikasi."
+
+#: ../libempathy-gtk/empathy-tls-dialog.c:157
+msgid "The certificate is not signed by a Certification Authority."
+msgstr "Sertifikat tak ditandatangani oleh Certificate Authority."
+
+#: ../libempathy-gtk/empathy-tls-dialog.c:161
+msgid "The certificate has expired."
+msgstr "Sertifikat kedaluwarsa."
+
+#: ../libempathy-gtk/empathy-tls-dialog.c:164
+msgid "The certificate hasn't yet been activated."
+msgstr "Sertifikat belum diaktifkan."
+
+#: ../libempathy-gtk/empathy-tls-dialog.c:167
+msgid "The certificate does not have the expected fingerprint."
+msgstr "Sertifikat tak memiliki sidik jari yang diharapkan."
+
+#: ../libempathy-gtk/empathy-tls-dialog.c:170
+msgid "The hostname verified by the certificate doesn't match the server name."
+msgstr "Nama host yang diperiksa oleh sertifikat tak cocok dengan nama server."
+
+#: ../libempathy-gtk/empathy-tls-dialog.c:174
+msgid "The certificate is self-signed."
+msgstr "Sertifikat ditandatangani sendiri."
+
+#: ../libempathy-gtk/empathy-tls-dialog.c:177
+msgid "The certificate has been revoked by the issuing Certification Authority."
+msgstr "Sertifikat telah dicabut oleh Certificate Authority yang menerbitkannya."
+
+#: ../libempathy-gtk/empathy-tls-dialog.c:181
+msgid "The certificate is cryptographically weak."
+msgstr "Sertifikat lemah secara kriptografi."
+
+#: ../libempathy-gtk/empathy-tls-dialog.c:184
+msgid "The certificate length exceeds verifiable limits."
+msgstr "Panjang sertifikat melampaui batas yang dapat diperiksa."
+
+#: ../libempathy-gtk/empathy-tls-dialog.c:188
+msgid "The certificate is malformed."
+msgstr "Sertifikat salah bentuk."
+
+#: ../libempathy-gtk/empathy-tls-dialog.c:206
+#, c-format
+msgid "Expected hostname: %s"
+msgstr "Nama host yang diharapkan: %s"
+
+#: ../libempathy-gtk/empathy-tls-dialog.c:209
+#, c-format
+msgid "Certificate hostname: %s"
+msgstr "Nama host sertifikat: %s"
+
+#: ../libempathy-gtk/empathy-tls-dialog.c:281
+msgid "Continue"
+msgstr "Lanjutkan"
+
+#: ../libempathy-gtk/empathy-tls-dialog.c:287
+msgid "This connection is untrusted. Would you like to continue anyway?"
+msgstr "Koneksi ini tak terpercaya. Anda masih mau melanjutkan?"
+
+#: ../libempathy-gtk/empathy-tls-dialog.c:297
+msgid "Remember this choice for future connections"
+msgstr "Ingat pilihan ini bagi koneksi di masa depan"
+
+#: ../libempathy-gtk/empathy-tls-dialog.c:303
+msgid "Certificate Details"
+msgstr "Rincian Sertifikat"
+
+#: ../libempathy-gtk/empathy-ui-utils.c:1735
+msgid "Unable to open URI"
+msgstr "Tidak dapat membuka URI"
+
+#: ../libempathy-gtk/empathy-ui-utils.c:1831
+msgid "Select a file"
+msgstr "Pilih berkas"
+
+#: ../libempathy-gtk/empathy-ui-utils.c:1903
+msgid "Insufficient free space to save file"
+msgstr "Tak cukup ruang untuk menyimpan berkas"
+
+#: ../libempathy-gtk/empathy-ui-utils.c:1911
+#, c-format
+msgid "%s of free space are required to save this file, but only %s is available. Please choose another location."
+msgstr "Diperlukan ruang kosong %s untuk menyimpan berkas ini, tapi hanya tersedia %s. Silakan pilih lokasi lain."
+
+#: ../libempathy-gtk/empathy-ui-utils.c:1955
+#, c-format
+msgid "Incoming file from %s"
+msgstr "Berkas masuk dari %s"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:158
+msgid "Current Locale"
+msgstr "Lokal Saat Ini"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:161
+#: ../libempathy-gtk/totem-subtitle-encoding.c:163
+#: ../libempathy-gtk/totem-subtitle-encoding.c:165
+#: ../libempathy-gtk/totem-subtitle-encoding.c:167
+msgid "Arabic"
+msgstr "Arab"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:170
+msgid "Armenian"
+msgstr "Armenia"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:173
+#: ../libempathy-gtk/totem-subtitle-encoding.c:175
+#: ../libempathy-gtk/totem-subtitle-encoding.c:177
+msgid "Baltic"
+msgstr "Baltik"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:180
+msgid "Celtic"
+msgstr "Seltik"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:183
+#: ../libempathy-gtk/totem-subtitle-encoding.c:185
+#: ../libempathy-gtk/totem-subtitle-encoding.c:187
+#: ../libempathy-gtk/totem-subtitle-encoding.c:189
+msgid "Central European"
+msgstr "Eropa Tengah"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:192
+#: ../libempathy-gtk/totem-subtitle-encoding.c:194
+#: ../libempathy-gtk/totem-subtitle-encoding.c:196
+#: ../libempathy-gtk/totem-subtitle-encoding.c:198
+msgid "Chinese Simplified"
+msgstr "Cina Sederhana"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:201
+#: ../libempathy-gtk/totem-subtitle-encoding.c:203
+#: ../libempathy-gtk/totem-subtitle-encoding.c:205
+msgid "Chinese Traditional"
+msgstr "Cina Tradisional"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:208
+msgid "Croatian"
+msgstr "Kroasia"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:211
+#: ../libempathy-gtk/totem-subtitle-encoding.c:213
+#: ../libempathy-gtk/totem-subtitle-encoding.c:215
+#: ../libempathy-gtk/totem-subtitle-encoding.c:217
+#: ../libempathy-gtk/totem-subtitle-encoding.c:219
+#: ../libempathy-gtk/totem-subtitle-encoding.c:221
+msgid "Cyrillic"
+msgstr "Sirilik"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:224
+msgid "Cyrillic/Russian"
+msgstr "Sirilik/Rusia"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:227
+#: ../libempathy-gtk/totem-subtitle-encoding.c:229
+msgid "Cyrillic/Ukrainian"
+msgstr "Sirilik/Ukraina"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:232
+msgid "Georgian"
+msgstr "Georgia"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:235
+#: ../libempathy-gtk/totem-subtitle-encoding.c:237
+#: ../libempathy-gtk/totem-subtitle-encoding.c:239
+msgid "Greek"
+msgstr "Yunani"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:242
+msgid "Gujarati"
+msgstr "Gujarati"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:245
+msgid "Gurmukhi"
+msgstr "Gurmukhi"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:248
+#: ../libempathy-gtk/totem-subtitle-encoding.c:250
+#: ../libempathy-gtk/totem-subtitle-encoding.c:252
+#: ../libempathy-gtk/totem-subtitle-encoding.c:254
+msgid "Hebrew"
+msgstr "Ibrani"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:257
+msgid "Hebrew Visual"
+msgstr "Ibrani Visual"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:260
+msgid "Hindi"
+msgstr "Hindi"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:263
+msgid "Icelandic"
+msgstr "Islandia"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:266
+#: ../libempathy-gtk/totem-subtitle-encoding.c:268
+#: ../libempathy-gtk/totem-subtitle-encoding.c:270
+msgid "Japanese"
+msgstr "Jepang"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:273
+#: ../libempathy-gtk/totem-subtitle-encoding.c:275
+#: ../libempathy-gtk/totem-subtitle-encoding.c:277
+#: ../libempathy-gtk/totem-subtitle-encoding.c:279
+msgid "Korean"
+msgstr "Korea"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:282
+msgid "Nordic"
+msgstr "Nordik"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:285
+msgid "Persian"
+msgstr "Persia"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:288
+#: ../libempathy-gtk/totem-subtitle-encoding.c:290
+msgid "Romanian"
+msgstr "Rumania"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:293
+msgid "South European"
+msgstr "Eropa Selatan"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:296
+msgid "Thai"
+msgstr "Thai"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:299
+#: ../libempathy-gtk/totem-subtitle-encoding.c:301
+#: ../libempathy-gtk/totem-subtitle-encoding.c:303
+#: ../libempathy-gtk/totem-subtitle-encoding.c:305
+msgid "Turkish"
+msgstr "Turki"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:308
+#: ../libempathy-gtk/totem-subtitle-encoding.c:310
+#: ../libempathy-gtk/totem-subtitle-encoding.c:312
+#: ../libempathy-gtk/totem-subtitle-encoding.c:314
+#: ../libempathy-gtk/totem-subtitle-encoding.c:316
+msgid "Unicode"
+msgstr "Unicode"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:319
+#: ../libempathy-gtk/totem-subtitle-encoding.c:321
+#: ../libempathy-gtk/totem-subtitle-encoding.c:323
+#: ../libempathy-gtk/totem-subtitle-encoding.c:325
+#: ../libempathy-gtk/totem-subtitle-encoding.c:327
+msgid "Western"
+msgstr "Barat"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:330
+#: ../libempathy-gtk/totem-subtitle-encoding.c:332
+#: ../libempathy-gtk/totem-subtitle-encoding.c:334
+msgid "Vietnamese"
+msgstr "Vietnam"
+
+#: ../nautilus-sendto-plugin/empathy-nautilus-sendto.c:108
+msgid "The selected contact cannot receive files."
+msgstr "Kontak yang dipilih tidak dapat menerima berkas."
+
+#: ../nautilus-sendto-plugin/empathy-nautilus-sendto.c:114
+msgid "The selected contact is offline."
+msgstr "Kontak yang dipilih sedang luring."
+
+#: ../nautilus-sendto-plugin/empathy-nautilus-sendto.c:169
+msgid "No error message"
+msgstr "Tidak ada pesan kesalahan"
+
+#: ../nautilus-sendto-plugin/empathy-nautilus-sendto.c:242
+msgid "Instant Message (Empathy)"
+msgstr "Pesan Instan (Empathy)"
+
+#: ../src/empathy.c:431
+msgid "Don't connect on startup"
+msgstr "Jangan menyambung saat memulai"
+
+#: ../src/empathy.c:435
+msgid "Don't display the contact list or any other dialogs on startup"
+msgstr "Jangan menampilkan daftar kontak atau dialog lainnya pada startup"
+
+#: ../src/empathy.c:450
+msgid "- Empathy IM Client"
+msgstr "- Klien IM Empathy"
+
+#: ../src/empathy.c:637
+msgid "Error contacting the Account Manager"
+msgstr "Galat saat menghubungi Manajer Akun"
+
+#: ../src/empathy.c:639
+#, c-format
+msgid ""
+"There was an error while trying to connect to the Telepathy Account Manager. The error was:\n"
+"\n"
+"%s"
+msgstr ""
+"Ada galat saat mencoba menyambung ke Manajer Akun Telepathy. Pesan galat:\n"
+"\n"
+"%s"
+
+#: ../src/empathy-about-dialog.c:81
+msgid "Empathy is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version."
+msgstr "Empathy adalah perangkat lunak bebas; Anda dapat menyebarluaskannya dan/atau memodifikasinya di bawah Lisensi Publik Umum GNU sebagaimana dipublikasikan oleh Free Software Foundation; baik versi 2 dari Lisensi, atau (dengan pilihan Anda) versi lain."
+
+#: ../src/empathy-about-dialog.c:85
+msgid "Empathy is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details."
+msgstr "Empathy ini didistribusikan dengan harapan bahwa ini akan berguna, tetapi TANPA ADANYA JAMINAN; tanpa jaminan yang termasuk dari DAGANGAN atau KECOCOKAN UNTUK TUJUAN TERTENTU. Lihat Lisensi Publik Umum GNU untuk lebih jelasnya."
+
+#: ../src/empathy-about-dialog.c:89
+msgid "You should have received a copy of the GNU General Public License along with Empathy; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-130159 USA"
+msgstr "Anda seharusnya menerima salinan dari Lisensi Publik Umum GNU bersama dengan Empathy, jika tidak, tulis ke Free Software Foundation, Inc, 51 Franklin Street, Fifth Floor, Boston, MA USA 02.110-130.159"
+
+#: ../src/empathy-about-dialog.c:107
+msgid "An Instant Messaging client for GNOME"
+msgstr "Klien Perpesanan Instan untuk GNOME"
+
+#: ../src/empathy-about-dialog.c:113
+msgid "translator-credits"
+msgstr ""
+"Taufiq Wirahman <taufiq.wirahman@gmail.com>, 2010.\n"
+"Dirgita <dirgitadevina@yahoo.co.id>, 2011.\n"
+"Andika Triwidada <andika@gmail.com>, 2011."
+
+#: ../src/empathy-account-assistant.c:167
+msgid "There was an error while importing the accounts."
+msgstr "Ada kesalahan saat mengimpor akun."
+
+#: ../src/empathy-account-assistant.c:170
+msgid "There was an error while parsing the account details."
+msgstr "Ada kesalahan saat menguraikan rincian akun."
+
+#: ../src/empathy-account-assistant.c:173
+msgid "There was an error while creating the account."
+msgstr "Ada kesalahan saat membuat akun."
+
+#: ../src/empathy-account-assistant.c:175
+msgid "There was an error."
+msgstr "Ada kesalahan."
+
+#: ../src/empathy-account-assistant.c:179
+#, c-format
+msgid "The error message was: %s"
+msgstr "Pesan kesalahan adalah: %s"
+
+#: ../src/empathy-account-assistant.c:183
+msgid "You can either go back and try to enter your accounts' details again or quit this assistant and add accounts later from the Edit menu."
+msgstr "Anda dapat kembali dan mencoba untuk memasukkan rincian akun Anda lagi atau berhenti dari asisten ini dan menambahkan akun dari menu Edit."
+
+#: ../src/empathy-account-assistant.c:220
+#: ../src/empathy-account-assistant.c:1271
+msgid "An error occurred"
+msgstr "Sebuah kesalahan terjadi"
+
+#: ../src/empathy-account-assistant.c:467
+msgid "What kind of chat account do you have?"
+msgstr "Akun obrolan apa yang Anda miliki?"
+
+#: ../src/empathy-account-assistant.c:473
+msgid "Do you have any other chat accounts you want to set up?"
+msgstr "Apakah Anda punya akun obrolan lain yang ingin Anda atur?"
+
+#: ../src/empathy-account-assistant.c:479
+msgid "Enter your account details"
+msgstr "Masukkan rincian akun Anda"
+
+#: ../src/empathy-account-assistant.c:484
+msgid "What kind of chat account do you want to create?"
+msgstr "Akun obrolan apa yang ingin Anda buat?"
+
+#: ../src/empathy-account-assistant.c:490
+msgid "Do you want to create other chat accounts?"
+msgstr "Apakah Anda ingin membuat akun obrolan lain?"
+
+#: ../src/empathy-account-assistant.c:497
+msgid "Enter the details for the new account"
+msgstr "Masukkan rincian untuk akun baru"
+
+#: ../src/empathy-account-assistant.c:612
+msgid "With Empathy you can chat with people online nearby and with friends and colleagues who use Google Talk, AIM, Windows Live and many other chat programs. With a microphone or a webcam you can also have audio or video calls."
+msgstr "Dengan Empathy Anda dapat mengobrol dengan orang terdekat dan daring dengan teman dan kolega yang menggunakan Google Talk, AIM, Windows Live dan banyak program obrolan lainnya. Dengan mikrofon atau webcam Anda juga dapat memiliki panggilan audio atau video."
+
+#: ../src/empathy-account-assistant.c:629
+msgid "Do you have an account you've been using with another chat program?"
+msgstr "Apakah Anda memiliki akun yang telah Anda gunakan dengan program obrolan yang lain?"
+
+#: ../src/empathy-account-assistant.c:652
+msgid "Yes, import my account details from "
+msgstr "Ya, impor rincian akun saya dari"
+
+#: ../src/empathy-account-assistant.c:673
+msgid "Yes, I'll enter my account details now"
+msgstr "Ya, saya akan memasukkan rincian akun saya sekarang"
+
+#: ../src/empathy-account-assistant.c:695
+msgid "No, I want a new account"
+msgstr "Tidak, saya ingin akun baru"
+
+#: ../src/empathy-account-assistant.c:705
+msgid "No, I just want to see people online nearby for now"
+msgstr "Tidak, saya hanya ingin melihat orang-orang terdekat yang daring sekarang"
+
+#: ../src/empathy-account-assistant.c:726
+msgid "Select the accounts you want to import:"
+msgstr "Pilih akun yang Anda ingin untuk diimpor:"
+
+#: ../src/empathy-account-assistant.c:813
+#: ../src/empathy-new-chatroom-dialog.c:555
+#: ../src/empathy-new-chatroom-dialog.c:556
+msgid "Yes"
+msgstr "Ya"
+
+#: ../src/empathy-account-assistant.c:820
+msgid "No, that's all for now"
+msgstr "Tidak, itu saja untuk saat ini"
+
+#: ../src/empathy-account-assistant.c:1085
+msgid "Empathy can automatically discover and chat with the people connected on the same network as you. If you want to use this feature, please check that the details below are correct. You can easily change these details later or disable this feature by using the 'Accounts' dialog"
+msgstr "Empathy secara otomatis dapat menemukan dan mengobrol dengan orang yang terhubung pada jaringan yang sama dengan Anda. Jika Anda ingin menggunakan fitur ini, silakan periksa rincian di bawah ini adalah benar. Anda dapat dengan mudah mengubah rincian nanti atau menonaktifkan fitur ini dengan menggunakan dialog 'Akun'"
+
+# kelebihan spasi
+#: ../src/empathy-account-assistant.c:1091
+#: ../src/empathy-account-assistant.c:1147
+msgid "Edit->Accounts"
+msgstr "Sunting->Akun"
+
+#: ../src/empathy-account-assistant.c:1107
+msgid "I do _not want to enable this feature for now"
+msgstr "Saya tidak ingi_n mengaktifkan fitur ini untuk sekarang"
+
+#: ../src/empathy-account-assistant.c:1143
+msgid "You won't be able to chat with people connected to your local network, as telepathy-salut is not installed. If you want to enable this feature, please install the telepathy-salut package and create a People Nearby account from the Accounts dialog"
+msgstr "Anda tidak akan dapat mengobrol dengan orang-orang yang terhubung ke jaringan lokal Anda, jika telepati-salut tidak diinstal. Jika Anda ingin mengaktifkan fitur ini, silakan instal paket telepati-salut dan membuat akun Orang-orang Terdekat dari dialog Akun"
+
+#: ../src/empathy-account-assistant.c:1149
+msgid "telepathy-salut not installed"
+msgstr "telepati-salut tidak diinstal"
+
+#: ../src/empathy-account-assistant.c:1195
+msgid "Messaging and VoIP Accounts Assistant"
+msgstr "Asisten Akun Perpesanan dan VoIP"
+
+#: ../src/empathy-account-assistant.c:1229
+msgid "Welcome to Empathy"
+msgstr "Selamat Datang di Empathy"
+
+#: ../src/empathy-account-assistant.c:1238
+msgid "Import your existing accounts"
+msgstr "Impor akun Anda yang sudah ada"
+
+#: ../src/empathy-account-assistant.c:1256
+msgid "Please enter personal details"
+msgstr "Silakan masukkan data pribadi"
+
+#. The primary text of the dialog shown to the user when he is about to lose
+#. * unsaved changes
+#: ../src/empathy-accounts-dialog.c:64
+#, c-format
+msgid "There are unsaved modifications to your %s account."
+msgstr "Ada perubahan yang belum disimpan ke akun %s Anda."
+
+#. The primary text of the dialog shown to the user when he is about to lose
+#. * an unsaved new account
+#: ../src/empathy-accounts-dialog.c:68
+msgid "Your new account has not been saved yet."
+msgstr "Akun baru Anda belum tersimpan."
+
+#: ../src/empathy-accounts-dialog.c:345
+#: ../src/empathy-streamed-media-window.c:754
+#: ../src/empathy-call-window.c:1216
+msgid "Connecting…"
+msgstr "Menyambung..."
+
+#: ../src/empathy-accounts-dialog.c:386
+#, c-format
+msgid "Offline — %s"
+msgstr "Luring — %s"
+
+#: ../src/empathy-accounts-dialog.c:398
+#, c-format
+msgid "Disconnected — %s"
+msgstr "Terputus — %s"
+
+# garis --- disalin saja dari sumber
+#: ../src/empathy-accounts-dialog.c:409
+msgid "Offline — No Network Connection"
+msgstr "Luring — Tidak Ada Koneksi Jaringan"
+
+#: ../src/empathy-accounts-dialog.c:416
+msgid "Unknown Status"
+msgstr "Status Tidak Diketahui"
+
+# garis --- disalin saja dari sumber
+#: ../src/empathy-accounts-dialog.c:428
+msgid "Offline — Account Disabled"
+msgstr "Luring — Akun Tidak Diaktifkan"
+
+#: ../src/empathy-accounts-dialog.c:831
+msgid ""
+"You are about to create a new account, which will discard\n"
+"your changes. Are you sure you want to proceed?"
+msgstr "Anda akan membuat akun baru, yang akan membatalkan perubahan Anda. Apakah Anda yakin ingin melanjutkan?"
+
+#: ../src/empathy-accounts-dialog.c:1192
+#, c-format
+msgid "Do you want to remove %s from your computer?"
+msgstr "Apakah Anda ingin menghapus %s dari komputer Anda?"
+
+#: ../src/empathy-accounts-dialog.c:1196
+msgid "This will not remove your account on the server."
+msgstr "Ini tidak akan menghapus akun Anda di server."
+
+#: ../src/empathy-accounts-dialog.c:1432
+msgid ""
+"You are about to select another account, which will discard\n"
+"your changes. Are you sure you want to proceed?"
+msgstr "Anda akan memilih akun lain, yang akan membatalkan perubahan Anda. Apakah Anda yakin ingin melanjutkan?"
+
+#. Menu items: to enabled/disable the account
+#: ../src/empathy-accounts-dialog.c:1643
+msgid "_Enable"
+msgstr "_Aktifkan"
+
+#: ../src/empathy-accounts-dialog.c:1644
+msgid "_Disable"
+msgstr "_Matikan"
+
+#: ../src/empathy-accounts-dialog.c:2154
+msgid ""
+"You are about to close the window, which will discard\n"
+"your changes. Are you sure you want to proceed?"
+msgstr "Anda akan menutup jendela, yang akan membatalkan perubahan Anda. Apakah Anda yakin ingin melanjutkan?"
+
+#: ../src/empathy-accounts-dialog.ui.h:1
+msgid "Add…"
+msgstr "Tambah..."
+
+#: ../src/empathy-accounts-dialog.ui.h:2
+msgid "Loading account information"
+msgstr "Memuat informasi akun"
+
+#: ../src/empathy-accounts-dialog.ui.h:3
+msgid "No protocol installed"
+msgstr "Tidak ada protokol terinstal"
+
+#: ../src/empathy-accounts-dialog.ui.h:4
+msgid "Protocol:"
+msgstr "Protokol:"
+
+#: ../src/empathy-accounts-dialog.ui.h:6
+msgid "To add a new account, you first have to install a backend for each protocol you want to use."
+msgstr "Untuk menambah akun baru, pertama Anda harus menginstal backend untuk setiap protokol yang ingin Anda gunakan."
+
+#: ../src/empathy-accounts-dialog.ui.h:7
+msgid "_Import…"
+msgstr "_Impor..."
+
+#: ../src/empathy-auth-client.c:249
+msgid " - Empathy authentication client"
+msgstr " - Klien otentikasi Empathy"
+
+#: ../src/empathy-auth-client.c:265
+msgid "Empathy authentication client"
+msgstr "Klien otentikasi Empathy"
+
+#: ../src/empathy-auto-salut-account-helper.c:83
+msgid "People nearby"
+msgstr "Orang-orang terdekat"
+
+#: ../src/empathy-av.c:118
+#: ../src/empathy-call.c:192
+msgid "- Empathy Audio/Video Client"
+msgstr "- Klien Audio/Video Empathy"
+
+#: ../src/empathy-av.c:134
+#: ../src/empathy-call.c:217
+msgid "Empathy Audio/Video Client"
+msgstr "Klien Audio/Video Empathy"
+
+#: ../src/empathy-streamed-media-window.c:431
+msgid "Contrast"
+msgstr "Kontras"
+
+#: ../src/empathy-streamed-media-window.c:434
+msgid "Brightness"
+msgstr "Kecerahan"
+
+#: ../src/empathy-streamed-media-window.c:437
+msgid "Gamma"
+msgstr "Gamma"
+
+#: ../src/empathy-streamed-media-window.c:542
+msgid "Volume"
+msgstr "Volume"
+
+#: ../src/empathy-streamed-media-window.c:1110
+msgid "_Sidebar"
+msgstr "Panel _samping"
+
+#: ../src/empathy-streamed-media-window.c:1130
+msgid "Audio input"
+msgstr "Masukan audio"
+
+#: ../src/empathy-streamed-media-window.c:1134
+msgid "Video input"
+msgstr "Masukan video"
+
+#: ../src/empathy-streamed-media-window.c:1140
+msgid "Dialpad"
+msgstr "Dialpad"
+
+#: ../src/empathy-streamed-media-window.c:1151
+msgid "Details"
+msgstr "Rincian"
+
+#. translators: Call is a noun and %s is the contact name. This string
+#. * is used in the window title
+#: ../src/empathy-streamed-media-window.c:1220
+#: ../src/empathy-call-window.c:1825
+#, c-format
+msgid "Call with %s"
+msgstr "Panggil dengan %s"
+
+#: ../src/empathy-streamed-media-window.c:1453
+#: ../src/empathy-call-window.c:2069
+msgid "The IP address as seen by the machine"
+msgstr "Alamat IP sebagaimana dilihat oleh mesin"
+
+#: ../src/empathy-streamed-media-window.c:1455
+#: ../src/empathy-call-window.c:2071
+msgid "The IP address as seen by a server on the Internet"
+msgstr "Alamat IP sebagaimana dilihat oleh server di Internet"
+
+#: ../src/empathy-streamed-media-window.c:1457
+#: ../src/empathy-call-window.c:2073
+msgid "The IP address of the peer as seen by the other side"
+msgstr "Alamat IP dari peer sebagaimana dilihat oleh sisi lain"
+
+#: ../src/empathy-streamed-media-window.c:1459
+#: ../src/empathy-call-window.c:2075
+msgid "The IP address of a relay server"
+msgstr "Alamat IP dari server relay"
+
+#: ../src/empathy-streamed-media-window.c:1461
+#: ../src/empathy-call-window.c:2077
+msgid "The IP address of the multicast group"
+msgstr "Alamat IP dari grup multicast"
+
+#: ../src/empathy-streamed-media-window.c:1843
+msgctxt "encoding video codec"
+msgid "Unknown"
+msgstr "Tak dikenal"
+
+#: ../src/empathy-streamed-media-window.c:1846
+msgctxt "encoding audio codec"
+msgid "Unknown"
+msgstr "Tak dikenal"
+
+#: ../src/empathy-streamed-media-window.c:1849
+msgctxt "decoding video codec"
+msgid "Unknown"
+msgstr "Tak dikenal"
+
+#: ../src/empathy-streamed-media-window.c:1852
+msgctxt "decoding audio codec"
+msgid "Unknown"
+msgstr "Tak dikenal"
+
+#. Translators: number of minutes:seconds the caller has been connected
+#: ../src/empathy-streamed-media-window.c:2144
+#, c-format
+msgid "Connected — %d:%02dm"
+msgstr "Terhubung — %d:%02dm"
+
+#: ../src/empathy-streamed-media-window.c:2205
+#: ../src/empathy-call-window.c:2846
+msgid "Technical Details"
+msgstr "Rincian Teknis"
+
+#: ../src/empathy-streamed-media-window.c:2243
+#: ../src/empathy-call-window.c:2884
+#, c-format
+msgid "%s's software does not understand any of the audio formats supported by your computer"
+msgstr "Perangkat lunak %s tidak memahami format audio apapun yang didukung oleh komputer Anda"
+
+#: ../src/empathy-streamed-media-window.c:2248
+#: ../src/empathy-call-window.c:2889
+#, c-format
+msgid "%s's software does not understand any of the video formats supported by your computer"
+msgstr "Perangkat lunak %s tidak memahami format video apapun yang didukung oleh komputer Anda"
+
+#: ../src/empathy-streamed-media-window.c:2254
+#: ../src/empathy-call-window.c:2895
+#, c-format
+msgid "Can't establish a connection to %s. One of you might be on a network that does not allow direct connections."
+msgstr "Tidak dapat membuat sambungan ke %s. Salah satu dari Anda mungkin berada pada jaringan yang tidak mengizinkan koneksi langsung."
+
+#: ../src/empathy-streamed-media-window.c:2260
+#: ../src/empathy-call-window.c:2901
+msgid "There was a failure on the network"
+msgstr "Ada kegagalan pada jaringan"
+
+#: ../src/empathy-streamed-media-window.c:2264
+#: ../src/empathy-call-window.c:2905
+msgid "The audio formats necessary for this call are not installed on your computer"
+msgstr "Format audio yang diperlukan untuk panggilan ini tidak diinstal pada komputer Anda"
+
+#: ../src/empathy-streamed-media-window.c:2267
+#: ../src/empathy-call-window.c:2908
+msgid "The video formats necessary for this call are not installed on your computer"
+msgstr "Format video yang diperlukan untuk panggilan ini tidak diinstal pada komputer Anda"
+
+#: ../src/empathy-streamed-media-window.c:2277
+#: ../src/empathy-call-window.c:2920
+#, c-format
+msgid "Something unexpected happened in a Telepathy component. Please <a href=\"%s\">report this bug</a> and attach logs gathered from the 'Debug' window in the Help menu."
+msgstr "Sesuatu yang tidak terduga terjadi dalam komponen Telepathy. Silakan <a href=\"%s\">laporkan bug ini</a> dan melampirkan log yang dikumpulkan dari jendela 'Debug' dalam menu Bantuan."
+
+#: ../src/empathy-streamed-media-window.c:2285
+#: ../src/empathy-call-window.c:2929
+msgid "There was a failure in the call engine"
+msgstr "Ada kegagalan dalam mesin panggilan"
+
+#: ../src/empathy-streamed-media-window.c:2288
+#: ../src/empathy-call-window.c:2932
+msgid "The end of the stream was reached"
+msgstr "Akhir stream tercapai"
+
+#: ../src/empathy-streamed-media-window.c:2328
+#: ../src/empathy-call-window.c:2972
+msgid "Can't establish audio stream"
+msgstr "Tidak dapat membangun aliran audio"
+
+#: ../src/empathy-streamed-media-window.c:2338
+#: ../src/empathy-call-window.c:2982
+msgid "Can't establish video stream"
+msgstr "Tidak bisa membangun aliran video"
+
+#: ../src/empathy-call-window.ui.h:1
+#: ../src/empathy-preferences.ui.h:2
+#: ../src/empathy-streamed-media-window.ui.h:1
+msgid "Audio"
+msgstr "Audio"
+
+#: ../src/empathy-call-window.ui.h:3
+#: ../src/empathy-streamed-media-window.ui.h:5
+msgid "Decoding Codec:"
+msgstr "Codec Pengawakode:"
+
+#: ../src/empathy-call-window.ui.h:4
+msgid "Disable camera"
+msgstr "Matikan kamera"
+
+#: ../src/empathy-call-window.ui.h:5
+msgid "Display the dialpad"
+msgstr "Tampilkan dialpad"
+
+#: ../src/empathy-call-window.ui.h:6
+#: ../src/empathy-streamed-media-window.ui.h:9
+msgid "Encoding Codec:"
+msgstr "Codec Pengode:"
+
+#: ../src/empathy-call-window.ui.h:7
+#: ../src/empathy-streamed-media-window.ui.h:10
+msgid "Hang up"
+msgstr "Menggantung"
+
+#: ../src/empathy-call-window.ui.h:8
+#: ../src/empathy-streamed-media-window.ui.h:11
+msgid "Hang up current call"
+msgstr "Tutup saat panggilan"
+
+#: ../src/empathy-call-window.ui.h:9
+#: ../src/empathy-streamed-media-window.ui.h:12
+msgid "Local Candidate:"
+msgstr "Kandidat Lokal:"
+
+#: ../src/empathy-call-window.ui.h:10
+msgid "Maximise me"
+msgstr "Maksimalkan saya"
+
+#: ../src/empathy-call-window.ui.h:11
+msgid "Minimise me"
+msgstr "Minimalkan saya"
+
+#: ../src/empathy-call-window.ui.h:12
+#: ../src/empathy-streamed-media-window.ui.h:15
+msgid "Remote Candidate:"
+msgstr "Kandidat Jauh:"
+
+#: ../src/empathy-call-window.ui.h:13
+#: ../src/empathy-streamed-media-window.ui.h:16
+msgid "Send Audio"
+msgstr "Kirim Audio"
+
+#: ../src/empathy-call-window.ui.h:14
+msgid "Send Video"
+msgstr "Kirim Video"
+
+#: ../src/empathy-call-window.ui.h:15
+msgid "Show dialpad"
+msgstr "Tampilkan dialpad"
+
+#: ../src/empathy-call-window.ui.h:16
+msgid "Start a video call"
+msgstr "Mulai panggilan video"
+
+#: ../src/empathy-call-window.ui.h:17
+msgid "Start an audio call"
+msgstr "Mulai panggilan audio"
+
+#: ../src/empathy-call-window.ui.h:18
+msgid "Swap camera"
+msgstr "Tukar kamera"
+
+#: ../src/empathy-call-window.ui.h:19
+#: ../src/empathy-streamed-media-window.ui.h:17
+msgid "Toggle audio transmission"
+msgstr "Aktifkan transmisi audio"
+
+#: ../src/empathy-call-window.ui.h:20
+msgid "Toggle video transmission"
+msgstr "Jungkitkan transmisi video"
+
+#: ../src/empathy-call-window.ui.h:21
+#: ../src/empathy-streamed-media-window.ui.h:18
+#: ../src/empathy-call-window.c:2476
+#: ../src/empathy-call-window.c:2477
+#: ../src/empathy-call-window.c:2478
+#: ../src/empathy-call-window.c:2479
+msgid "Unknown"
+msgstr "Tidak Diketahui"
+
+#: ../src/empathy-call-window.ui.h:23
+msgid "Video call"
+msgstr "Panggilan video"
+
+#: ../src/empathy-call-window.ui.h:24
+#: ../src/empathy-streamed-media-window.ui.h:24
+msgid "_Call"
+msgstr "_Panggil"
+
+#: ../src/empathy-call-window.ui.h:25
+msgid "_Camera"
+msgstr "_Kamera"
+
+#: ../src/empathy-call-window.ui.h:26
+#: ../src/empathy-chat-window.ui.h:9
+#: ../src/empathy-main-window-menubar.ui.h:18
+msgid "_Contents"
+msgstr "_Isi"
+
+#: ../src/empathy-call-window.ui.h:27
+#: ../src/empathy-main-window-menubar.ui.h:19
+msgid "_Debug"
+msgstr "_Debug"
+
+#: ../src/empathy-call-window.ui.h:29
+#: ../src/empathy-chat-window.ui.h:14
+#: ../src/empathy-main-window-menubar.ui.h:22
+msgid "_Help"
+msgstr "_Bantuan"
+
+#: ../src/empathy-call-window.ui.h:30
+msgid "_Microphone"
+msgstr "_Mikrofon"
+
+#: ../src/empathy-call-window.ui.h:31
+msgid "_Settings"
+msgstr "_Pengaturan"
+
+#: ../src/empathy-call-window.ui.h:32
+#: ../src/empathy-main-window-menubar.ui.h:30
+#: ../src/empathy-streamed-media-window.ui.h:25
+msgid "_View"
+msgstr "_Lihat"
+
+#: ../src/empathy-chat-window.c:481
+#: ../src/empathy-chat-window.c:501
+#, c-format
+msgid "%s (%d unread)"
+msgid_plural "%s (%d unread)"
+msgstr[0] "%s (%d belum dibaca)"
+
+#: ../src/empathy-chat-window.c:493
+#, c-format
+msgid "%s (and %u other)"
+msgid_plural "%s (and %u others)"
+msgstr[0] "%s (dan %u lainnya)"
+
+#: ../src/empathy-chat-window.c:509
+#, c-format
+msgid "%s (%d unread from others)"
+msgid_plural "%s (%d unread from others)"
+msgstr[0] "%s (%d belum dibaca dari lainnya)"
+
+#: ../src/empathy-chat-window.c:518
+#, c-format
+msgid "%s (%d unread from all)"
+msgid_plural "%s (%d unread from all)"
+msgstr[0] "%s (%d belum dibaca dari semua)"
+
+#: ../src/empathy-chat-window.c:733
+msgid "SMS:"
+msgstr "SMS:"
+
+#: ../src/empathy-chat-window.c:743
+#, c-format
+msgid "Sending %d message"
+msgid_plural "Sending %d messages"
+msgstr[0] "Sedang mengirim %d pesan"
+
+#: ../src/empathy-chat-window.c:765
+msgid "Typing a message."
+msgstr "Ketik pesan."
+
+#: ../src/empathy-chat-window.ui.h:1
+msgid "C_lear"
+msgstr "Bersi_hkan"
+
+#: ../src/empathy-chat-window.ui.h:2
+msgid "C_ontact"
+msgstr "K_ontak"
+
+#: ../src/empathy-chat-window.ui.h:4
+msgid "Insert _Smiley"
+msgstr "Masukkan _Smiley"
+
+#: ../src/empathy-chat-window.ui.h:5
+msgid "Invite _Participant…"
+msgstr "Undang _Peserta.."
+
+#: ../src/empathy-chat-window.ui.h:6
+msgid "Move Tab _Left"
+msgstr "Pindahkan Tab Ke Ki_ri"
+
+#: ../src/empathy-chat-window.ui.h:7
+msgid "Move Tab _Right"
+msgstr "Pindahkan Tab Ke _Kanan"
+
+#: ../src/empathy-chat-window.ui.h:8
+msgid "Notify for All Messages"
+msgstr "Beritahu bagi Semua Pesan"
+
+#: ../src/empathy-chat-window.ui.h:10
+msgid "_Conversation"
+msgstr "Per_cakapan"
+
+#: ../src/empathy-chat-window.ui.h:11
+msgid "_Detach Tab"
+msgstr "_Lepaskan Tab"
+
+#: ../src/empathy-chat-window.ui.h:13
+msgid "_Favorite Chat Room"
+msgstr "Ruang Mengobrol _Favorit"
+
+#: ../src/empathy-chat-window.ui.h:15
+msgid "_Next Tab"
+msgstr "Tab Selanjut_nya"
+
+#: ../src/empathy-chat-window.ui.h:16
+msgid "_Previous Tab"
+msgstr "Ta_b Sebelumnya"
+
+#: ../src/empathy-chat-window.ui.h:17
+#: ../src/empathy-status-icon.ui.h:5
+msgid "_Show Contact List"
+msgstr "_Tampilkan Daftar Kontak"
+
+#: ../src/empathy-chat-window.ui.h:18
+msgid "_Tabs"
+msgstr "_Tab"
+
+#: ../src/empathy-chat-window.ui.h:19
+msgid "_Undo Close Tab"
+msgstr "Batalkan T_utup Tab"
+
+#: ../src/empathy-chatrooms-window.c:251
+msgid "Name"
+msgstr "Nama"
+
+#: ../src/empathy-chatrooms-window.c:269
+msgid "Room"
+msgstr "Ruang"
+
+#: ../src/empathy-chatrooms-window.c:277
+msgid "Auto-Connect"
+msgstr "Tersambung-Otomatis"
+
+#: ../src/empathy-chatrooms-window.ui.h:2
+msgid "Manage Favorite Rooms"
+msgstr "Mengelola Ruang Favorit"
+
+#: ../src/empathy-event-manager.c:521
+msgid "Incoming video call"
+msgstr "Panggilan video masuk"
+
+#: ../src/empathy-event-manager.c:521
+#: ../src/empathy-call-window.c:1449
+msgid "Incoming call"
+msgstr "Panggilan masuk"
+
+#: ../src/empathy-event-manager.c:525
+#, c-format
+msgid "%s is video calling you. Do you want to answer?"
+msgstr "%s memanggil Anda lewat video. Apakah Anda ingin menjawab?"
+
+#: ../src/empathy-event-manager.c:526
+#, c-format
+msgid "%s is calling you. Do you want to answer?"
+msgstr "%s memanggil Anda. Apakah Anda ingin menjawab?"
+
+#: ../src/empathy-event-manager.c:529
+#: ../src/empathy-event-manager.c:730
+#: ../src/empathy-event-manager.c:763
+#: ../src/empathy-call-window.c:1455
+#, c-format
+msgid "Incoming call from %s"
+msgstr "Panggilan masuk dari %s"
+
+#: ../src/empathy-event-manager.c:554
+msgid "_Reject"
+msgstr "_Tolak"
+
+#: ../src/empathy-event-manager.c:562
+#: ../src/empathy-event-manager.c:570
+msgid "_Answer"
+msgstr "_Jawab"
+
+#: ../src/empathy-event-manager.c:570
+msgid "_Answer with video"
+msgstr "J_awab dengan video"
+
+#: ../src/empathy-event-manager.c:730
+#: ../src/empathy-event-manager.c:763
+#: ../src/empathy-call-window.c:1455
+#, c-format
+msgid "Incoming video call from %s"
+msgstr "Panggilan video masuk dari %s"
+
+#: ../src/empathy-event-manager.c:836
+msgid "Room invitation"
+msgstr "Undangan ruang"
+
+#: ../src/empathy-event-manager.c:838
+#, c-format
+msgid "Invitation to join %s"
+msgstr "Undangan untuk bergabung di %s"
+
+#: ../src/empathy-event-manager.c:845
+#, c-format
+msgid "%s is inviting you to join %s"
+msgstr "%s mengundang Anda untuk bergabung dengan %s"
+
+#: ../src/empathy-event-manager.c:853
+msgid "_Decline"
+msgstr "_Tolak"
+
+#: ../src/empathy-event-manager.c:858
+#: ../src/empathy-new-chatroom-dialog.ui.h:7
+msgid "_Join"
+msgstr "_Gabung"
+
+#: ../src/empathy-event-manager.c:885
+#, c-format
+msgid "%s invited you to join %s"
+msgstr "%s mengundang Anda untuk bergabung dengan %s"
+
+#: ../src/empathy-event-manager.c:891
+#, c-format
+msgid "You have been invited to join %s"
+msgstr "Anda diundang untuk bergabung di %s"
+
+#: ../src/empathy-event-manager.c:942
+#, c-format
+msgid "Incoming file transfer from %s"
+msgstr "Kedatangan transfer berkas dari %s"
+
+#: ../src/empathy-event-manager.c:1134
+#: ../src/empathy-main-window.c:375
+msgid "Password required"
+msgstr "Memerlukan sandi"
+
+#: ../src/empathy-event-manager.c:1190
+#, c-format
+msgid "%s would like permission to see when you are online"
+msgstr "%s ingin dapat melihat ketika Anda daring"
+
+#: ../src/empathy-event-manager.c:1194
+#, c-format
+msgid ""
+"\n"
+"Message: %s"
+msgstr ""
+"\n"
+"Pesan: %s"
+
+#. Translators: time left, when it is more than one hour
+#: ../src/empathy-ft-manager.c:100
+#, c-format
+msgid "%u:%02u.%02u"
+msgstr "%u:%02u.%02u"
+
+#. Translators: time left, when is is less than one hour
+#: ../src/empathy-ft-manager.c:103
+#, c-format
+msgid "%02u.%02u"
+msgstr "%02u.%02u"
+
+#: ../src/empathy-ft-manager.c:179
+msgctxt "file transfer percent"
+msgid "Unknown"
+msgstr "Tidak diketahui"
+
+#: ../src/empathy-ft-manager.c:274
+#, c-format
+msgid "%s of %s at %s/s"
+msgstr "%s dari %s di %s/s"
+
+#: ../src/empathy-ft-manager.c:275
+#, c-format
+msgid "%s of %s"
+msgstr "%s dari %s"
+
+#. translators: first %s is filename, second %s is the contact name
+#: ../src/empathy-ft-manager.c:306
+#, c-format
+msgid "Receiving \"%s\" from %s"
+msgstr "Menerima \"%s\" dari %s"
+
+#. translators: first %s is filename, second %s is the contact name
+#: ../src/empathy-ft-manager.c:309
+#, c-format
+msgid "Sending \"%s\" to %s"
+msgstr "Mengirim \"%s\" ke %s"
+
+#. translators: first %s is filename, second %s
+#. * is the contact name
+#: ../src/empathy-ft-manager.c:339
+#, c-format
+msgid "Error receiving \"%s\" from %s"
+msgstr "Kesalahan menerima \"%s\" dari %s"
+
+#: ../src/empathy-ft-manager.c:342
+msgid "Error receiving a file"
+msgstr "Kesalahan menerima berkas"
+
+#: ../src/empathy-ft-manager.c:347
+#, c-format
+msgid "Error sending \"%s\" to %s"
+msgstr "Gagal mengirim \"%s\" ke %s"
+
+#: ../src/empathy-ft-manager.c:350
+msgid "Error sending a file"
+msgstr "Gagal mengirim berkas"
+
+#. translators: first %s is filename, second %s
+#. * is the contact name
+#: ../src/empathy-ft-manager.c:489
+#, c-format
+msgid "\"%s\" received from %s"
+msgstr "\"%s\" diterima dari %s"
+
+#. translators: first %s is filename, second %s
+#. * is the contact name
+#: ../src/empathy-ft-manager.c:494
+#, c-format
+msgid "\"%s\" sent to %s"
+msgstr "\"%s\" dikirim ke %s"
+
+#: ../src/empathy-ft-manager.c:497
+msgid "File transfer completed"
+msgstr "Transfer berkas selesai"
+
+#: ../src/empathy-ft-manager.c:616
+#: ../src/empathy-ft-manager.c:780
+msgid "Waiting for the other participant's response"
+msgstr "Menunggu tanggapan peserta lain"
+
+#: ../src/empathy-ft-manager.c:642
+#: ../src/empathy-ft-manager.c:680
+#, c-format
+msgid "Checking integrity of \"%s\""
+msgstr "Memeriksa integritas \"%s\""
+
+#: ../src/empathy-ft-manager.c:645
+#: ../src/empathy-ft-manager.c:683
+#, c-format
+msgid "Hashing \"%s\""
+msgstr "Hashing \"%s\""
+
+#: ../src/empathy-ft-manager.c:1026
+msgid "%"
+msgstr "%"
+
+#: ../src/empathy-ft-manager.c:1038
+msgid "File"
+msgstr "Berkas"
+
+#: ../src/empathy-ft-manager.c:1060
+msgid "Remaining"
+msgstr "Tersisa"
+
+#: ../src/empathy-ft-manager.ui.h:1
+msgid "File Transfers"
+msgstr "Transfer Berkas"
+
+#: ../src/empathy-ft-manager.ui.h:2
+msgid "Remove completed, canceled and failed file transfers from the list"
+msgstr "Hapus transfer berkas yang selesai, batal dan gagal dari daftar"
+
+#: ../src/empathy-import-dialog.c:84
+msgid "No accounts to import could be found. Empathy currently only supports importing accounts from Pidgin."
+msgstr "Tidak ada akun yang akan diimpor dapat ditemukan. Empathy saat ini hanya mendukung pengimporan akun dari Pidgin."
+
+#: ../src/empathy-import-dialog.c:199
+msgid "Import Accounts"
+msgstr "Impor Akun"
+
+#. Translators: this is the header of a treeview column
+#: ../src/empathy-import-widget.c:301
+msgid "Import"
+msgstr "Impor"
+
+#: ../src/empathy-import-widget.c:310
+msgid "Protocol"
+msgstr "Protokol"
+
+#: ../src/empathy-import-widget.c:334
+msgid "Source"
+msgstr "Sumber"
+
+#: ../src/empathy-main-window.c:392
+msgid "Provide Password"
+msgstr "Sediakan Sandi"
+
+#: ../src/empathy-main-window.c:398
+msgid "Disconnect"
+msgstr "Putus"
+
+#: ../src/empathy-main-window.c:622
+msgid "No match found"
+msgstr "Tidak ada yang cocok"
+
+#: ../src/empathy-main-window.c:777
+msgid "Reconnect"
+msgstr "Hubungkan kembali"
+
+#: ../src/empathy-main-window.c:783
+msgid "Edit Account"
+msgstr "Sunting Akun"
+
+#: ../src/empathy-main-window.c:789
+msgid "Close"
+msgstr "Tutup"
+
+#. Translators: this string will be something like:
+#. *   Top up My Account ($1.23)..."
+#: ../src/empathy-main-window.c:928
+#, c-format
+msgid "Top up %s (%s)..."
+msgstr "Isi ulang %s (%s)..."
+
+#: ../src/empathy-main-window.c:975
+msgid "Top up account credit"
+msgstr "Isi ulang kredit akun"
+
+#. top up button
+#: ../src/empathy-main-window.c:1046
+msgid "Top Up..."
+msgstr "Isi Ulang..."
+
+#: ../src/empathy-main-window.c:1789
+msgid "Contact"
+msgstr "Kontak"
+
+#: ../src/empathy-main-window.c:2121
+msgid "Contact List"
+msgstr "Daftar Kontak"
+
+#: ../src/empathy-main-window-menubar.ui.h:1
+msgid "Contacts on a _Map"
+msgstr "Kontak pada Pe_ta"
+
+#: ../src/empathy-main-window-menubar.ui.h:2
+msgid "Credit Balance"
+msgstr "Sisa Kredit"
+
+#: ../src/empathy-main-window-menubar.ui.h:3
+msgid "Find in Contact _List"
+msgstr "Cari di _Daftar Kontak"
+
+# favorite -> favorit
+#: ../src/empathy-main-window-menubar.ui.h:4
+msgid "Join _Favorites"
+msgstr "Gabung _Favorit"
+
+#: ../src/empathy-main-window-menubar.ui.h:5
+msgid "Manage Favorites"
+msgstr "Mengelola Favorit"
+
+#: ../src/empathy-main-window-menubar.ui.h:6
+msgid "N_ormal Size"
+msgstr "Ukuran N_ormal"
+
+#: ../src/empathy-main-window-menubar.ui.h:7
+#: ../src/empathy-status-icon.ui.h:1
+msgid "New _Call…"
+msgstr "_Panggilan Baru ..."
+
+#: ../src/empathy-main-window-menubar.ui.h:8
+msgid "Normal Size With _Avatars"
+msgstr "Ukuran Normal Dengan _Avatar"
+
+#: ../src/empathy-main-window-menubar.ui.h:9
+msgid "P_references"
+msgstr "P_referensi"
+
+#: ../src/empathy-main-window-menubar.ui.h:10
+msgid "Show P_rotocols"
+msgstr "Tampilkan P_rotokol"
+
+#: ../src/empathy-main-window-menubar.ui.h:11
+msgid "Sort by _Name"
+msgstr "Urutkan menurut _Nama"
+
+#: ../src/empathy-main-window-menubar.ui.h:12
+msgid "Sort by _Status"
+msgstr "Urutkan menurut _Status"
+
+#: ../src/empathy-main-window-menubar.ui.h:13
+msgid "_Accounts"
+msgstr "_Akun"
+
+#: ../src/empathy-main-window-menubar.ui.h:15
+msgid "_Blocked Contacts"
+msgstr "Kontak Yang Di_blokir"
+
+#: ../src/empathy-main-window-menubar.ui.h:17
+msgid "_Compact Size"
+msgstr "Ukuran _Ringkas"
+
+#: ../src/empathy-main-window-menubar.ui.h:21
+msgid "_File Transfers"
+msgstr "Trans_fer Berkas"
+
+#: ../src/empathy-main-window-menubar.ui.h:23
+msgid "_Join…"
+msgstr "_Gabung..."
+
+#: ../src/empathy-main-window-menubar.ui.h:24
+#: ../src/empathy-status-icon.ui.h:3
+msgid "_New Conversation…"
+msgstr "Percakapa_n Baru..."
+
+#: ../src/empathy-main-window-menubar.ui.h:25
+msgid "_Offline Contacts"
+msgstr "K_ontak Luring"
+
+#: ../src/empathy-main-window-menubar.ui.h:26
+msgid "_Personal Information"
+msgstr "Informasi _Personal"
+
+#: ../src/empathy-main-window-menubar.ui.h:28
+msgid "_Room"
+msgstr "_Ruang"
+
+#: ../src/empathy-main-window-menubar.ui.h:29
+msgid "_Search for Contacts…"
+msgstr "_Cari Kontak..."
+
+#: ../src/empathy-new-chatroom-dialog.c:337
+msgid "Chat Room"
+msgstr "Ruang Mengobrol"
+
+#: ../src/empathy-new-chatroom-dialog.c:353
+msgid "Members"
+msgstr "Anggota"
+
+#. Translators: Room/Join's roomlist tooltip. Parameters are a channel name,
+#. yes/no, yes/no and a number.
+#: ../src/empathy-new-chatroom-dialog.c:553
+#, c-format
+msgid ""
+"%s\n"
+"Invite required: %s\n"
+"Password required: %s\n"
+"Members: %s"
+msgstr ""
+"%s\n"
+"Undangan dibutuhkan: %s\n"
+"Sandi diperlukan: %s\n"
+"Anggota: %s"
+
+#: ../src/empathy-new-chatroom-dialog.c:555
+#: ../src/empathy-new-chatroom-dialog.c:556
+msgid "No"
+msgstr "Tidak"
+
+#: ../src/empathy-new-chatroom-dialog.c:584
+msgid "Could not start room listing"
+msgstr "Tidak dapat memulai daftar ruang"
+
+#: ../src/empathy-new-chatroom-dialog.c:594
+msgid "Could not stop room listing"
+msgstr "Tak dapat menghentikan daftar ruang"
+
+#: ../src/empathy-new-chatroom-dialog.ui.h:2
+msgid "Couldn't load room list"
+msgstr "Tidak dapat mengambil daftar ruang"
+
+#: ../src/empathy-new-chatroom-dialog.ui.h:3
+msgid "Enter the room name to join here or click on one or more rooms in the list."
+msgstr "Masukkan nama ruang untuk bergabung di sini atau klik pada salah satu atau lebih ruang dalam daftar."
+
+#: ../src/empathy-new-chatroom-dialog.ui.h:4
+msgid "Enter the server which hosts the room, or leave it empty if the room is on the current account's server"
+msgstr "Masukkan server yang memuat ruang, atau biarkan kosong jika ruangan berada di server yang sedang berjalan"
+
+#: ../src/empathy-new-chatroom-dialog.ui.h:5
+msgid "Join Room"
+msgstr "Gabung Ruang"
+
+#: ../src/empathy-new-chatroom-dialog.ui.h:6
+msgid "Room List"
+msgstr "Daftar Ruang"
+
+#: ../src/empathy-new-chatroom-dialog.ui.h:8
+msgid "_Room:"
+msgstr "_Ruang:"
+
+#: ../src/empathy-preferences.c:169
+msgid "Message received"
+msgstr "Pesan diterima"
+
+#: ../src/empathy-preferences.c:170
+msgid "Message sent"
+msgstr "Pesan terkirim"
+
+#: ../src/empathy-preferences.c:171
+msgid "New conversation"
+msgstr "Percakapan baru"
+
+#: ../src/empathy-preferences.c:172
+msgid "Contact goes online"
+msgstr "Kontak pergi daring"
+
+#: ../src/empathy-preferences.c:173
+msgid "Contact goes offline"
+msgstr "Kontak pergi luring"
+
+#: ../src/empathy-preferences.c:174
+msgid "Account connected"
+msgstr "Akun terhubung"
+
+#: ../src/empathy-preferences.c:175
+msgid "Account disconnected"
+msgstr "Akun terputus"
+
+#: ../src/empathy-preferences.c:484
+msgid "Language"
+msgstr "Bahasa"
+
+#. translators: Contact name for the chat theme preview
+#: ../src/empathy-preferences.c:734
+msgid "Juliet"
+msgstr "Juliet"
+
+#. translators: Contact name for the chat theme preview
+#: ../src/empathy-preferences.c:741
+msgid "Romeo"
+msgstr "Romeo"
+
+#. translators: Quote from Romeo & Julier, for chat theme preview
+#: ../src/empathy-preferences.c:747
+msgid "O Romeo, Romeo, wherefore art thou Romeo?"
+msgstr "O Romeo, Romeo, wherefore art thou Romeo?"
+
+#. translators: Quote from Romeo & Julier, for chat theme preview
+#: ../src/empathy-preferences.c:750
+msgid "Deny thy father and refuse thy name;"
+msgstr "Deny thy father and refuse thy name;"
+
+#. translators: Quote from Romeo & Julier, for chat theme preview
+#: ../src/empathy-preferences.c:753
+msgid "Or if thou wilt not, be but sworn my love"
+msgstr "Or if thou wilt not, be but sworn my love"
+
+#. translators: Quote from Romeo & Julier, for chat theme preview
+#: ../src/empathy-preferences.c:756
+msgid "And I'll no longer be a Capulet."
+msgstr "And I'll no longer be a Capulet."
+
+#. translators: Quote from Romeo & Julier, for chat theme preview
+#: ../src/empathy-preferences.c:759
+msgid "Shall I hear more, or shall I speak at this?"
+msgstr "Shall I hear more, or shall I speak at this?"
+
+#. translators: Quote from Romeo & Julier, for chat theme preview
+#: ../src/empathy-preferences.c:762
+msgid "Juliet has disconnected"
+msgstr "Juliet telah terputus"
+
+#: ../src/empathy-preferences.c:1166
+msgid "Preferences"
+msgstr "Preferensi"
+
+#: ../src/empathy-preferences.ui.h:1
+msgid "Appearance"
+msgstr "Penampilan"
+
+#: ../src/empathy-preferences.ui.h:3
+msgid "Behavior"
+msgstr "Tingkah laku"
+
+#: ../src/empathy-preferences.ui.h:5
+msgid "Chat Th_eme:"
+msgstr "T_ema Obrolan:"
+
+#: ../src/empathy-preferences.ui.h:6
+msgid "Disable notifications when _away or busy"
+msgstr "Nonaktifkan pemberitahuan bila pergi _atau sibuk"
+
+#: ../src/empathy-preferences.ui.h:7
+msgid "Disable sounds when _away or busy"
+msgstr "Nonaktifkan suara ketika pergi _atau sibuk"
+
+#: ../src/empathy-preferences.ui.h:8
+msgid "Display incoming events in the notification area"
+msgstr "Tampilkan kejadian masuk di area pemberitahuan"
+
+#: ../src/empathy-preferences.ui.h:9
+msgid "Echo cancellation helps to make your voice sound clearer to the other person, but may cause problems on some computers. If you or the other person hear strange noises or glitches during calls, try turning echo cancellation off and restarting the call."
+msgstr "Pembatalan gaung membantu membuat suara Anda terdengar lebih jelas bagi pihak lain, tapi mungkin menyebabkan masalah pada beberapa komputer. Bila Anda atau pihak lain mendengar derau aneh atau gangguang selama panggilan, cobalah mematikan pembatalan gaung dan memulai ulang panggilan."
+
+#: ../src/empathy-preferences.ui.h:10
+msgid "Enable notifications when a contact comes online"
+msgstr "Aktifkan pemberitahuan bila kontak daring"
+
+#: ../src/empathy-preferences.ui.h:11
+msgid "Enable notifications when a contact goes offline"
+msgstr "Aktifkan pemberitahuan bila kontak luring"
+
+#: ../src/empathy-preferences.ui.h:12
+msgid "Enable notifications when the _chat is not focused"
+msgstr "Aktifkan pemberitahuan bila _obrolan tidak fokus"
+
+#: ../src/empathy-preferences.ui.h:13
+msgid "Enable spell checking for languages:"
+msgstr "Aktifkan pemeriksaan ejaan untuk bahasa:"
+
+#: ../src/empathy-preferences.ui.h:14
+msgid "General"
+msgstr "Umum"
+
+#: ../src/empathy-preferences.ui.h:15
+msgid "Input level:"
+msgstr "Tingkat masukan:"
+
+#: ../src/empathy-preferences.ui.h:16
+msgid "Input volume:"
+msgstr "Volume masukan:"
+
+#: ../src/empathy-preferences.ui.h:18
+msgid "Location sources:"
+msgstr "Sumber lokasi:"
+
+#: ../src/empathy-preferences.ui.h:19
+msgid "Log conversations"
+msgstr "Log percakapan"
+
+#: ../src/empathy-preferences.ui.h:20
+msgid "Notifications"
+msgstr "Notifikasi"
+
+#: ../src/empathy-preferences.ui.h:21
+msgid "Play sound for events"
+msgstr "Putar suara untuk acara"
+
+#: ../src/empathy-preferences.ui.h:22
+msgid "Privacy"
+msgstr "Pribadi"
+
+#: ../src/empathy-preferences.ui.h:23
+msgid "Reduced location accuracy means that nothing more precise than your city, state and country will be published.  GPS coordinates will be accurate to 1 decimal place."
+msgstr "Mengurangi ketepatan lokasi berarti bahwa jika tidak ada yang lebih tepat dari kota Anda, propinsi dan negara akan dipublikasikan. Koordinat GPS akan akurat sampai 1 tempat desimal."
+
+#: ../src/empathy-preferences.ui.h:24
+msgid "Show _smileys as images"
+msgstr "Tampilkan _smiley sebagai gambar"
+
+#: ../src/empathy-preferences.ui.h:25
+msgid "Show contact _list in rooms"
+msgstr "Tampi_lkan daftar kontak di ruang"
+
+#: ../src/empathy-preferences.ui.h:26
+msgid "Sounds"
+msgstr "Suara"
+
+#: ../src/empathy-preferences.ui.h:27
+msgid "Spell Checking"
+msgstr "Pemeriksaan Ejaan"
+
+#: ../src/empathy-preferences.ui.h:28
+msgid "The list of languages reflects only the languages for which you have a dictionary installed."
+msgstr "Daftar bahasa yang ada hanya mencerminkan bahasa yang telah memiliki kamus yang terinstal."
+
+#: ../src/empathy-preferences.ui.h:29
+msgid "Themes"
+msgstr "Tema"
+
+# bearing = arah?
+#: ../src/empathy-preferences.ui.h:30
+msgid "Variant:"
+msgstr "Varian:"
+
+#: ../src/empathy-preferences.ui.h:31
+msgid "_Automatically connect on startup"
+msgstr "Koneksi otom_atis saat memulai"
+
+#: ../src/empathy-preferences.ui.h:32
+msgid "_Cellphone"
+msgstr "Telepon _seluler"
+
+#: ../src/empathy-preferences.ui.h:33
+msgid "_Enable bubble notifications"
+msgstr "Aktifkan pemberitahuan g_elembung"
+
+#: ../src/empathy-preferences.ui.h:34
+msgid "_Enable sound notifications"
+msgstr "Aktifkan p_emberitahuan suara"
+
+#: ../src/empathy-preferences.ui.h:35
+msgid "_GPS"
+msgstr "_GPS"
+
+#: ../src/empathy-preferences.ui.h:36
+msgid "_Network (IP, Wi-Fi)"
+msgstr "Jaringa_n (IP, Wi-Fi)"
+
+#: ../src/empathy-preferences.ui.h:37
+msgid "_Open new chats in separate windows"
+msgstr "Buka _obrolan baru di jendela terpisah"
+
+#: ../src/empathy-preferences.ui.h:38
+msgid "_Publish location to my contacts"
+msgstr "Tam_pilkan lokasi untuk kontak saya"
+
+#. To translators: The longitude and latitude are rounded to closest 0,1 degrees, so for example 146,2345° is rounded to round(146,2345*10)/10 = 146,2 degrees.
+#: ../src/empathy-preferences.ui.h:40
+msgid "_Reduce location accuracy"
+msgstr "Ku_rangi akurasi lokasi"
+
+#: ../src/empathy-status-icon.ui.h:2
+msgid "Status"
+msgstr "Status"
+
+#: ../src/empathy-status-icon.ui.h:4
+msgid "_Quit"
+msgstr "_Keluar"
+
+#: ../src/empathy-streamed-media-window.ui.h:2
+msgid "Call the contact again"
+msgstr "Memanggil kontak lagi"
+
+#: ../src/empathy-streamed-media-window.ui.h:3
+msgid "Camera Off"
+msgstr "Kamera Mati"
+
+#: ../src/empathy-streamed-media-window.ui.h:4
+msgid "Camera On"
+msgstr "Kamera Hidup"
+
+#: ../src/empathy-streamed-media-window.ui.h:6
+msgid "Disable camera and stop sending video"
+msgstr "Nonaktifkan kamera dan menghentikan pengiriman video"
+
+#: ../src/empathy-streamed-media-window.ui.h:7
+msgid "Enable camera and send video"
+msgstr "Aktifkan kamera dan mengirim video"
+
+#: ../src/empathy-streamed-media-window.ui.h:8
+msgid "Enable camera but don't send video"
+msgstr "Aktifkan kamera tetapi tidak mengirim video"
+
+#: ../src/empathy-streamed-media-window.ui.h:13
+msgid "Preview"
+msgstr "Pra-tampil"
+
+#: ../src/empathy-streamed-media-window.ui.h:14
+msgid "Redial"
+msgstr "Panggil ulang"
+
+#: ../src/empathy-streamed-media-window.ui.h:19
+msgid "V_ideo"
+msgstr "V_ideo"
+
+#: ../src/empathy-streamed-media-window.ui.h:21
+msgid "Video Off"
+msgstr "Video Mati"
+
+#: ../src/empathy-streamed-media-window.ui.h:22
+msgid "Video On"
+msgstr "Video Hidup"
+
+#: ../src/empathy-streamed-media-window.ui.h:23
+msgid "Video Preview"
+msgstr "Video Pra-tampil"
+
+#: ../src/empathy-map-view.c:448
+msgid "Contact Map View"
+msgstr "Tampilan Peta Kontak"
+
+#: ../src/empathy-debug-window.c:1228
+msgid "Save"
+msgstr "Simpan"
+
+#: ../src/empathy-debug-window.c:1435
+msgid "Debug Window"
+msgstr "Jendela Debug"
+
+#: ../src/empathy-debug-window.c:1517
+msgid "Pause"
+msgstr "Berhenti sebentar"
+
+#: ../src/empathy-debug-window.c:1529
+msgid "Level "
+msgstr "Tingkat"
+
+#: ../src/empathy-debug-window.c:1549
+msgid "Debug"
+msgstr "Debug"
+
+#: ../src/empathy-debug-window.c:1555
+msgid "Info"
+msgstr "Info"
+
+#: ../src/empathy-debug-window.c:1561
+#: ../src/empathy-debug-window.c:1610
+msgid "Message"
+msgstr "Pesan"
+
+#: ../src/empathy-debug-window.c:1567
+msgid "Warning"
+msgstr "Peringatan"
+
+#: ../src/empathy-debug-window.c:1573
+msgid "Critical"
+msgstr "Kritis"
+
+#: ../src/empathy-debug-window.c:1579
+msgid "Error"
+msgstr "Kesalahan"
+
+#: ../src/empathy-debug-window.c:1598
+msgid "Time"
+msgstr "Waktu"
+
+#: ../src/empathy-debug-window.c:1601
+msgid "Domain"
+msgstr "Domain"
+
+#: ../src/empathy-debug-window.c:1603
+msgid "Category"
+msgstr "Kategori"
+
+#: ../src/empathy-debug-window.c:1605
+msgid "Level"
+msgstr "Tingkat"
+
+#: ../src/empathy-debug-window.c:1642
+msgid "The selected connection manager does not support the remote debugging extension."
+msgstr "Manajer koneksi yang dipilih tidak mendukung ekstensi pengawakutuan jauh."
+
+#: ../src/empathy-invite-participant-dialog.c:179
+#: ../src/empathy-invite-participant-dialog.c:205
+msgid "Invite Participant"
+msgstr "Undang Peserta"
+
+#: ../src/empathy-invite-participant-dialog.c:180
+msgid "Choose a contact to invite into the conversation:"
+msgstr "Pilih kontak untuk diundang ke percakapan:"
+
+#: ../src/empathy-invite-participant-dialog.c:201
+msgid "Invite"
+msgstr "Undang"
+
+#: ../src/empathy-accounts.c:183
+msgid "Don't display any dialogs; do any work (eg, importing) and exit"
+msgstr "Jangan tampilkan dialog apapun; lakukan pekerjaan apapun (misalnya, impor) dan keluar"
+
+#: ../src/empathy-accounts.c:187
+msgid "Don't display any dialogs unless there are only \"People Nearby\" accounts"
+msgstr "Jangan tampilkan dialog apapun kecuali hanya ada akun \"Orang Sekitar\""
+
+#: ../src/empathy-accounts.c:191
+msgid "Initially select given account (eg, gabble/jabber/foo_40example_2eorg0)"
+msgstr "Pertama pilih akun yang diberikan (misalnya, gabble/jabber/foo_40example_2eorg0)"
+
+#: ../src/empathy-accounts.c:193
+msgid "<account-id>"
+msgstr "<id-akun>"
+
+#: ../src/empathy-accounts.c:198
+msgid "- Empathy Accounts"
+msgstr "- Akun Empathy"
+
+#: ../src/empathy-accounts.c:237
+msgid "Empathy Accounts"
+msgstr "Akun Empathy"
+
+#: ../src/empathy-debugger.c:70
+msgid "Show a particular service"
+msgstr "Tampilkan layanan tertentu"
+
+#: ../src/empathy-debugger.c:75
+msgid "- Empathy Debugger"
+msgstr "- Pengawakutu Empathy"
+
+#: ../src/empathy-debugger.c:114
+msgid "Empathy Debugger"
+msgstr "Pengawakutu Empathy"
+
+#: ../src/empathy-chat.c:107
+msgid "- Empathy Chat Client"
+msgstr "- Klien Obrolan Empathy"
+
+#: ../src/empathy-notifications-approver.c:203
+msgid "Respond"
+msgstr "Tanggapan"
+
+#: ../src/empathy-notifications-approver.c:217
+#: ../src/empathy-call-window.c:1459
+msgid "Reject"
+msgstr "Tolak"
+
+#: ../src/empathy-notifications-approver.c:222
+#: ../src/empathy-notifications-approver.c:227
+#: ../src/empathy-call-window.c:1460
+msgid "Answer"
+msgstr "Jawab"
+
+#: ../src/empathy-notifications-approver.c:227
+msgid "Answer with video"
+msgstr "Jawab dengan video"
+
+#: ../src/empathy-notifications-approver.c:235
+#: ../src/empathy-notifications-approver.c:245
+msgid "Decline"
+msgstr "Tolak"
+
+#: ../src/empathy-notifications-approver.c:239
+#: ../src/empathy-notifications-approver.c:250
+msgid "Accept"
+msgstr "Terima"
+
+#. translators: the 'Provide' button is displayed in a notification
+#. * bubble when Empathy is asking for an account password; clicking on it
+#. * brings the password popup.
+#: ../src/empathy-notifications-approver.c:260
+msgid "Provide"
+msgstr "Sediakan"
+
+#: ../src/empathy-call-observer.c:134
+#, c-format
+msgid "%s just tried to call you, but you were in another call."
+msgstr "%s baru saja mencoba memanggil, tapi Anda sedang menerima panggilan lain."
+
+#. Translators: this is an "Info" label. It should be as short
+#. * as possible.
+#: ../src/empathy-call-window.c:1088
+#: ../src/empathy-call-window.c:1111
+msgid "i"
+msgstr "i"
+
+#: ../src/empathy-call-window.c:2775
+msgid "On hold"
+msgstr "Ditahan"
+
+#: ../src/empathy-call-window.c:2778
+msgid "Mute"
+msgstr "Bisu"
+
+#: ../src/empathy-call-window.c:2780
+msgid "Duration"
+msgstr "Durasi"
+
+#. Translators: 'status - minutes:seconds' the caller has been connected
+#: ../src/empathy-call-window.c:2783
+#, c-format
+msgid "%s — %d:%02dm"
+msgstr "%s — %d:%02dm"
+
+#: ../libempathy-gtk/empathy-search-bar.c:243
+msgid "_Match case"
+msgstr "Cocok _huruf besar kecil "
+

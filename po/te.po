@@ -1,0 +1,4707 @@
+# translation of empathy.master.te.po to Telugu
+# Copyright (C) 2011 Gnome Contributors
+# This file is distributed under the same license as the empathy package.
+#
+#
+# Krishna Babu K <kkrothap@redhat.com>, 2009.
+# Praveen Illa <mail2ipn@gmail.com>, 2011.
+# Krishnababu Krothapalli <kkrothap@redhat.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: empathy.master.te\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug."
+"cgi?product=empathy&keywords=I18N+L10N&component=General\n"
+"POT-Creation-Date: 2011-06-15 10:09+0000\n"
+"PO-Revision-Date: 2011-06-15 20:28+0530\n"
+"Last-Translator: Krishnababu Krothapalli <kkrothap@redhat.com>\n"
+"Language-Team: Telugu <indlinux-telugu@lists.sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"Language: te\n"
+
+#: ../data/empathy.desktop.in.in.h:1
+msgid "Chat on Google Talk, Facebook, MSN and many other chat services"
+msgstr "గూగుల్ టాక్, ఫేస్‌బుక్, MSN వంటి మరిన్ని ఇతర చాట్ సేవలలో సంభాషించండి"
+
+#: ../data/empathy.desktop.in.in.h:2
+msgid "Empathy"
+msgstr "ఎంపతి"
+
+#: ../data/empathy.desktop.in.in.h:3
+msgid "Empathy Internet Messaging"
+msgstr "ఎంపతి అంతర్జాల సందేశకం"
+
+#: ../data/empathy.desktop.in.in.h:4
+msgid "IM Client"
+msgstr "IM క్లయింటు"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:1
+msgid "Always open a separate chat window for new chats."
+msgstr "కొత్త చాట్‌లకు ఎల్లప్పుడు ఒక వేరే కొత్త చాట్ విండోను తెరువు."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:2
+msgid ""
+"Character to add after nickname when using nick completion (tab) in group "
+"chat."
+msgstr ""
+"గుంపు చాట్ నందు నిక్ కంప్లీషన్ (ట్యాబ్) ఉపయోగిస్తున్నప్పుడు మారుపేరు తరువాత "
+"జతచేయవలసిన అక్షరము."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:3
+msgid "Chat window theme"
+msgstr "చాట్ విండో థీము"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:4
+#, fuzzy
+#| msgid "Chat window theme"
+msgid "Chat window theme variant"
+msgstr "చాట్ విండో థీము"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:5
+msgid ""
+"Comma-separated list of spell checker languages to use (e.g. \"en, fr, nl\")."
+msgstr ""
+"ఉపయోగించుటకు కామాతో వేరుచేయబడివున్న అక్షరక్రమం తనిఖీచేయు భాషల యొక్క జాబితా (ఉ."
+"దా. en, fr, nl)."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:6
+msgid "Compact contact list"
+msgstr "కాంపాక్టు పరిచయ జాబితా"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:7
+msgid "Connection managers should be used"
+msgstr "అనుసంధాన నిర్వాహకాలను తప్పక ఉపయోగించాలి"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:8
+msgid "Contact list sort criterion"
+msgstr "పరిచయ జాబితా క్రమబద్దీకరణ విధానము"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:9
+msgid "Default directory to select an avatar image from"
+msgstr "అవతార బొమ్మను ఎంచుకొనుటకు అప్రమేయ డైరెక్టరీ"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:10
+msgid "Disable popup notifications when away"
+msgstr "దూరంగా ఉన్నప్పుడు పాప్అప్ ప్రకటనలను అచేతనముచేయి"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:11
+msgid "Disable sounds when away"
+msgstr "దూరంగా ఉన్నప్పుడు శబ్దములను అచేతనము చేయి"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:12
+msgid "Display incoming events in the status area"
+msgstr "లోనికివచ్చు ఘటనలను స్థితి ప్రాంతములో చూపించు"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:13
+msgid ""
+"Display incoming events in the status area. If false, present them to the "
+"user immediately."
+msgstr ""
+"లోనికివచ్చు ఘటనలను స్థితి ప్రదేశములో చూపించు. ఒకవేళ తప్పయినట్లయితే, వాడుకరికి "
+"సత్వరమే చూపించు."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:14
+msgid "Empathy can publish the user's location"
+msgstr "ఎంపతి వాడుకరి యొక్క స్థానమును ప్రచురించగలదు"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:15
+msgid "Empathy can use the GPS to guess the location"
+msgstr "స్థానమును అంచనావేయుటకు ఎంపతి GPSను ఉపయోగించగలదు"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:16
+msgid "Empathy can use the cellular network to guess the location"
+msgstr "స్థానమును అంచనా వేయుటకు ఎంపతి సెల్యులర్ నెట్‌వర్కును ఉపయోగించగలదు"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:17
+msgid "Empathy can use the network to guess the location"
+msgstr "స్థానమును అంచానావేయుటకు ఎంపతి నెట్‌వర్కును ఉపయోగించగలదు"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:18
+msgid "Empathy default download folder"
+msgstr "ఎంపతి అప్రమేయ డౌన్‌లోడు సంచయం"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:19
+msgid "Empathy has migrated butterfly logs"
+msgstr ""
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:20
+msgid "Empathy should auto-away when idle"
+msgstr "ఎంపతి వాడుకలో లేనపుడు దూరంగా ఉన్నట్టు చూపించు"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:21
+msgid "Empathy should auto-connect on startup"
+msgstr "ప్రారంభములో ఎంపతి స్వయంగా-అనుసంధానించబడాలి"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:22
+msgid "Empathy should reduce the location's accuracy"
+msgstr "స్థానము యొక్క ఖచ్చితత్వమును ఎంపతి తప్పక తగ్గించవలెను"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:23
+msgid "Empathy should use the avatar of the contact as the chat window icon"
+msgstr "ఎంపతి పరిచయం యొక్క అవతారమును చాట్ విండో ప్రతీక వలె ఉపయోగించాలి"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:24
+msgid "Enable WebKit Developer Tools"
+msgstr "వెబ్‌కిట్ అభివృద్ధికారుని సాధనములను చేతనపరుచు"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:25
+msgid "Enable popup notifications for new messages"
+msgstr "కొత్త సందేశములు కొరకు పాప్అప్ ప్రకటనలను చేతనపరుచు"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:26
+msgid "Enable spell checker"
+msgstr "అక్షరక్రమం తనిఖీచేయుదానిని చేతనపరుచు"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:27
+msgid "Hide main window"
+msgstr "ప్రధాన విండోను దాయి"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:28
+msgid "Hide the main window."
+msgstr "ప్రధాన విండోను దాయి."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:29
+msgid "Nick completed character"
+msgstr "మారుపేరును పూర్తిచేయు అక్షరము"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:30
+msgid "Open new chats in separate windows"
+msgstr "కొత్త చాట్‌లను వేరువేరు విండోలలో తెరువు"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:31
+msgid "Path of the Adium theme to use"
+msgstr "ఉపయోగించుటకు అడియమ్ థీము యొక్క పాత్."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:32
+msgid "Path of the Adium theme to use if the theme used for chat is Adium."
+msgstr ""
+"ఒకవేళ చాట్‌నకు ఉపయోగించిన థీమ్ అడియమ్ అయితే అడియమ్ థీము వాడటానికి అవసరమగు "
+"పాత్."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:33
+msgid "Play a sound for incoming messages"
+msgstr "లోనికివచ్చు సందేశములకు శబ్దమును వినిపించు"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:34
+msgid "Play a sound for new conversations"
+msgstr "కొత్త సంభాషణలకు శబ్దమును వినిపించు"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:35
+msgid "Play a sound for outgoing messages"
+msgstr "బయటకుపోవు సందేశములకు శబ్దమును వినిపించు"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:36
+msgid "Play a sound when a contact logs in"
+msgstr "పరిచయం ప్రవేశించినపుడు శబ్దమును వినిపించు"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:37
+msgid "Play a sound when a contact logs out"
+msgstr "పరిచయం నిష్క్రమించినపుడు శబ్దమును వినిపించు"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:38
+msgid "Play a sound when we log in"
+msgstr "మనము ప్రవేశించినపుడు శబ్దమును వినిపించు"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:39
+msgid "Play a sound when we log out"
+msgstr "మనము నిష్క్రమించినపుడు శబ్దమును వినిపించు"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:40
+msgid "Pop up notifications if the chat isn't focused"
+msgstr "చాట్ పై దృష్టి సారించకపోతే ప్రకటనలను పైన చూపించు"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:41
+msgid "Pop up notifications when a contact logs in"
+msgstr "పరిచయం లాగిన్ అయినప్పుడు ప్రకటనలు పైన చూపించు"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:42
+msgid "Pop up notifications when a contact logs out"
+msgstr "పరిచయం నిష్క్రమించినపుడు ప్రకటనలను చూపించు"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:43
+msgid "Show Balance in contact list"
+msgstr "పరిచయ జాబితాలో సమతుల్యతను చూపించు"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:44
+msgid "Show avatars"
+msgstr "అవతారములను చూపించు"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:45
+msgid "Show contact list in rooms"
+msgstr "గదులలో పరిచయ జాబితాను చూపించు"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:46
+msgid "Show hint about closing the main window"
+msgstr "ప్రధాన విండోను మూసివేయుటకు సూచనను చూపించు"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:47
+msgid "Show offline contacts"
+msgstr "ఆఫ్‌లైన్ పరిచయాలను చూపించు"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:48
+msgid "Show protocols"
+msgstr "ప్రోటోకాల్సును చూపించు"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:49
+msgid "Spell checking languages"
+msgstr "అక్షరక్రమ తనిఖీచేయు భాషలు"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:50
+msgid "The default folder to save file transfers in."
+msgstr "ఫైళ్ళ బదిలీకరణలను వ్యవస్థలో భద్రపరుచుటకు అప్రమేయ సంచయం."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:51
+msgid "The last directory that an avatar image was chosen from."
+msgstr "అవతారము బొమ్మను ఎంచుకోబడినటువంటి ఆఖరి డైరెక్టరి."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:52
+msgid "The position for the chat window side pane"
+msgstr "చాట్ విండో స్థానము పక్కపట్టీ"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:53
+msgid "The stored position (in pixels) of the chat window side pane."
+msgstr ""
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:54
+msgid "The theme that is used to display the conversation in chat windows."
+msgstr "చాట్ విండోలలోసంభాషణను ప్రదర్శించుటకు ఉపయోగించబడిన థీము."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:55
+#, fuzzy
+#| msgid "The theme that is used to display the conversation in chat windows."
+msgid ""
+"The theme variant that is used to display the conversation in chat windows."
+msgstr "చాట్ విండోలలోసంభాషణను ప్రదర్శించుటకు ఉపయోగించబడిన థీము."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:56
+msgid "Use graphical smileys"
+msgstr "గ్రాఫికల్ చిరునవ్వులను వాడు"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:57
+msgid "Use notification sounds"
+msgstr "ప్రకటిత శబ్దములను వాడు"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:58
+msgid "Use theme for chat rooms"
+msgstr "చాట్ గదుల కొరకు థీమును వాడు"
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:59
+msgid "Whether Empathy can publish the user's location to their contacts."
+msgstr "వాడుకరి ఉన్న స్థానమును వారి పరిచయములకు ఎంపతి ప్రచురించాలా వద్దా."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:60
+msgid "Whether Empathy can use the GPS to guess the location."
+msgstr "స్థానమును అంచనావేయుటకు ఎంపతి GPSను ఉపయోగించాలా వద్దా."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:61
+msgid "Whether Empathy can use the cellular network to guess the location."
+msgstr "స్థానమును అంచనావేయుటకు ఎంపతి సెల్యులర్ నెట్‌వర్కును ఉపయోగించాలా వద్దా."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:62
+msgid "Whether Empathy can use the network to guess the location."
+msgstr "స్థానమును అంచనావేయుటకు ఎంపతి నెట్‌వర్కును ఉపయోగించాలా వద్దా."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:63
+msgid "Whether Empathy has migrated butterfly logs."
+msgstr ""
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:64
+msgid "Whether Empathy should automatically log into your accounts on startup."
+msgstr ""
+"ఎంపతి వ్యవస్థ ప్రారంభములో మీ ఖాతాలలోనికి స్వయంచాలకంగా ప్రవేశించాలా వద్దా."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:65
+msgid ""
+"Whether Empathy should go into away mode automatically if the user is idle."
+msgstr ""
+"ఒకవేళ వాడుకరి వాడకుండా ఉంటే ఎంపతిని స్వయంచాలకంగా దూరంగా ఉన్న విధములోనికి "
+"మార్చాలా వద్దా."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:66
+msgid ""
+"Whether Empathy should reduce the location's accuracy for privacy reasons."
+msgstr ""
+"గోప్యతా కారణాల దృష్ట్యా స్థానము యొక్క ఖచ్చితత్వాన్ని ఎంపతి తగ్గించాలా వద్దా."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:67
+msgid ""
+"Whether Empathy should use the avatar of the contact as the chat window icon."
+msgstr "ఎంపతి పరిచయము యొక్క అవతారమును చాట్ విండో ప్రతీక వలె ఉపయోగించాలా లేదా."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:68
+msgid ""
+"Whether WebKit developer tools, such as the Web Inspector, should be enabled."
+msgstr "వెబ్ ఇన్‌స్పెక్టర్ వంటి వెబ్‌కిట్ డెవలపర్ సాధనములు చేతనము చేయవలెనా."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:69
+msgid ""
+"Whether connectivity managers should be used to automatically disconnect/"
+"reconnect."
+msgstr ""
+"స్వయంచాలకంగా అననుసంధానించుటకు/మళ్ళీ అనుసంధానించుటకు అనుసంధాన నిర్వాహకాలను "
+"ఉపయోగించాలా వద్దా."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:70
+msgid ""
+"Whether to check words typed against the languages you want to check with."
+msgstr ""
+"మీరు పరిశీలించాలనుకున్న భాషలకు ప్రవేశపెట్టిన పదములను పరిశీలించాలా వద్దా."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:71
+msgid "Whether to convert smileys into graphical images in conversations."
+msgstr "సంభాషణలలో చిరునవ్వులను గ్రాఫికల్ బొమ్మలలోనికి మార్చాలా వద్దా."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:72
+msgid "Whether to play a sound to notify of contacts logging into the network."
+msgstr ""
+"నెట్‌వర్కులో ప్రవేశించినపుడు పరిచయములకు సూచించుటకు శబ్దము వినిపించాలా వద్దా."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:73
+msgid ""
+"Whether to play a sound to notify of contacts logging out of the network."
+msgstr ""
+"నెట్‌వర్కు నుండి నిష్క్రమించినపుడు పరిచయములకు శబ్ధమును వినిపించాలా వద్దా."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:74
+msgid "Whether to play a sound to notify of events."
+msgstr "ఘటనలను తెలియజేయుటకు శబ్దమును వినిపించాలా వద్దా."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:75
+msgid "Whether to play a sound to notify of incoming messages."
+msgstr "లోనికివచ్చు సందేశములను తెలియజేయుటకు శబ్దమును వినిపించాలా వద్దా."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:76
+msgid "Whether to play a sound to notify of new conversations."
+msgstr "కొత్త సంభాషణలను తెలియచేయుటకు శబ్ధమును వినిపించాలా వద్దా."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:77
+msgid "Whether to play a sound to notify of outgoing messages."
+msgstr "బయటకువెళ్ళు సందేశములను తెలియచేయుటకు శబ్దమును వినిపించాలా వద్దా."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:78
+msgid "Whether to play a sound when logging into a network."
+msgstr "నెట్‌వర్కునందు ప్రవేశించినపుడు శబ్దమును వినిపించాలా వద్దా."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:79
+msgid "Whether to play a sound when logging out of a network."
+msgstr "నెట్‌వర్కు నుండి నిష్క్రమించునపుడు శబ్దమును వినిపించాలా వద్దా."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:80
+msgid "Whether to play sound notifications when away or busy."
+msgstr "దూరంగావున్నప్పుడు లేదా తీరికలేనపుడు శబ్ద ప్రకటనలను వినిపించాలా వద్దా."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:81
+msgid "Whether to show a popup notification when a contact goes offline."
+msgstr "ఒక పరిచయం ఆఫ్‌లైన్‌కు వెళ్ళినప్పుడు పైకివచ్చు ప్రకటనను చూపాలా వద్దా."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:82
+msgid "Whether to show a popup notification when a contact goes online."
+msgstr "ఒక పరిచయం ఆన్‌లైన్‌కు వచ్చినప్పుడు పైకివచ్చు ప్రకటన చూపాలా వద్దా."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:83
+msgid ""
+"Whether to show a popup notification when receiving a new message even if "
+"the chat is already opened, but not focused."
+msgstr ""
+"ఒకవేళ చాట్ ఇదివరకే తెరిచివుండి, దృష్టి సారించకపోతే, ఒక కొత్త సందేశము "
+"వచ్చినప్పుడు పైకివచ్చు ప్రకటనను "
+"చూపించాలా వద్దా."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:84
+msgid "Whether to show a popup notification when receiving a new message."
+msgstr "ఒక కొత్త సందేశము వచ్చినప్పుడు పైకివచ్చు ప్రకటనని చూపించాలా వద్దా."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:85
+msgid "Whether to show account balances in the contact list."
+msgstr "పరిచయ జాబితానందు ఖాతా సమతుల్యతను చూపించాలా వద్దా."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:86
+msgid ""
+"Whether to show avatars for contacts in the contact list and chat windows."
+msgstr ""
+"చాట్ విండోలు మరియు పరిచయ జాబితాలలో పరిచయముల కోసం అవతారములను చూపించాలా వద్దా."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:87
+msgid "Whether to show contacts that are offline in the contact list."
+msgstr "పరిచయ జాబితా నందు ఆఫ్‌లైనులో ఉన్న పరిచయాలను చూపించాలా వద్దా."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:88
+msgid "Whether to show popup notifications when away or busy."
+msgstr "దూరంగా లేదా తీరికలేనపుడు పైకివచ్చు ప్రకటనలను చూపించాలా వద్దా."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:89
+msgid "Whether to show protocols for contacts in the contact list."
+msgstr "పరిచయ జాబితాలో పరిచయముల కొరకు ప్రోటోకాల్సును చూపించాలా వద్దా."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:90
+msgid "Whether to show the contact list in chat rooms."
+msgstr "చాట్ గదులలో పరిచయ జాబితాను చూపించాలా వద్దా."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:91
+msgid "Whether to show the contact list in compact mode."
+msgstr "పరిచయ జాబితాను కాంపాక్టు విధములో చూపించాలా వద్దా."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:92
+msgid ""
+"Whether to show the message dialog about closing the main window with the "
+"'x' button in the title bar."
+msgstr ""
+"ప్రధాన విండోను శీర్షిక పట్టీనందు 'x' బటన్‌తో మూసివేయునపుడు సందేశపు డైలాగ్ "
+"చూపించాలా వద్దా."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:93
+msgid "Whether to use the theme for chat rooms."
+msgstr "చాట్ గదుల కొరకు థీమును ఉపయోగించాలా వద్దా."
+
+#: ../data/org.gnome.Empathy.gschema.xml.in.h:94
+msgid ""
+"Which criterion to use when sorting the contact list. Default is to sort by "
+"the contact's name with the value \"name\". A value of \"state\" will sort "
+"the contact list by state."
+msgstr ""
+"పరిచయ జాబితాను క్రమబద్దీకరిస్తున్నప్పుడు ఏ విధానాన్ని ఉపయోగించాలి. పరిచయాల "
+"పేరును \"name\" విలువతో "
+"ఉపయోగించి క్రమబద్దీకరించుట అప్రమేయం. విలువ \"state\" అనునది పరిచయ జాబితాను "
+"స్థితిని బట్టి "
+"క్రమబద్దీకరిస్తుంది."
+
+#: ../data/empathy-accounts.desktop.in.in.h:1
+msgid "Manage Messaging and VoIP accounts"
+msgstr "సందేశకము మరియు VoIP ఖాతాలను నిర్వహించు"
+
+#. Tweak the dialog
+#: ../data/empathy-accounts.desktop.in.in.h:2
+#: ../src/empathy-accounts-dialog.c:2324
+msgid "Messaging and VoIP Accounts"
+msgstr "సందేశకము మరియు VoIP ఖాతాలు"
+
+#: ../libempathy/empathy-ft-handler.c:825
+msgid "File transfer completed, but the file was corrupted"
+msgstr "ఫైల్ బదిలీ పూర్తయినది, కాని ఫైల్ పాడైనది"
+
+#: ../libempathy/empathy-ft-handler.c:1113
+msgid "File transfer not supported by remote contact"
+msgstr "ఫైల్ బదిలీ దూరస్థ పరిచయం ద్వారా సహకరించబడుటలేదు"
+
+#: ../libempathy/empathy-ft-handler.c:1169
+msgid "The selected file is not a regular file"
+msgstr "ఎంచుకున్న ఫైల్ సాధారణ ఫైల్ కాదు"
+
+#: ../libempathy/empathy-ft-handler.c:1178
+msgid "The selected file is empty"
+msgstr "ఎంచుకున్న ఫైల్ ఖాళీది"
+
+#: ../libempathy/empathy-message.c:342 ../src/empathy-call-observer.c:130
+#, c-format
+msgid "Missed call from %s"
+msgstr "%s నుండి మిస్సుడ్ కాల్ వచ్చింది"
+
+#. Translators: this is an outgoing call, e.g. 'Called Alice'
+#: ../libempathy/empathy-message.c:346
+#, fuzzy, c-format
+#| msgid "Call with %s"
+msgid "Called %s"
+msgstr "%sతో కాల్ చేయి"
+
+#: ../libempathy/empathy-message.c:349
+#, fuzzy, c-format
+#| msgid "Missed call from %s"
+msgid "Call from %s"
+msgstr "%s నుండి మిస్సుడ్ కాల్ వచ్చింది"
+
+#: ../libempathy/empathy-tp-file.c:268
+msgid "Socket type not supported"
+msgstr "సాకెట్ రకము సహకరించబడదు"
+
+#: ../libempathy/empathy-tp-file.c:387
+msgid "No reason was specified"
+msgstr "ఎటువంటి కారణం తెలుపలేదు"
+
+#: ../libempathy/empathy-tp-file.c:390
+msgid "The change in state was requested"
+msgstr "స్థితిలో మార్పు అభ్యర్దించబడినది"
+
+#: ../libempathy/empathy-tp-file.c:393
+msgid "You canceled the file transfer"
+msgstr "మీరు ఫైల్ బదిలీకరణను రద్దుచేసారు"
+
+#: ../libempathy/empathy-tp-file.c:396
+msgid "The other participant canceled the file transfer"
+msgstr "పాల్గొన్న ఇతరలు ఫైల్ బదిలీకరణను రద్దుచేసారు"
+
+#: ../libempathy/empathy-tp-file.c:399
+msgid "Error while trying to transfer the file"
+msgstr "ఫైలును బదిలీచేయుటకు ప్రయత్నిస్తున్నప్పుడు దోషము"
+
+#: ../libempathy/empathy-tp-file.c:402
+msgid "The other participant is unable to transfer the file"
+msgstr "పాల్గొన్న ఇతరులు ఫైల్ బదిలీచేయలేకపోతున్నారు"
+
+#: ../libempathy/empathy-tp-file.c:405 ../libempathy/empathy-utils.c:325
+msgid "Unknown reason"
+msgstr "తెలియని కారణం"
+
+#: ../libempathy/empathy-utils.c:246
+msgid "Available"
+msgstr "అందుబాటులోవున్నాను"
+
+#: ../libempathy/empathy-utils.c:248
+msgid "Busy"
+msgstr "తీరికలేదు"
+
+#: ../libempathy/empathy-utils.c:251
+msgid "Away"
+msgstr "దూరంగా ఉన్నాను"
+
+#: ../libempathy/empathy-utils.c:253
+msgid "Invisible"
+msgstr "అదృశ్యముగా ఉన్నాను"
+
+#: ../libempathy/empathy-utils.c:255
+msgid "Offline"
+msgstr "ఆఫ్‌లైనులో ఉన్నాను"
+
+#. translators: presence type is unknown
+#: ../libempathy/empathy-utils.c:258
+msgctxt "presence"
+msgid "Unknown"
+msgstr "తెలియదు"
+
+#: ../libempathy/empathy-utils.c:297
+msgid "No reason specified"
+msgstr "ఏ కారణము తెలుపలేదు"
+
+#: ../libempathy/empathy-utils.c:299 ../libempathy/empathy-utils.c:355
+msgid "Status is set to offline"
+msgstr "స్థితి ఆఫ్‌లైన్‌కు అమర్చబడింది."
+
+#: ../libempathy/empathy-utils.c:301 ../libempathy/empathy-utils.c:335
+#: ../libempathy-gtk/empathy-call-utils.c:47
+msgid "Network error"
+msgstr "నెట్‌వర్కు దోషము"
+
+#: ../libempathy/empathy-utils.c:303 ../libempathy/empathy-utils.c:337
+msgid "Authentication failed"
+msgstr "ప్రామాణీకరణ విఫలమైంది"
+
+#: ../libempathy/empathy-utils.c:305 ../libempathy/empathy-utils.c:339
+msgid "Encryption error"
+msgstr "ఎన్‌క్రిప్షన్ దోషము"
+
+#: ../libempathy/empathy-utils.c:307
+msgid "Name in use"
+msgstr "పేరు వాడుకలో ఉంది"
+
+#: ../libempathy/empathy-utils.c:309 ../libempathy/empathy-utils.c:341
+msgid "Certificate not provided"
+msgstr "ధృవీకరణపత్రం సమకూర్చబడలేదు"
+
+#: ../libempathy/empathy-utils.c:311 ../libempathy/empathy-utils.c:343
+msgid "Certificate untrusted"
+msgstr "ధృవీకరణపత్రం నమ్మలేనిది"
+
+#: ../libempathy/empathy-utils.c:313 ../libempathy/empathy-utils.c:345
+msgid "Certificate expired"
+msgstr "ధృవీకరణపత్రం గడువు ముగిసినది"
+
+#: ../libempathy/empathy-utils.c:315 ../libempathy/empathy-utils.c:347
+msgid "Certificate not activated"
+msgstr "ధృవీకరణపత్రాన్ని ఉత్తేజపరచలేదు"
+
+#: ../libempathy/empathy-utils.c:317 ../libempathy/empathy-utils.c:349
+msgid "Certificate hostname mismatch"
+msgstr "ధృవీకరణపత్ర అతిథ్యపేరుతో సరిపోలడంలేదు"
+
+#: ../libempathy/empathy-utils.c:319 ../libempathy/empathy-utils.c:351
+msgid "Certificate fingerprint mismatch"
+msgstr "ధృవీకరణపత్రం వేలిముద్ర సరిపోలడంలేదు"
+
+#: ../libempathy/empathy-utils.c:321 ../libempathy/empathy-utils.c:353
+msgid "Certificate self-signed"
+msgstr "ధృవీకరణపత్రం స్వంతగా-సంతకం చేసినది"
+
+#: ../libempathy/empathy-utils.c:323
+msgid "Certificate error"
+msgstr "ధృవీకరణపత్ర దోషము"
+
+#: ../libempathy/empathy-utils.c:357
+msgid "Encryption is not available"
+msgstr "ఎన్‌క్రిప్షన్ అందుబాటులో లేదు"
+
+#: ../libempathy/empathy-utils.c:359
+msgid "Certificate is invalid"
+msgstr "ధృవీకరణపత్రం చెల్లనిది"
+
+#: ../libempathy/empathy-utils.c:361
+msgid "Connection has been refused"
+msgstr "అనుసంధానము తిరస్కరించబడింది"
+
+#: ../libempathy/empathy-utils.c:363
+msgid "Connection can't be established"
+msgstr "అనుసంధానమును స్థాపించలేకపోయింది"
+
+#: ../libempathy/empathy-utils.c:365
+msgid "Connection has been lost"
+msgstr "అనుసంధానమును కోల్పోయింది"
+
+#: ../libempathy/empathy-utils.c:367
+msgid "This resource is already connected to the server"
+msgstr "ఈ వనరు ఇంతకుముందే సేవకానికి అనుసంధానించబడింది"
+
+#: ../libempathy/empathy-utils.c:369
+msgid ""
+"Connection has been replaced by a new connection using the same resource"
+msgstr ""
+"అనుసంధానము అదే వనరుని ఉపయోగించుకుని ఒక కొత్త అనుసంధానముచే పునఃస్థాపించబడింది"
+
+#: ../libempathy/empathy-utils.c:372
+msgid "The account already exists on the server"
+msgstr "సేవకములో ఈ ఖాతా ఇదివరకే ఉన్నది"
+
+#: ../libempathy/empathy-utils.c:374
+msgid "Server is currently too busy to handle the connection"
+msgstr "అనుసంధానమును నిర్వహించుటకు సేవకానికి ప్రస్తుతము తీరికలేదు"
+
+#: ../libempathy/empathy-utils.c:376
+msgid "Certificate has been revoked"
+msgstr "దృవీకరణపత్రం తొలగించబడింది"
+
+#: ../libempathy/empathy-utils.c:378
+msgid ""
+"Certificate uses an insecure cipher algorithm or is cryptographically weak"
+msgstr ""
+"సురక్షితముకాని సైఫర్ అల్గారిథమ్ లేదా క్రిప్టోగ్రాఫికల్లీ బలహీనమైన "
+"ధృవీకరణపత్రాన్ని వాడుతుంది"
+
+#: ../libempathy/empathy-utils.c:381
+msgid ""
+"The length of the server certificate, or the depth of the server certificate "
+"chain, exceed the limits imposed by the cryptography library"
+msgstr ""
+
+#: ../libempathy/empathy-utils.c:544
+#: ../libempathy-gtk/empathy-contact-list-store.h:73
+msgid "People Nearby"
+msgstr "దగ్గరలోని వ్యక్తులు"
+
+#: ../libempathy/empathy-utils.c:549
+msgid "Yahoo! Japan"
+msgstr "యాహూ! జపాన్"
+
+#: ../libempathy/empathy-utils.c:578
+msgid "Google Talk"
+msgstr "గూగుల్ టాక్"
+
+#: ../libempathy/empathy-utils.c:579
+msgid "Facebook Chat"
+msgstr "ఫేస్‌బుక్ చాట్"
+
+#: ../libempathy/empathy-time.c:88
+#, c-format
+msgid "%d second ago"
+msgid_plural "%d seconds ago"
+msgstr[0] "%d సెకను క్రితం"
+msgstr[1] "%d సెకనుల క్రితం"
+
+#: ../libempathy/empathy-time.c:93
+#, c-format
+msgid "%d minute ago"
+msgid_plural "%d minutes ago"
+msgstr[0] "%d నిముషము క్రితం"
+msgstr[1] "%d నిముషాల క్రితం"
+
+#: ../libempathy/empathy-time.c:98
+#, c-format
+msgid "%d hour ago"
+msgid_plural "%d hours ago"
+msgstr[0] "%d గంట క్రితం"
+msgstr[1] "%d గంటల క్రితం"
+
+#: ../libempathy/empathy-time.c:103
+#, c-format
+msgid "%d day ago"
+msgid_plural "%d days ago"
+msgstr[0] "%d రోజు క్రితం"
+msgstr[1] "%d రోజుల క్రితం"
+
+#: ../libempathy/empathy-time.c:108
+#, c-format
+msgid "%d week ago"
+msgid_plural "%d weeks ago"
+msgstr[0] "%d వారము క్రితం"
+msgstr[1] "%d వారముల క్రితం"
+
+#: ../libempathy/empathy-time.c:113
+#, c-format
+msgid "%d month ago"
+msgid_plural "%d months ago"
+msgstr[0] "%d నెల క్రితం"
+msgstr[1] "%d నెలల క్రితం"
+
+#: ../libempathy/empathy-time.c:136
+msgid "in the future"
+msgstr "భవిష్యత్తులో"
+
+#: ../libempathy-gtk/empathy-account-chooser.c:539
+#, fuzzy
+#| msgid "Accounts"
+msgid "All accounts"
+msgstr "ఖాతాలు"
+
+#: ../libempathy-gtk/empathy-account-widget.c:681
+#: ../src/empathy-import-widget.c:321
+msgid "Account"
+msgstr "ఖాతా"
+
+#: ../libempathy-gtk/empathy-account-widget.c:682
+msgid "Password"
+msgstr "సంకేతపదం"
+
+#: ../libempathy-gtk/empathy-account-widget.c:683
+#: ../libempathy-gtk/empathy-irc-network-dialog.c:507
+msgid "Server"
+msgstr "సేవకము"
+
+#: ../libempathy-gtk/empathy-account-widget.c:684
+#: ../libempathy-gtk/empathy-irc-network-dialog.c:522
+msgid "Port"
+msgstr "పోర్టు"
+
+#: ../libempathy-gtk/empathy-account-widget.c:756
+#: ../libempathy-gtk/empathy-account-widget.c:813
+#, c-format
+msgid "%s:"
+msgstr "%s:"
+
+#: ../libempathy-gtk/empathy-account-widget.c:1154
+#, c-format
+msgid "The account %s is edited via My Web Accounts."
+msgstr "%s అనే ఖాతా నా వెబ్ ఖాతాల ద్వారా సవరించబడింది."
+
+#: ../libempathy-gtk/empathy-account-widget.c:1160
+#, c-format
+msgid "The account %s cannot be edited in Empathy."
+msgstr "%s ఖాతాను ఎంపతిలో సవరించుట వీలుకాదు."
+
+#: ../libempathy-gtk/empathy-account-widget.c:1180
+msgid "Launch My Web Accounts"
+msgstr "నా వెబ్ ఖాతాలను ప్రారంభించు"
+
+#: ../libempathy-gtk/empathy-account-widget.c:1518
+msgid "Username:"
+msgstr "వాడుకరి పేరు:"
+
+#: ../libempathy-gtk/empathy-account-widget.c:1836
+msgid "A_pply"
+msgstr "అనువర్తించు (_p)"
+
+#: ../libempathy-gtk/empathy-account-widget.c:1866
+msgid "L_og in"
+msgstr "ప్రవేశించు (_J)"
+
+#: ../libempathy-gtk/empathy-account-widget.c:1940
+msgid "This account already exists on the server"
+msgstr "సేవకములో ఈ ఖాతా ఇంతకుముందే ఉన్నది"
+
+#: ../libempathy-gtk/empathy-account-widget.c:1943
+msgid "Create a new account on the server"
+msgstr "ఈ సేవకము పై ఒక కొత్త ఖాతాను సృష్టించు"
+
+#: ../libempathy-gtk/empathy-account-widget.c:2135
+msgid "Ca_ncel"
+msgstr "రద్దుచేయి (_n)"
+
+#. To translators: The first parameter is the login id and the
+#. * second one is the network. The resulting string will be something
+#. * like: "MyUserName on freenode".
+#. * You should reverse the order of these arguments if the
+#. * server should come before the login id in your locale.
+#: ../libempathy-gtk/empathy-account-widget.c:2413
+#, c-format
+msgid "%1$s on %2$s"
+msgstr "%2$s పై %1$s"
+
+#. To translators: The parameter is the protocol name. The resulting
+#. * string will be something like: "Jabber Account"
+#: ../libempathy-gtk/empathy-account-widget.c:2439
+#, c-format
+msgid "%s Account"
+msgstr "%s ఖాతా"
+
+#: ../libempathy-gtk/empathy-account-widget.c:2443
+msgid "New account"
+msgstr "కొత్త ఖాతా"
+
+#: ../libempathy-gtk/empathy-account-widget-aim.ui.h:1
+msgid "<b>Example:</b> MyScreenName"
+msgstr "<b>ఉదాహరణ:</b> నా తెరపేరు"
+
+#: ../libempathy-gtk/empathy-account-widget-aim.ui.h:2
+#: ../libempathy-gtk/empathy-account-widget-generic.ui.h:1
+#: ../libempathy-gtk/empathy-account-widget-groupwise.ui.h:2
+#: ../libempathy-gtk/empathy-account-widget-icq.ui.h:2
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:3
+#: ../libempathy-gtk/empathy-account-widget-msn.ui.h:2
+#: ../libempathy-gtk/empathy-account-widget-local-xmpp.ui.h:1
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:2
+#: ../libempathy-gtk/empathy-account-widget-yahoo.ui.h:2
+msgid "Advanced"
+msgstr "అధునాతన"
+
+#: ../libempathy-gtk/empathy-account-widget-aim.ui.h:3
+#: ../libempathy-gtk/empathy-account-widget-groupwise.ui.h:4
+#: ../libempathy-gtk/empathy-account-widget-icq.ui.h:5
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:8
+#: ../libempathy-gtk/empathy-account-widget-msn.ui.h:4
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:13
+#: ../libempathy-gtk/empathy-account-widget-yahoo.ui.h:5
+msgid "Pass_word:"
+msgstr "సంకేతపదం (_w):"
+
+#: ../libempathy-gtk/empathy-account-widget-aim.ui.h:4
+#: ../libempathy-gtk/empathy-account-widget-groupwise.ui.h:5
+#: ../libempathy-gtk/empathy-account-widget-icq.ui.h:6
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:10
+#: ../libempathy-gtk/empathy-account-widget-msn.ui.h:5
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:16
+msgid "Remember Password"
+msgstr "సంకేతపదం గుర్తించుకొను"
+
+#. remember password ticky box
+#: ../libempathy-gtk/empathy-account-widget-aim.ui.h:5
+#: ../libempathy-gtk/empathy-account-widget-groupwise.ui.h:6
+#: ../libempathy-gtk/empathy-account-widget-icq.ui.h:7
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:11
+#: ../libempathy-gtk/empathy-account-widget-msn.ui.h:6
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:17
+#: ../libempathy-gtk/empathy-account-widget-yahoo.ui.h:6
+#: ../libempathy-gtk/empathy-password-dialog.c:311
+msgid "Remember password"
+msgstr "సంకేతపదం గుర్తుంచుకొను"
+
+#: ../libempathy-gtk/empathy-account-widget-aim.ui.h:6
+msgid "Screen _Name:"
+msgstr "తెర పేరు (_N):"
+
+#: ../libempathy-gtk/empathy-account-widget-aim.ui.h:7
+msgid "What is your AIM password?"
+msgstr "మీ AIM సంకేతపదము ఏమిటి?"
+
+#: ../libempathy-gtk/empathy-account-widget-aim.ui.h:8
+msgid "What is your AIM screen name?"
+msgstr "మీ AIM తెర పేరు ఏమిటి?"
+
+#: ../libempathy-gtk/empathy-account-widget-aim.ui.h:9
+#: ../libempathy-gtk/empathy-account-widget-groupwise.ui.h:9
+#: ../libempathy-gtk/empathy-account-widget-icq.ui.h:10
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:26
+#: ../libempathy-gtk/empathy-account-widget-msn.ui.h:9
+#: ../libempathy-gtk/empathy-account-widget-yahoo.ui.h:10
+msgid "_Port:"
+msgstr "పోర్టు (_P):"
+
+#: ../libempathy-gtk/empathy-account-widget-aim.ui.h:10
+#: ../libempathy-gtk/empathy-account-widget-groupwise.ui.h:10
+#: ../libempathy-gtk/empathy-account-widget-icq.ui.h:11
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:27
+#: ../libempathy-gtk/empathy-account-widget-msn.ui.h:10
+#: ../src/empathy-new-chatroom-dialog.ui.h:9
+msgid "_Server:"
+msgstr "సేవకము (_S):"
+
+#: ../libempathy-gtk/empathy-account-widget-groupwise.ui.h:1
+#: ../libempathy-gtk/empathy-account-widget-yahoo.ui.h:1
+msgid "<b>Example:</b> username"
+msgstr "<b>ఉదాహరణ:</b> వాడుకరిపేరు"
+
+#: ../libempathy-gtk/empathy-account-widget-groupwise.ui.h:3
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:6
+#: ../libempathy-gtk/empathy-account-widget-msn.ui.h:3
+msgid "Login I_D:"
+msgstr "ప్రవేశించు ఐడి (_D):"
+
+#: ../libempathy-gtk/empathy-account-widget-groupwise.ui.h:7
+msgid "What is your GroupWise User ID?"
+msgstr "మీ గుంపుతరహా వాడుకరి ఐడి ఏమిటి?"
+
+#: ../libempathy-gtk/empathy-account-widget-groupwise.ui.h:8
+msgid "What is your GroupWise password?"
+msgstr "మీ గుంపుతరహ సంకేతపదము ఏమిటి?"
+
+#: ../libempathy-gtk/empathy-account-widget-icq.ui.h:1
+msgid "<b>Example:</b> 123456789"
+msgstr "<b>ఉదాహరణ:</b> 123456789"
+
+#: ../libempathy-gtk/empathy-account-widget-icq.ui.h:3
+#: ../libempathy-gtk/empathy-account-widget-yahoo.ui.h:3
+msgid "Ch_aracter set:"
+msgstr "అక్షర సమితి (_a):"
+
+#: ../libempathy-gtk/empathy-account-widget-icq.ui.h:4
+msgid "ICQ _UIN:"
+msgstr "ICQ _UIN:"
+
+#: ../libempathy-gtk/empathy-account-widget-icq.ui.h:8
+msgid "What is your ICQ UIN?"
+msgstr "మీ ICQ UIN ఏమిటి?"
+
+#: ../libempathy-gtk/empathy-account-widget-icq.ui.h:9
+msgid "What is your ICQ password?"
+msgstr "మీ ICQ సంకేతపదము ఏమిటి?"
+
+#: ../libempathy-gtk/empathy-account-widget-sip.c:184
+#: ../libempathy-gtk/empathy-account-widget-sip.c:217
+msgid "Auto"
+msgstr "స్వయం"
+
+#: ../libempathy-gtk/empathy-account-widget-sip.c:187
+msgid "UDP"
+msgstr "UDP"
+
+#: ../libempathy-gtk/empathy-account-widget-sip.c:190
+msgid "TCP"
+msgstr "TCP"
+
+#: ../libempathy-gtk/empathy-account-widget-sip.c:193
+msgid "TLS"
+msgstr "TLS"
+
+#. translators: this string is very specific to SIP's internal; maybe
+#. * best to keep the English version.
+#: ../libempathy-gtk/empathy-account-widget-sip.c:222
+msgid "Register"
+msgstr "నమోదుచేసుకొను"
+
+#. translators: this string is very specific to SIP's internal; maybe
+#. * best to keep the English version.
+#: ../libempathy-gtk/empathy-account-widget-sip.c:227
+msgid "Options"
+msgstr "ఐచ్ఛికాలు"
+
+#: ../libempathy-gtk/empathy-account-widget-sip.c:230
+msgid "None"
+msgstr "ఏదీకాదు"
+
+#: ../libempathy-gtk/empathy-account-widget-irc.ui.h:1
+msgid "Character set:"
+msgstr "అక్షర సమితి:"
+
+#: ../libempathy-gtk/empathy-account-widget-irc.ui.h:2
+msgid "Network"
+msgstr "నెట్ వర్క్"
+
+#: ../libempathy-gtk/empathy-account-widget-irc.ui.h:3
+msgid "Network:"
+msgstr "నెట్‌వర్కు:"
+
+#: ../libempathy-gtk/empathy-account-widget-irc.ui.h:4
+msgid "Nickname:"
+msgstr "మారుపేరు:"
+
+#: ../libempathy-gtk/empathy-account-widget-irc.ui.h:5
+msgid "Password:"
+msgstr "సంకేతపదం:"
+
+#: ../libempathy-gtk/empathy-account-widget-irc.ui.h:6
+msgid "Quit message:"
+msgstr "నిష్క్రమణ సందేశం:"
+
+#: ../libempathy-gtk/empathy-account-widget-irc.ui.h:7
+msgid "Real name:"
+msgstr "అసలు పేరు:"
+
+#: ../libempathy-gtk/empathy-account-widget-irc.ui.h:8
+msgid "Servers"
+msgstr "సేవకాలు"
+
+#: ../libempathy-gtk/empathy-account-widget-irc.ui.h:9
+msgid "What is your IRC nickname?"
+msgstr "మీ IRC మారుపేరు ఏమిటి?"
+
+#: ../libempathy-gtk/empathy-account-widget-irc.ui.h:10
+msgid "Which IRC network?"
+msgstr "ఏ IRC నెట్‌వర్క్?"
+
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:1
+msgid "<b>Example:</b> user@gmail.com"
+msgstr "<b>ఉదాహరణ:</b> user@gmail.com"
+
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:2
+msgid "<b>Example:</b> user@jabber.org"
+msgstr "<b>ఉదాహరణ:</b> user@jabber.org"
+
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:4
+msgid "Encr_yption required (TLS/SSL)"
+msgstr "ఎన్‌క్రిప్షన్ అవసరం (_y) (TLS/SSL)"
+
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:5
+msgid "I_gnore SSL certificate errors"
+msgstr "SSL ధృవీకరణపత్ర దోషములను వదిలివేయు (_g)"
+
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:7
+msgid "Override server settings"
+msgstr "సేవకము అమరికలను తిరిగివ్రాయి"
+
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:9
+msgid "Priori_ty:"
+msgstr "ప్రాముఖ్యత (_o):"
+
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:12
+msgid "Reso_urce:"
+msgstr "వనరు (_u):"
+
+#. This string is not wrapped in the dialog so you may have to add some '\n' to make it look nice.
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:14
+msgid ""
+"This is your username, not your normal Facebook login.\n"
+"If you are facebook.com/<b>badger</b>, enter <b>badger</b>.\n"
+"Use <a href=\"http://www.facebook.com/username/\">this page</a> to choose a "
+"Facebook username if you don't have one."
+msgstr ""
+"ఇది మీ వాడుకరిపేరు, మీ సాధారణ ఫేస్‌బుక్ ప్రవేశం కాదు.\n"
+"ఒకవేళ మీరు facebook.com/<b>badger</b>, enter <b>badger</b>.\n"
+"మీకు ఒకవేళ ఒక ఫేస్‌బుక్ వాడుకరిపేరు లేకుంటే <a href=\"http://www.facebook."
+"com/username/"
+"\">ఈ పేజీని</a> వాడి ఒకటి సృష్టించండి."
+
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:17
+msgid "Use old SS_L"
+msgstr "పాత SS_L వాడు"
+
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:18
+msgid "What is your Facebook password?"
+msgstr "మీ ఫేస్‌బుక్ సంకేతపదం ఏమిటి?"
+
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:19
+msgid "What is your Facebook username?"
+msgstr "మీ ఫేస్‌బుక్ వాడుకరిపేరు ఏమిటి?"
+
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:20
+msgid "What is your Google ID?"
+msgstr "మీ గూగుల్ ఐడి ఏమిటి?"
+
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:21
+msgid "What is your Google password?"
+msgstr "మీ గూగుల్ సంకేతపదము ఏమిటి?"
+
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:22
+msgid "What is your Jabber ID?"
+msgstr "మీ జబ్బర్ ఐడి ఏమిటి?"
+
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:23
+msgid "What is your Jabber password?"
+msgstr "మీ జబ్బర్ సంకేతపదము ఏమిటి?"
+
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:24
+msgid "What is your desired Jabber ID?"
+msgstr "మీరు కోరుకున్న జబ్బర్ ఐడి ఏమిటి?"
+
+#: ../libempathy-gtk/empathy-account-widget-jabber.ui.h:25
+msgid "What is your desired Jabber password?"
+msgstr "మీరు కోరుకున్న జబ్బర్ సంకేతపదము ఏమిటి?"
+
+#: ../libempathy-gtk/empathy-account-widget-msn.ui.h:1
+msgid "<b>Example:</b> user@hotmail.com"
+msgstr "<b>ఉదాహరణ:</b> user@hotmail.com"
+
+#: ../libempathy-gtk/empathy-account-widget-msn.ui.h:7
+msgid "What is your Windows Live ID?"
+msgstr "మీ విండోస్ లైవ్ ఐడి సంకేతపదము ఏమిటి?"
+
+#: ../libempathy-gtk/empathy-account-widget-msn.ui.h:8
+msgid "What is your Windows Live password?"
+msgstr "మీ విండోస్ లైవ్ సంకేతపదము ఏమిటి?"
+
+#: ../libempathy-gtk/empathy-account-widget-local-xmpp.ui.h:2
+msgid "E-_mail address:"
+msgstr "ఈ-మెయిల్ చిరునామా:"
+
+#: ../libempathy-gtk/empathy-account-widget-local-xmpp.ui.h:3
+msgid "Nic_kname:"
+msgstr "మారుపేరు (_k):"
+
+#: ../libempathy-gtk/empathy-account-widget-local-xmpp.ui.h:4
+msgid "_First Name:"
+msgstr "మొదటి పేరు (_F):"
+
+#: ../libempathy-gtk/empathy-account-widget-local-xmpp.ui.h:5
+msgid "_Jabber ID:"
+msgstr "జబ్బర్ ఐడి (_J):"
+
+#: ../libempathy-gtk/empathy-account-widget-local-xmpp.ui.h:6
+msgid "_Last Name:"
+msgstr "చివరి పేరు (_L):"
+
+#: ../libempathy-gtk/empathy-account-widget-local-xmpp.ui.h:7
+msgid "_Published Name:"
+msgstr "ప్రచురించబడు పేరు (_P):"
+
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:1
+msgid "<b>Example:</b> user@my.sip.server"
+msgstr "<b>ఉదాహరణ:</b> user@my.sip.server"
+
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:3
+msgid "Authentication username:"
+msgstr "ప్రమాణీకరణ వాడుకరిపేరు:"
+
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:4
+msgid "Discover Binding"
+msgstr "బంధనము కనుగొనుము"
+
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:5
+msgid "Discover the STUN server automatically"
+msgstr "STUN సేవకాన్ని స్వయంచాలకంగా కనుగొను"
+
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:6
+msgid "Ignore TLS Errors"
+msgstr "TLS దోషాలను విస్మరించు"
+
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:7
+msgid "Interval (seconds)"
+msgstr "విరామం (సెకన్లలో)"
+
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:8
+msgid "Keep-Alive Options"
+msgstr ""
+
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:9
+msgid "Loose Routing"
+msgstr ""
+
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:10
+msgid "Mechanism:"
+msgstr ""
+
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:11
+msgid "Miscellaneous Options"
+msgstr ""
+
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:12
+msgid "NAT Traversal Options"
+msgstr ""
+
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:14
+msgid "Port:"
+msgstr "పోర్టు (_P):"
+
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:15
+msgid "Proxy Options"
+msgstr "ప్రోక్సీ ఐచ్ఛికాలు"
+
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:18
+msgid "STUN Server:"
+msgstr "STUN సేవకం:"
+
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:19
+#: ../libempathy-gtk/empathy-contact-widget.c:347
+msgid "Server:"
+msgstr "సేవకము:"
+
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:20
+msgid "Transport:"
+msgstr "ట్రాన్స్‍పోర్ట్:"
+
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:21
+msgid "What is your SIP account password?"
+msgstr "మీ SIP ఖాతా సంకేతపదం ఏమిటి?"
+
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:22
+msgid "What is your SIP login ID?"
+msgstr "మీ SIP ప్రవేశ ఐడి ఏమిటి?"
+
+#: ../libempathy-gtk/empathy-account-widget-sip.ui.h:23
+msgid "_Username:"
+msgstr "వాడుకరిపేరు (_U):"
+
+#: ../libempathy-gtk/empathy-account-widget-yahoo.ui.h:4
+msgid "I_gnore conference and chat room invitations"
+msgstr "సమావేశాన్ని మరియు చాట్‌గది ఆహ్వానములను చూసి చూడనట్లు వదిలివేయి (_g)"
+
+#: ../libempathy-gtk/empathy-account-widget-yahoo.ui.h:7
+msgid "What is your Yahoo! ID?"
+msgstr "మీ యాహూ! ఐడి ఏమిటి?"
+
+#: ../libempathy-gtk/empathy-account-widget-yahoo.ui.h:8
+msgid "What is your Yahoo! password?"
+msgstr "మీ యాహూ! సంకేతపదం ఏమిటి?"
+
+#: ../libempathy-gtk/empathy-account-widget-yahoo.ui.h:9
+msgid "Yahoo! I_D:"
+msgstr "యాహూ! ఐడి (_D):"
+
+#: ../libempathy-gtk/empathy-account-widget-yahoo.ui.h:11
+msgid "_Room List locale:"
+msgstr "గది జాబితా స్థానికం (_R):"
+
+#: ../libempathy-gtk/empathy-avatar-chooser.c:474
+#: ../libempathy-gtk/empathy-avatar-chooser.c:559
+msgid "Couldn't convert image"
+msgstr "బొమ్మను మార్చలేకపోయింది"
+
+#: ../libempathy-gtk/empathy-avatar-chooser.c:475
+msgid "None of the accepted image formats are supported on your system"
+msgstr "మీ వ్యవస్థ నందు ఆమోదించిన ఏ బొమ్మ ఫార్మేట్లు సహకరించుటలేదు"
+
+#: ../libempathy-gtk/empathy-avatar-chooser.c:822
+msgid "Couldn't save pixbuf to png"
+msgstr "pixbuf నుండి png కి భద్రపరుచవద్దు"
+
+#: ../libempathy-gtk/empathy-avatar-chooser.c:938
+msgid "Select Your Avatar Image"
+msgstr "మీ అవతారము బొమ్మను ఎంచుకోండి"
+
+#: ../libempathy-gtk/empathy-avatar-chooser.c:942
+msgid "Take a picture..."
+msgstr "ఒక చిత్రాన్ని తీయండి..."
+
+#: ../libempathy-gtk/empathy-avatar-chooser.c:945
+msgid "No Image"
+msgstr "బొమ్మ లేదు"
+
+#: ../libempathy-gtk/empathy-avatar-chooser.c:1005
+msgid "Images"
+msgstr "బొమ్మలు"
+
+#: ../libempathy-gtk/empathy-avatar-chooser.c:1009
+msgid "All Files"
+msgstr "అన్ని ఫైళ్ళు"
+
+#: ../libempathy-gtk/empathy-avatar-image.c:322
+msgid "Click to enlarge"
+msgstr "పెద్దదిచేయుటకు నొక్కండి"
+
+#: ../libempathy-gtk/empathy-call-utils.c:42
+#: ../libempathy-gtk/empathy-call-utils.c:58
+#, fuzzy
+#| msgid "There was an error while creating the account."
+msgid "There was an error starting the call"
+msgstr "ఖాతాను సృష్టించునప్పుడు అక్కడ ఒక దోషము వుంది."
+
+#: ../libempathy-gtk/empathy-call-utils.c:49
+msgid "The specified contact doesn't support calls"
+msgstr ""
+
+#: ../libempathy-gtk/empathy-call-utils.c:51
+#, fuzzy
+#| msgid "The selected contact is offline."
+msgid "The specified contact is offline"
+msgstr "ఎంచుకున్న పరిచయము ఆఫ్‌లైనులో ఉంది."
+
+#: ../libempathy-gtk/empathy-call-utils.c:53
+#, fuzzy
+#| msgid "The selected contact is offline."
+msgid "The specified contact is not valid"
+msgstr "ఎంచుకున్న పరిచయము ఆఫ్‌లైనులో ఉంది."
+
+#: ../libempathy-gtk/empathy-call-utils.c:55
+#, fuzzy
+#| msgid "Topic not supported on this conversation"
+msgid "Emergency calls are not supported on this protocol"
+msgstr "ఈ సంభాషణ పై విషయము సహకరించుట లేదు"
+
+#: ../libempathy-gtk/empathy-chat.c:695
+msgid "Failed to open private chat"
+msgstr "రహస్య చాట్‌ని తెరుచుటలో విఫలమైంది"
+
+#: ../libempathy-gtk/empathy-chat.c:756
+msgid "Topic not supported on this conversation"
+msgstr "ఈ సంభాషణ పై విషయము సహకరించుట లేదు"
+
+#: ../libempathy-gtk/empathy-chat.c:762
+msgid "You are not allowed to change the topic"
+msgstr "విషయమును మార్చుటకు మీరు అనుమతించబడరు"
+
+#: ../libempathy-gtk/empathy-chat.c:966
+#, c-format
+msgid "“%s” is not a valid contact ID"
+msgstr "“%s” అనేది చెల్లని పరిచయపు ఐడి"
+
+#: ../libempathy-gtk/empathy-chat.c:1023
+msgid "/clear: clear all messages from the current conversation"
+msgstr "/clear: ప్రస్తుత సంభాషణలోని అన్ని సందేశాలను తుడిచివేయి"
+
+#: ../libempathy-gtk/empathy-chat.c:1026
+msgid "/topic <topic>: set the topic of the current conversation"
+msgstr "/topic <topic>: ప్రస్తుత సంభాషణ యొక్క విషయమును అమర్చు"
+
+#: ../libempathy-gtk/empathy-chat.c:1029
+msgid "/join <chat room ID>: join a new chat room"
+msgstr "/join <chat room ID>: ఒక కొత్త చాట్ గదిలో చేరు"
+
+#: ../libempathy-gtk/empathy-chat.c:1032
+msgid "/j <chat room ID>: join a new chat room"
+msgstr "/j <chat room ID>: ఒక కొత్త చాట్ గదిలో చేరు"
+
+#: ../libempathy-gtk/empathy-chat.c:1036
+msgid ""
+"/part [<chat room ID>] [<reason>]: leave the chat room, by default the "
+"current one"
+msgstr ""
+"/part [<chat room ID>] [<reason>]: ప్రస్తుతపు దానితో అప్రమేయముగా చాట్ గదిని "
+"వదిలివెళ్ళు"
+
+#: ../libempathy-gtk/empathy-chat.c:1040
+msgid "/query <contact ID> [<message>]: open a private chat"
+msgstr "/query <contact ID> [<message>]: ఒక గోప్య చాట్‌ని తెరువు"
+
+#: ../libempathy-gtk/empathy-chat.c:1043
+msgid "/msg <contact ID> <message>: open a private chat"
+msgstr "/msg <contact ID> <message>: ఒక గోప్య చాట్‌ని తెరువు"
+
+#: ../libempathy-gtk/empathy-chat.c:1046
+msgid "/nick <nickname>: change your nickname on the current server"
+msgstr "/nick <nickname>: ప్రస్తుత సేవకములో మీ మారుపేరుని మార్చు"
+
+#: ../libempathy-gtk/empathy-chat.c:1049
+msgid "/me <message>: send an ACTION message to the current conversation"
+msgstr ""
+
+#: ../libempathy-gtk/empathy-chat.c:1052
+msgid ""
+"/say <message>: send <message> to the current conversation. This is used to "
+"send a message starting with a '/'. For example: \"/say /join is used to "
+"join a new chat room\""
+msgstr ""
+
+#: ../libempathy-gtk/empathy-chat.c:1057
+msgid "/whois <contact ID>: display information about a contact"
+msgstr ""
+
+#: ../libempathy-gtk/empathy-chat.c:1060
+msgid ""
+"/help [<command>]: show all supported commands. If <command> is defined, "
+"show its usage."
+msgstr ""
+"/help [<command>]: సహకారము ఉన్న అన్ని ఆదేశాలను చూపిస్తుంది. ఒకవేళ <command> "
+"నిర్వచించబడినట్టయితే, దాని వాడుకని చూపించు."
+
+#: ../libempathy-gtk/empathy-chat.c:1070
+#, c-format
+msgid "Usage: %s"
+msgstr "వాడుక: %s"
+
+#: ../libempathy-gtk/empathy-chat.c:1109
+msgid "Unknown command"
+msgstr "తెలియని ఆదేశము"
+
+#: ../libempathy-gtk/empathy-chat.c:1235
+msgid "Unknown command; see /help for the available commands"
+msgstr "తెలియని ఆదేశము; అందుబాటులోవున్న ఆదేశముల కోసం /help చూడండి"
+
+#. translators: error used when user doesn't have enough credit on his
+#. * account to send the message.
+#: ../libempathy-gtk/empathy-chat.c:1393
+msgid "insufficient balance to send message"
+msgstr "సందేశం పంపుటకు కావలసిన బ్యాలెన్స్ లేదు"
+
+#: ../libempathy-gtk/empathy-chat.c:1395
+msgid "not capable"
+msgstr ""
+
+#: ../libempathy-gtk/empathy-chat.c:1402
+msgid "offline"
+msgstr "ఆఫ్‌లైన్"
+
+#: ../libempathy-gtk/empathy-chat.c:1405
+msgid "invalid contact"
+msgstr "చెల్లని పరిచయం"
+
+#: ../libempathy-gtk/empathy-chat.c:1408
+msgid "permission denied"
+msgstr "అనుమతి నిరాకరించబడింది"
+
+#: ../libempathy-gtk/empathy-chat.c:1411
+msgid "too long message"
+msgstr "మరీ పొడవైన సందేశము"
+
+#: ../libempathy-gtk/empathy-chat.c:1414
+msgid "not implemented"
+msgstr "అమలుపరుచబడలేదు"
+
+#: ../libempathy-gtk/empathy-chat.c:1418
+msgid "unknown"
+msgstr "తెలియదు"
+
+#: ../libempathy-gtk/empathy-chat.c:1424
+#, c-format
+msgid "Error sending message '%s': %s"
+msgstr "'%s' సందేశం పంపుటలో దోషము: %s"
+
+#: ../libempathy-gtk/empathy-chat.c:1428
+#, c-format
+msgid "Error sending message: %s"
+msgstr "సందేశం పంపడంలో దోషము: %s"
+
+#: ../libempathy-gtk/empathy-chat.c:1489 ../src/empathy-chat-window.c:760
+msgid "Topic:"
+msgstr "విషయం:"
+
+#: ../libempathy-gtk/empathy-chat.c:1501
+#, c-format
+msgid "Topic set to: %s"
+msgstr "విషయం దీనికి అమర్చబడింది: %s"
+
+#: ../libempathy-gtk/empathy-chat.c:1503
+msgid "No topic defined"
+msgstr "ఏ విషయం నిర్వచించిలేదు"
+
+#: ../libempathy-gtk/empathy-chat.c:2010
+msgid "(No Suggestions)"
+msgstr "(ఏ సూచనలు లేవు)"
+
+#. translators: %s is the selected word
+#: ../libempathy-gtk/empathy-chat.c:2078
+#, c-format
+msgid "Add '%s' to Dictionary"
+msgstr "'%s'ని నిఘంటువుకి చేర్చు"
+
+#. translators: first %s is the selected word,
+#. * second %s is the language name of the target dictionary
+#: ../libempathy-gtk/empathy-chat.c:2115
+#, c-format
+msgid "Add '%s' to %s Dictionary"
+msgstr "'%s'ని %s నిఘంటువుకి చేర్చు"
+
+#: ../libempathy-gtk/empathy-chat.c:2172
+msgid "Insert Smiley"
+msgstr "చిరునవ్వును చేర్చు"
+
+#. send button
+#: ../libempathy-gtk/empathy-chat.c:2190
+#: ../libempathy-gtk/empathy-ui-utils.c:1756
+msgid "_Send"
+msgstr "పంపు (_S)"
+
+#. Spelling suggestions
+#: ../libempathy-gtk/empathy-chat.c:2225
+msgid "_Spelling Suggestions"
+msgstr "అక్షరక్రమం సూచనలు (_S)"
+
+#: ../libempathy-gtk/empathy-chat.c:2314
+msgid "Failed to retrieve recent logs"
+msgstr "ఇటీవలి చిట్టాలను పొందుటలో విఫలమైంది"
+
+#: ../libempathy-gtk/empathy-chat.c:2425
+#, c-format
+msgid "%s has disconnected"
+msgstr "%s అననుసంధానించారు"
+
+#. translators: reverse the order of these arguments
+#. * if the kicked should come before the kicker in your locale.
+#.
+#: ../libempathy-gtk/empathy-chat.c:2432
+#, c-format
+msgid "%1$s was kicked by %2$s"
+msgstr "%1$s అనునది %2$s చేత బయటకు తోసివేయబడ్డారు"
+
+#: ../libempathy-gtk/empathy-chat.c:2435
+#, c-format
+msgid "%s was kicked"
+msgstr "%s తోసివేయబడ్డారు"
+
+#. translators: reverse the order of these arguments
+#. * if the banned should come before the banner in your locale.
+#.
+#: ../libempathy-gtk/empathy-chat.c:2443
+#, c-format
+msgid "%1$s was banned by %2$s"
+msgstr "%1$s అనువారు %2$s చేత నిషేధించబడ్డారు"
+
+#: ../libempathy-gtk/empathy-chat.c:2446
+#, c-format
+msgid "%s was banned"
+msgstr "%s నిషేధించబడ్డారు"
+
+#: ../libempathy-gtk/empathy-chat.c:2450
+#, c-format
+msgid "%s has left the room"
+msgstr "%s గదిని వదిలివెళ్ళారు"
+
+#. Note to translators: this string is appended to
+#. * notifications like "foo has left the room", with the message
+#. * given by the user living the room. If this poses a problem,
+#. * please let us know. :-)
+#.
+#: ../libempathy-gtk/empathy-chat.c:2459
+#, c-format
+msgid " (%s)"
+msgstr " (%s)"
+
+#: ../libempathy-gtk/empathy-chat.c:2484
+#, c-format
+msgid "%s has joined the room"
+msgstr "%s గదిలో చేరారు"
+
+#: ../libempathy-gtk/empathy-chat.c:2509
+#, c-format
+msgid "%s is now known as %s"
+msgstr "%s ఇప్పుడు %s వలె అయినారు"
+
+#: ../libempathy-gtk/empathy-chat.c:2648
+#: ../src/empathy-streamed-media-window.c:1935
+#: ../src/empathy-event-manager.c:1261 ../src/empathy-call-window.c:1869
+msgid "Disconnected"
+msgstr "అననుసంధానించబడ్డారు"
+
+#. Add message
+#: ../libempathy-gtk/empathy-chat.c:3316
+msgid "Would you like to store this password?"
+msgstr "ఈ సంకేతపదమును భద్రపరచాలనుకుంటున్నారా?"
+
+#: ../libempathy-gtk/empathy-chat.c:3322
+msgid "Remember"
+msgstr "గుర్తించుకొను"
+
+#: ../libempathy-gtk/empathy-chat.c:3332
+msgid "Not now"
+msgstr "ఇప్పుడు కాదు"
+
+#: ../libempathy-gtk/empathy-chat.c:3376
+msgid "Retry"
+msgstr "మరలా ప్రయత్నించు"
+
+#: ../libempathy-gtk/empathy-chat.c:3380
+msgid "Wrong password; please try again:"
+msgstr "సంకేతపదం తప్పు; దయచేసి మళ్ళీ ప్రయత్నించండి:"
+
+#. Add message
+#: ../libempathy-gtk/empathy-chat.c:3510
+msgid "This room is protected by a password:"
+msgstr "ఈ గది సంకేతపదముతో రక్షణ కలిగివుంది:"
+
+#: ../libempathy-gtk/empathy-chat.c:3537
+msgid "Join"
+msgstr "చేరు"
+
+#: ../libempathy-gtk/empathy-chat.c:3739 ../src/empathy-event-manager.c:1282
+#: ../src/empathy-call-window.c:2125
+msgid "Connected"
+msgstr "అనుసంధానించబడ్డారు"
+
+#: ../libempathy-gtk/empathy-chat.c:3794
+msgid "Conversation"
+msgstr "సంభాషణ"
+
+#. Translators: this string is a something like
+#. * "Escher Cat (SMS)"
+#: ../libempathy-gtk/empathy-chat.c:3799
+#, c-format
+msgid "%s (SMS)"
+msgstr "%s (SMS)"
+
+#: ../libempathy-gtk/empathy-contact-blocking-dialog.c:423
+msgid "Unknown or invalid identifier"
+msgstr "తెలియని లేదా చెల్లని గుర్తింపకం"
+
+#: ../libempathy-gtk/empathy-contact-blocking-dialog.c:425
+msgid "Contact blocking temporarily unavailable"
+msgstr "పరిచయాన్ని నిరోధించుట తాత్కాలికంగా అందుబాటులోలేదు"
+
+#: ../libempathy-gtk/empathy-contact-blocking-dialog.c:427
+msgid "Contact blocking unavailable"
+msgstr "పరిచయాన్ని నిరోధించుట అందుబాటులోలేదు"
+
+#: ../libempathy-gtk/empathy-contact-blocking-dialog.c:429
+msgid "Permission Denied"
+msgstr "అనుమతి నిరాకరించబడింది"
+
+#: ../libempathy-gtk/empathy-contact-blocking-dialog.c:433
+msgid "Could not block contact"
+msgstr "పరిచయాన్ని నిరోధించలేకపోతుంది"
+
+#: ../libempathy-gtk/empathy-contact-blocking-dialog.c:702
+msgid "Edit Blocked Contacts"
+msgstr "నిరోధించబడిన పరిచయాలను సవరించు"
+
+#. Account and Identifier
+#: ../libempathy-gtk/empathy-contact-blocking-dialog.ui.h:1
+#: ../libempathy-gtk/empathy-contact-search-dialog.c:521
+#: ../libempathy-gtk/empathy-contact-widget.ui.h:2
+#: ../libempathy-gtk/empathy-individual-widget.c:1495
+#: ../libempathy-gtk/empathy-contact-selector-dialog.ui.h:1
+#: ../src/empathy-chatrooms-window.ui.h:1
+#: ../src/empathy-new-chatroom-dialog.ui.h:1
+msgid "Account:"
+msgstr "ఖాతా:"
+
+#. Copy Link Address menu item
+#: ../libempathy-gtk/empathy-chat-text-view.c:320
+#: ../libempathy-gtk/empathy-theme-adium.c:1264
+msgid "_Copy Link Address"
+msgstr "లింకు చిరునామాను నకలుతీయు (_C)"
+
+#. Open Link menu item
+#: ../libempathy-gtk/empathy-chat-text-view.c:327
+#: ../libempathy-gtk/empathy-theme-adium.c:1271
+msgid "_Open Link"
+msgstr "లింకును తెరువు (_O)"
+
+#. Translators: timestamp displayed between conversations in
+#. * chat windows (strftime format string)
+#: ../libempathy-gtk/empathy-chat-text-view.c:415
+msgid "%A %B %d %Y"
+msgstr "%A %B %d %Y"
+
+#: ../libempathy-gtk/empathy-contact-dialogs.c:299
+#: ../libempathy-gtk/empathy-individual-edit-dialog.c:247
+msgid "Edit Contact Information"
+msgstr "పరిచయ సమాచారాన్ని సవరించు"
+
+#: ../libempathy-gtk/empathy-contact-dialogs.c:350
+msgid "Personal Information"
+msgstr "వ్యక్తిగత సమాచారం"
+
+#: ../libempathy-gtk/empathy-contact-dialogs.c:459
+#: ../libempathy-gtk/empathy-individual-dialogs.c:119
+msgid "New Contact"
+msgstr "కొత్త  పరిచయం"
+
+#: ../libempathy-gtk/empathy-contact-dialogs.c:533
+#: ../libempathy-gtk/empathy-individual-dialogs.c:200
+#, c-format
+msgid "Block %s?"
+msgstr "%s నిరోధించాలా?"
+
+#: ../libempathy-gtk/empathy-contact-dialogs.c:538
+#: ../libempathy-gtk/empathy-individual-dialogs.c:252
+#, c-format
+msgid "Are you sure you want to block '%s' from contacting you again?"
+msgstr ""
+
+#: ../libempathy-gtk/empathy-contact-dialogs.c:543
+#: ../libempathy-gtk/empathy-individual-dialogs.c:274
+msgid "_Block"
+msgstr "నిరోధించు (_B)"
+
+#: ../libempathy-gtk/empathy-contact-dialogs.c:559
+#: ../libempathy-gtk/empathy-individual-dialogs.c:283
+msgid "_Report this contact as abusive"
+msgid_plural "_Report these contacts as abusive"
+msgstr[0] "ఈ పరిచయము దుర్వినియోగాన్ని నివేదించు (_R)"
+msgstr[1] "ఈ పరిచయాల దుర్వినియోగాన్ని నివేదించు (_R)"
+
+#: ../libempathy-gtk/empathy-contact-dialogs.ui.h:1
+msgid "Decide _Later"
+msgstr "తర్వాత నిర్ణయిస్తాను (_L)"
+
+#: ../libempathy-gtk/empathy-contact-dialogs.ui.h:2
+msgid "Subscription Request"
+msgstr "చందా అభ్యర్ధన"
+
+#: ../libempathy-gtk/empathy-contact-dialogs.ui.h:3
+msgid "_Block User"
+msgstr "వాడుకరిని నిరోధించు (_B)"
+
+#: ../libempathy-gtk/empathy-contact-list-store.h:71
+msgid "Ungrouped"
+msgstr ""
+
+#: ../libempathy-gtk/empathy-contact-list-store.h:72
+msgid "Favorite People"
+msgstr "ఇష్టమైన వ్యక్తులు (_F)"
+
+#: ../libempathy-gtk/empathy-contact-list-view.c:1983
+#: ../libempathy-gtk/empathy-individual-view.c:2375
+#, c-format
+msgid "Do you really want to remove the group '%s'?"
+msgstr "మీరు నిజంగా '%s' గుంపును తీసివేయాలనుకుంటున్నారా?"
+
+#: ../libempathy-gtk/empathy-contact-list-view.c:1985
+#: ../libempathy-gtk/empathy-individual-view.c:2378
+msgid "Removing group"
+msgstr "గుంపును తీసివేస్తున్నది"
+
+#. Remove
+#: ../libempathy-gtk/empathy-contact-list-view.c:2034
+#: ../libempathy-gtk/empathy-contact-list-view.c:2111
+#: ../libempathy-gtk/empathy-individual-view.c:2433
+#: ../libempathy-gtk/empathy-individual-view.c:2636
+msgid "_Remove"
+msgstr "తీసివేయి (_R)"
+
+#: ../libempathy-gtk/empathy-contact-list-view.c:2064
+#: ../libempathy-gtk/empathy-individual-view.c:2500
+#, c-format
+msgid "Do you really want to remove the contact '%s'?"
+msgstr "మీరు నిజంగానే '%s' పరిచయాన్ని తీసివేయాలనుకుంటున్నారా?"
+
+#: ../libempathy-gtk/empathy-contact-list-view.c:2066
+#: ../libempathy-gtk/empathy-individual-view.c:2521
+msgid "Removing contact"
+msgstr "పరిచయాన్ని తీసివేస్తున్నది"
+
+#: ../libempathy-gtk/empathy-contact-menu.c:220
+#: ../src/empathy-main-window.ui.h:14
+msgid "_Add Contact…"
+msgstr "పరిచయాన్ని జతచేయి...(_A)"
+
+#: ../libempathy-gtk/empathy-contact-menu.c:300
+msgid "_Block Contact"
+msgstr "పరిచయాన్ని నిరోధించు (_B)"
+
+#: ../libempathy-gtk/empathy-contact-menu.c:329
+#: ../libempathy-gtk/empathy-individual-menu.c:547
+#: ../src/empathy-main-window.ui.h:16
+msgid "_Chat"
+msgstr "చాట్ (_C)"
+
+#: ../libempathy-gtk/empathy-contact-menu.c:361
+#: ../libempathy-gtk/empathy-individual-menu.c:638
+msgctxt "menu item"
+msgid "_Audio Call"
+msgstr "ఆడియో కాల్ (_A)"
+
+#: ../libempathy-gtk/empathy-contact-menu.c:394
+#: ../libempathy-gtk/empathy-individual-menu.c:682
+msgctxt "menu item"
+msgid "_Video Call"
+msgstr "వీడియో కాల్ (_V)"
+
+#: ../libempathy-gtk/empathy-contact-menu.c:440
+#: ../libempathy-gtk/empathy-individual-menu.c:725
+#: ../src/empathy-main-window.ui.h:27
+msgid "_Previous Conversations"
+msgstr "మునుపటి సంభాషణలు (_P)"
+
+#: ../libempathy-gtk/empathy-contact-menu.c:462
+#: ../libempathy-gtk/empathy-individual-menu.c:766
+msgid "Send File"
+msgstr "ఫైలును పంపు"
+
+#: ../libempathy-gtk/empathy-contact-menu.c:485
+#: ../libempathy-gtk/empathy-individual-menu.c:808
+msgid "Share My Desktop"
+msgstr "నా డెస్క్‍టాప్‌ను పంచుకొను"
+
+#: ../libempathy-gtk/empathy-contact-menu.c:525
+#: ../libempathy-gtk/empathy-contact-widget.c:1890
+#: ../libempathy-gtk/empathy-individual-menu.c:843
+#: ../libempathy-gtk/empathy-individual-widget.c:1386
+msgid "Favorite"
+msgstr "ఇష్టాంశము"
+
+#: ../libempathy-gtk/empathy-contact-menu.c:554
+#: ../libempathy-gtk/empathy-individual-menu.c:871
+msgid "Infor_mation"
+msgstr "సమాచారము (_m)"
+
+#: ../libempathy-gtk/empathy-contact-menu.c:600
+msgctxt "Edit contact (contextual menu)"
+msgid "_Edit"
+msgstr "సవరణ (_E)"
+
+#: ../libempathy-gtk/empathy-contact-menu.c:654
+#: ../libempathy-gtk/empathy-individual-menu.c:1058
+#: ../src/empathy-chat-window.c:1010
+msgid "Inviting you to this room"
+msgstr "మిమ్మల్ని ఈ గదికి ఆహ్వానిస్తున్నారు"
+
+#: ../libempathy-gtk/empathy-contact-menu.c:685
+#: ../libempathy-gtk/empathy-individual-menu.c:1104
+msgid "_Invite to Chat Room"
+msgstr "చాట్ గదికి ఆహ్వానించు (_I)"
+
+#. Title
+#: ../libempathy-gtk/empathy-contact-search-dialog.c:514
+msgid "Search contacts"
+msgstr "పరిచయాలను వెతుకు"
+
+#: ../libempathy-gtk/empathy-contact-search-dialog.c:544
+msgid "Search: "
+msgstr "వెతుకు: "
+
+#: ../libempathy-gtk/empathy-contact-search-dialog.c:602
+msgid "_Add Contact"
+msgstr "పరిచయాన్ని జతచేయి...(_A)"
+
+#: ../libempathy-gtk/empathy-contact-search-dialog.c:620
+msgid "No contacts found"
+msgstr "ఏ పరిచయాలు కనపడలేదు"
+
+#: ../libempathy-gtk/empathy-contact-selector.c:129
+msgid "Select a contact"
+msgstr "ఒక పరిచయాన్ని ఎంచుకొను"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:336
+#: ../libempathy-gtk/empathy-individual-widget.c:153
+msgid "Full name:"
+msgstr "పూర్తి పేరు:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:337
+#: ../libempathy-gtk/empathy-individual-widget.c:154
+msgid "Phone number:"
+msgstr "ఫోను నంబరు:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:338
+#: ../libempathy-gtk/empathy-individual-widget.c:155
+msgid "E-mail address:"
+msgstr "ఈ-మెయిల్ చిరునామా:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:339
+#: ../libempathy-gtk/empathy-individual-widget.c:156
+msgid "Website:"
+msgstr "వెబ్‌సైటు:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:340
+#: ../libempathy-gtk/empathy-individual-widget.c:157
+msgid "Birthday:"
+msgstr "పుట్టినరోజు:"
+
+#. Note to translators: this is the caption for a string of the form "5
+#. * minutes ago", and refers to the time since the contact last interacted
+#. * with their IM client.
+#.
+#: ../libempathy-gtk/empathy-contact-widget.c:346
+msgid "Last seen:"
+msgstr "చివరి దర్శనం:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:348
+msgid "Connected from:"
+msgstr "దీని నుండి అనుసంధానించబడింది:"
+
+#. FIXME: once Idle implements SimplePresence using this information, we can
+#. * and should bin this.
+#.
+#: ../libempathy-gtk/empathy-contact-widget.c:353
+msgid "Away message:"
+msgstr "దూరంగా ఉన్నపుడు సందేశము:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:606
+msgid "Channels:"
+msgstr "ఛానళ్ళు:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:901
+#: ../libempathy-gtk/empathy-individual-widget.c:495
+msgid "Country ISO Code:"
+msgstr "దేశము ISO కోడు:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:903
+#: ../libempathy-gtk/empathy-individual-widget.c:497
+msgid "Country:"
+msgstr "దేశము:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:905
+#: ../libempathy-gtk/empathy-individual-widget.c:499
+msgid "State:"
+msgstr "రాష్ట్రము:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:907
+#: ../libempathy-gtk/empathy-individual-widget.c:501
+msgid "City:"
+msgstr "పట్టణము:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:909
+#: ../libempathy-gtk/empathy-individual-widget.c:503
+msgid "Area:"
+msgstr "ప్రాంతము:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:911
+#: ../libempathy-gtk/empathy-individual-widget.c:505
+msgid "Postal Code:"
+msgstr "పోస్టల్ కోడ్:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:913
+#: ../libempathy-gtk/empathy-individual-widget.c:507
+msgid "Street:"
+msgstr "వీధి:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:915
+#: ../libempathy-gtk/empathy-individual-widget.c:509
+msgid "Building:"
+msgstr "భవనము:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:917
+#: ../libempathy-gtk/empathy-individual-widget.c:511
+msgid "Floor:"
+msgstr "అంతస్థు:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:919
+#: ../libempathy-gtk/empathy-individual-widget.c:513
+msgid "Room:"
+msgstr "గది:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:921
+#: ../libempathy-gtk/empathy-individual-widget.c:515
+msgid "Text:"
+msgstr "పాఠ్యము:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:923
+#: ../libempathy-gtk/empathy-individual-widget.c:517
+msgid "Description:"
+msgstr "వివరణ:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:925
+#: ../libempathy-gtk/empathy-individual-widget.c:519
+msgid "URI:"
+msgstr "URI:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:927
+#: ../libempathy-gtk/empathy-individual-widget.c:521
+msgid "Accuracy Level:"
+msgstr "ఖచ్చితత్వ స్థాయి:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:929
+#: ../libempathy-gtk/empathy-individual-widget.c:523
+msgid "Error:"
+msgstr "దోషము:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:931
+#: ../libempathy-gtk/empathy-individual-widget.c:525
+msgid "Vertical Error (meters):"
+msgstr "నిలువు దోషము (మీటర్లు):"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:933
+#: ../libempathy-gtk/empathy-individual-widget.c:527
+msgid "Horizontal Error (meters):"
+msgstr "అడ్డ దోషము (మీటర్లు):"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:935
+#: ../libempathy-gtk/empathy-individual-widget.c:529
+msgid "Speed:"
+msgstr "వేగము:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:937
+#: ../libempathy-gtk/empathy-individual-widget.c:531
+msgid "Bearing:"
+msgstr "బేరింగ్:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:939
+#: ../libempathy-gtk/empathy-individual-widget.c:533
+msgid "Climb Speed:"
+msgstr "ఎక్కు వేగము:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:941
+#: ../libempathy-gtk/empathy-individual-widget.c:535
+msgid "Last Updated on:"
+msgstr "చివరిగా నవీకరించబడింది:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:943
+#: ../libempathy-gtk/empathy-individual-widget.c:537
+msgid "Longitude:"
+msgstr "రేఖాంశము:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:945
+#: ../libempathy-gtk/empathy-individual-widget.c:539
+msgid "Latitude:"
+msgstr "అక్షాంశము:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:947
+#: ../libempathy-gtk/empathy-individual-widget.c:541
+msgid "Altitude:"
+msgstr "ఎత్తు:"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:1000
+#: ../libempathy-gtk/empathy-contact-widget.c:1015
+#: ../libempathy-gtk/empathy-individual-widget.c:629
+#: ../libempathy-gtk/empathy-individual-widget.c:644
+#: ../src/empathy-preferences.ui.h:12
+msgid "Location"
+msgstr "స్థానము"
+
+#. translators: format is "Location, $date"
+#: ../libempathy-gtk/empathy-contact-widget.c:1017
+#: ../libempathy-gtk/empathy-individual-widget.c:646
+#, c-format
+msgid "%s, %s"
+msgstr "%s, %s"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:1069
+#: ../libempathy-gtk/empathy-individual-widget.c:695
+msgid "%B %e, %Y at %R UTC"
+msgstr "%B %e, %Y at %R UTC"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:1151
+#: ../libempathy-gtk/empathy-individual-widget.c:931
+msgid "Save Avatar"
+msgstr "అవతారాన్ని భద్రపరుచు"
+
+#: ../libempathy-gtk/empathy-contact-widget.c:1207
+#: ../libempathy-gtk/empathy-individual-widget.c:989
+msgid "Unable to save avatar"
+msgstr "అవతారాన్ని భద్రపరచలేకపోతుంది"
+
+#: ../libempathy-gtk/empathy-contact-widget.ui.h:1
+msgid "<b>Location</b> at (date)\t"
+msgstr "<b>స్థానము</b> ఈ (తేది)వద్ద\t"
+
+#. Alias
+#: ../libempathy-gtk/empathy-contact-widget.ui.h:3
+#: ../libempathy-gtk/empathy-individual-widget.c:1321
+msgid "Alias:"
+msgstr "అలియాస్:"
+
+#: ../libempathy-gtk/empathy-contact-widget.ui.h:4
+msgid "Client Information"
+msgstr "క్లయింటు సమాచారము"
+
+#: ../libempathy-gtk/empathy-contact-widget.ui.h:5
+msgid "Client:"
+msgstr "క్లయింటు:"
+
+#: ../libempathy-gtk/empathy-contact-widget.ui.h:6
+#: ../libempathy-gtk/empathy-individual-widget.ui.h:2
+msgid "Contact Details"
+msgstr "పరిచయము వివరాలు"
+
+#. Identifier to connect to Instant Messaging network
+#. Translators: Identifier to connect to Instant Messaging network
+#: ../libempathy-gtk/empathy-contact-widget.ui.h:8
+#: ../libempathy-gtk/empathy-individual-widget.c:1525
+msgid "Identifier:"
+msgstr "గుర్తించునది:"
+
+#: ../libempathy-gtk/empathy-contact-widget.ui.h:9
+#: ../libempathy-gtk/empathy-individual-widget.ui.h:3
+msgid "Information requested…"
+msgstr "అభ్యర్దించబడిన సమాచారము..."
+
+#: ../libempathy-gtk/empathy-contact-widget.ui.h:10
+msgid "OS:"
+msgstr "OS:"
+
+#: ../libempathy-gtk/empathy-contact-widget.ui.h:11
+msgid "Version:"
+msgstr "వర్షన్:"
+
+#: ../libempathy-gtk/empathy-groups-widget.c:333
+msgid "Groups"
+msgstr "గుంపులు"
+
+#: ../libempathy-gtk/empathy-groups-widget.c:345
+msgid ""
+"Select the groups you want this contact to appear in.  Note that you can "
+"select more than one group or no groups."
+msgstr ""
+"గుంపులో కనిపించాలనుకుంటున్న పరిచయాన్ని ఎంచుకోండి.  మీరు ఒకటి కన్నా ఎక్కువ "
+"గుంపులను "
+"ఎంచుకొనవచ్చు లేదా అస్సలు ఎంచుకొనపోవచ్చునని గమనించండి."
+
+#: ../libempathy-gtk/empathy-groups-widget.c:364
+msgid "_Add Group"
+msgstr "గుంపును జతచేయి (_A)"
+
+#: ../libempathy-gtk/empathy-groups-widget.c:399
+msgctxt "verb in a column header displaying group names"
+msgid "Select"
+msgstr "ఎంచుకోండి"
+
+#: ../libempathy-gtk/empathy-groups-widget.c:409
+#: ../src/empathy-main-window.c:1835
+msgid "Group"
+msgstr "గుంపు"
+
+#: ../libempathy-gtk/empathy-individual-dialogs.c:257
+msgid "The following identity will be blocked:"
+msgid_plural "The following identities will be blocked:"
+msgstr[0] "కిందపేర్కొన్న గుర్తింపు నిరోధించబడును:"
+msgstr[1] "కిందపేర్కొన్న గుర్తింపులు నిరోధించబడును:"
+
+#: ../libempathy-gtk/empathy-individual-dialogs.c:264
+msgid "The following identity can not be blocked:"
+msgid_plural "The following identities can not be blocked:"
+msgstr[0] "కిందపేర్కొన్న గుర్తింపు నిరోధించబడదు:"
+msgstr[1] "కిందపేర్కొన్న గుర్తింపులు నిరోధించబడవు:"
+
+#. Translators: the heading at the top of the Information dialogue
+#: ../libempathy-gtk/empathy-individual-information-dialog.c:288
+msgid "Linked Contacts"
+msgstr "బంధన పరిచయాలు (_O)"
+
+#: ../libempathy-gtk/empathy-individual-linker.c:370
+msgid "Select contacts to link"
+msgstr "లింకుచేయడానికి పరిచయాలను ఎంచుకొను"
+
+#: ../libempathy-gtk/empathy-individual-linker.c:444
+msgid "New contact preview"
+msgstr "కొత్త పరిచయపు మునుజూపు"
+
+#: ../libempathy-gtk/empathy-individual-linker.c:488
+msgid "Contacts selected in the list on the left will be linked together."
+msgstr "జాబితాలో ఎడమవైపు ఎంచుకోబడిన పరిచయాలు ఒకటిగా లింకుచేయబడతాయి."
+
+#. Translators: this is used in the context menu for a contact. The first
+#. * parameter is a contact ID (e.g. foo@jabber.org) and the second is one
+#. * of the user's account IDs (e.g. me@hotmail.com).
+#: ../libempathy-gtk/empathy-individual-menu.c:137
+#, c-format
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+#. add an SMS button
+#: ../libempathy-gtk/empathy-individual-menu.c:593
+#: ../libempathy-gtk/empathy-new-message-dialog.c:248
+msgid "_SMS"
+msgstr "_SMS"
+
+#: ../libempathy-gtk/empathy-individual-menu.c:919
+msgctxt "Edit individual (contextual menu)"
+msgid "_Edit"
+msgstr "సవరణ (_E)"
+
+#. Translators: this is a verb meaning "to connect two contacts together
+#. * to form a meta-contact".
+#: ../libempathy-gtk/empathy-individual-menu.c:945
+msgctxt "Link individual (contextual menu)"
+msgid "_Link Contacts…"
+msgstr "పరిచయాలను లింకుచేయి...(_O)"
+
+#: ../libempathy-gtk/empathy-individual-view.c:2340
+msgid "Delete and _Block"
+msgstr "తొలగించు మరియు నిరోధించు (_B)"
+
+#: ../libempathy-gtk/empathy-individual-view.c:2509
+#, c-format
+msgid ""
+"Do you really want to remove the linked contact '%s'? Note that this will "
+"remove all the contacts which make up this linked contact."
+msgstr ""
+
+#: ../libempathy-gtk/empathy-individual-widget.c:1672
+#, c-format
+msgid "Linked contact containing %u contact"
+msgid_plural "Linked contacts containing %u contacts"
+msgstr[0] "లింకై ఉన్న పరిచయం %u పరిచయాన్ని కలిగివుంది"
+msgstr[1] "లింకై ఉన్న పరిచయాలు %u పరిచయాలను కలిగివుంది"
+
+#: ../libempathy-gtk/empathy-individual-widget.ui.h:1
+msgid "<b>Location</b> at (date)"
+msgstr "<b>స్థానము</b> ఈ (తేది)వద్ద"
+
+#: ../libempathy-gtk/empathy-individual-widget.ui.h:4
+msgid "Online from a phone or mobile device"
+msgstr "ఒక ఫోను లేదా మొబైల్ పరికరం నుండి ఆన్‌లైన్"
+
+#: ../libempathy-gtk/empathy-irc-network-chooser-dialog.c:332
+msgid "New Network"
+msgstr "కొత్త నెట్‌వర్కు"
+
+#: ../libempathy-gtk/empathy-irc-network-chooser-dialog.c:527
+msgid "Choose an IRC network"
+msgstr "ఒక IRC నెట్‌వర్కుని ఎంచుకోండి"
+
+#: ../libempathy-gtk/empathy-irc-network-chooser-dialog.c:584
+msgid "Reset _Networks List"
+msgstr "నెట్‌వర్కుల జాబితాను తిరిగి అమర్చు (_N)"
+
+#: ../libempathy-gtk/empathy-irc-network-chooser-dialog.c:588
+msgctxt "verb displayed on a button to select an IRC network"
+msgid "Select"
+msgstr "ఎంచుకొను"
+
+#: ../libempathy-gtk/empathy-irc-network-dialog.c:280
+msgid "new server"
+msgstr "కొత్త సేవకము"
+
+#: ../libempathy-gtk/empathy-irc-network-dialog.c:535
+msgid "SSL"
+msgstr "SSL"
+
+#. Translators: this is the title of the linking dialogue (reached by
+#. * right-clicking on a contact and selecting "Link…"). "Link" in this title
+#. * is a verb.
+#: ../libempathy-gtk/empathy-linking-dialog.c:115
+msgid "Link Contacts"
+msgstr "పరిచయాలను లింకుచేయి (_O)"
+
+#: ../libempathy-gtk/empathy-linking-dialog.c:120
+msgctxt "Unlink individual (button)"
+msgid "_Unlink…"
+msgstr "అన్‌లింక్ చేయి...(_U)"
+
+#: ../libempathy-gtk/empathy-linking-dialog.c:121
+msgid ""
+"Completely split the displayed linked contacts into the separate contacts."
+msgstr ""
+
+#. Add button
+#. Translators: this is an action button in the linking dialogue. "Link" is
+#. * used here as a verb meaning "to connect two contacts to form a
+#. * meta-contact".
+#: ../libempathy-gtk/empathy-linking-dialog.c:136
+msgid "_Link"
+msgstr "లింకుచేయి (_O)"
+
+#: ../libempathy-gtk/empathy-linking-dialog.c:183
+#, c-format
+msgid "Unlink linked contacts '%s'?"
+msgstr "లింకై ఉన్న '%s' పరిచయాలను అన్‌లింకుచేయాలా?"
+
+#: ../libempathy-gtk/empathy-linking-dialog.c:186
+msgid ""
+"Are you sure you want to unlink these linked contacts? This will completely "
+"split the linked contacts into separate contacts."
+msgstr ""
+
+#: ../libempathy-gtk/empathy-linking-dialog.c:190
+msgctxt "Unlink individual (button)"
+msgid "_Unlink"
+msgstr "అన్‌లింక్ చేయి (_U)"
+
+#: ../libempathy-gtk/empathy-log-window.c:505
+msgid "Show"
+msgstr ""
+
+#: ../libempathy-gtk/empathy-log-window.c:527
+msgid "Search"
+msgstr "వెతుకు"
+
+#: ../libempathy-gtk/empathy-log-window.c:745
+#: ../libempathy-gtk/empathy-log-window.c:859
+#, fuzzy
+#| msgid "%A %B %d %Y"
+msgctxt "A date with the time"
+msgid "%A, %e %B %Y %X"
+msgstr "%A %B %d %Y"
+
+#: ../libempathy-gtk/empathy-log-window.c:747
+#, fuzzy, c-format
+#| msgid "Call with %s"
+msgid "Chat with %s"
+msgstr "%sతో కాల్ చేయి"
+
+#. Translators: this is an emote: '* Danielle waves'
+#: ../libempathy-gtk/empathy-log-window.c:814
+#, c-format
+msgid "<i>* %s %s</i>"
+msgstr ""
+
+#. Translators: this is a message: 'Danielle: hello'
+#. * The string in bold is the sender's name
+#: ../libempathy-gtk/empathy-log-window.c:822
+#, c-format
+msgid "<b>%s:</b> %s"
+msgstr ""
+
+#: ../libempathy-gtk/empathy-log-window.c:878
+#: ../libempathy-gtk/empathy-log-window.c:880 ../src/empathy-ft-manager.c:1026
+msgid "%"
+msgstr "%"
+
+#: ../libempathy-gtk/empathy-log-window.c:887
+#, c-format
+msgid "Call took %s, ended at %s"
+msgstr ""
+
+#: ../libempathy-gtk/empathy-log-window.c:1213
+msgid "Today"
+msgstr ""
+
+#: ../libempathy-gtk/empathy-log-window.c:1217
+#, fuzzy
+#| msgid "Western"
+msgid "Yesterday"
+msgstr "వెస్ట్రన్"
+
+#: ../libempathy-gtk/empathy-log-window.c:1233
+#, fuzzy
+#| msgid "%A %B %d %Y"
+msgctxt ""
+"A date such as '23 May 2010', %e is the day, %B the month and %Y the year"
+msgid "%e %B %Y"
+msgstr "%A %B %d %Y"
+
+#: ../libempathy-gtk/empathy-log-window.c:1314
+#: ../libempathy-gtk/empathy-log-window.c:2680
+msgid "Anytime"
+msgstr ""
+
+#: ../libempathy-gtk/empathy-log-window.c:1385
+#: ../libempathy-gtk/empathy-log-window.c:1688
+#, fuzzy
+#| msgid "None"
+msgid "Anyone"
+msgstr "ఏదీకాదు"
+
+#: ../libempathy-gtk/empathy-log-window.c:1953
+msgid "Who"
+msgstr ""
+
+#: ../libempathy-gtk/empathy-log-window.c:2156
+msgid "When"
+msgstr ""
+
+#: ../libempathy-gtk/empathy-log-window.c:2272
+msgid "Anything"
+msgstr ""
+
+#: ../libempathy-gtk/empathy-log-window.c:2274
+#, fuzzy
+#| msgid "Set status"
+msgid "Text chats"
+msgstr "స్థితిని అమర్చు"
+
+#: ../libempathy-gtk/empathy-log-window.c:2276
+#, fuzzy
+#| msgid "Call"
+msgid "Calls"
+msgstr "కాల్"
+
+#: ../libempathy-gtk/empathy-log-window.c:2281
+#, fuzzy
+#| msgid "Incoming call"
+msgid "Incoming calls"
+msgstr "లోనికివచ్చు కాల్"
+
+#: ../libempathy-gtk/empathy-log-window.c:2282
+#, fuzzy
+#| msgid "Outgoing voice call"
+msgid "Outgoing calls"
+msgstr "బయటకు వెళ్ళు వాయిస్ కాల్"
+
+#: ../libempathy-gtk/empathy-log-window.c:2283
+#, fuzzy
+#| msgid "Missed call from %s"
+msgid "Missed calls"
+msgstr "%s నుండి మిస్సుడ్ కాల్ వచ్చింది"
+
+#: ../libempathy-gtk/empathy-log-window.c:2304
+#, fuzzy
+#| msgid "Chat"
+msgid "What"
+msgstr "చాట్"
+
+#: ../libempathy-gtk/empathy-log-window.c:2917
+msgid "Are you sure you want to delete all logs of previous conversations?"
+msgstr ""
+
+#: ../libempathy-gtk/empathy-log-window.c:2921
+#, fuzzy
+#| msgid "C_lear"
+msgid "Clear All"
+msgstr "శుభ్రపరచు (_l)"
+
+#: ../libempathy-gtk/empathy-log-window.c:2928
+#, fuzzy
+#| msgid "Connected from:"
+msgid "Delete from:"
+msgstr "దీని నుండి అనుసంధానించబడింది:"
+
+#. translators: Call is a noun. This string is used in the window
+#. * title
+#: ../libempathy-gtk/empathy-log-window.ui.h:1
+#: ../src/empathy-streamed-media-window.c:1340
+msgid "Call"
+msgstr "కాల్"
+
+#: ../libempathy-gtk/empathy-log-window.ui.h:2
+#: ../src/empathy-chat-window.ui.h:3
+msgid "Chat"
+msgstr "చాట్"
+
+#: ../libempathy-gtk/empathy-log-window.ui.h:3
+msgid "History"
+msgstr ""
+
+#: ../libempathy-gtk/empathy-log-window.ui.h:4
+#, fuzzy
+#| msgid "Provide"
+msgid "Profile"
+msgstr "సమకూర్చు"
+
+#: ../libempathy-gtk/empathy-log-window.ui.h:5
+#: ../src/empathy-call-window.ui.h:20
+msgid "Video"
+msgstr "వీడియో"
+
+#: ../libempathy-gtk/empathy-log-window.ui.h:6
+#: ../src/empathy-chat-window.ui.h:12 ../src/empathy-main-window.ui.h:20
+msgid "_Edit"
+msgstr "సవరణ (_E)"
+
+#: ../libempathy-gtk/empathy-log-window.ui.h:7
+#, fuzzy
+#| msgid "File"
+msgid "_File"
+msgstr "ఫైల్"
+
+#: ../libempathy-gtk/empathy-log-window.ui.h:8
+msgid "page 2"
+msgstr ""
+
+#: ../libempathy-gtk/empathy-contact-selector-dialog.ui.h:2
+msgid "Contact ID:"
+msgstr "పరిచయము ఐడి:"
+
+#. add chat button
+#: ../libempathy-gtk/empathy-new-message-dialog.c:258
+msgid "C_hat"
+msgstr "చాట్ (_h)"
+
+#. Tweak the dialog
+#: ../libempathy-gtk/empathy-new-message-dialog.c:277
+msgid "New Conversation"
+msgstr "కొత్త సంభాషణ"
+
+#. add video toggle
+#: ../libempathy-gtk/empathy-new-call-dialog.c:216
+msgid "Send _Video"
+msgstr "వీడియోను పంపు (_V)"
+
+#. add chat button
+#: ../libempathy-gtk/empathy-new-call-dialog.c:224
+msgid "C_all"
+msgstr "కాల్ (_a)"
+
+#. Tweak the dialog
+#: ../libempathy-gtk/empathy-new-call-dialog.c:234
+msgid "New Call"
+msgstr "కొత్త కాల్"
+
+#: ../libempathy-gtk/empathy-password-dialog.c:274
+#, c-format
+msgid ""
+"Enter your password for account\n"
+"<b>%s</b>"
+msgstr ""
+"<b>%s</b> \n"
+"ఖాతా కొరకు మీ సంకేతపదాన్ని ప్రవేశపెట్టండి"
+
+#. COL_STATUS_TEXT
+#. COL_STATE_ICON_NAME
+#. COL_STATE
+#. COL_DISPLAY_MARKUP
+#. COL_STATUS_CUSTOMISABLE
+#. COL_TYPE
+#: ../libempathy-gtk/empathy-presence-chooser.c:170
+#: ../libempathy-gtk/empathy-presence-chooser.c:206
+msgid "Custom Message…"
+msgstr "అనురూపిత సందేశము..."
+
+#: ../libempathy-gtk/empathy-presence-chooser.c:223
+#: ../libempathy-gtk/empathy-presence-chooser.c:225
+msgid "Edit Custom Messages…"
+msgstr "అనురూపిత సందేశాలను సవరించు..."
+
+#: ../libempathy-gtk/empathy-presence-chooser.c:348
+msgid "Click to remove this status as a favorite"
+msgstr "ఈ స్థితిని ఇష్టాంశము నుండి తీసివేయుటకు నొక్కండి"
+
+#: ../libempathy-gtk/empathy-presence-chooser.c:357
+msgid "Click to make this status a favorite"
+msgstr "ఈ స్థితిని ఇష్టాంశముగా చేయుటకు నొక్కండి"
+
+#: ../libempathy-gtk/empathy-presence-chooser.c:391
+msgid "Set status"
+msgstr "స్థితిని అమర్చు"
+
+#: ../libempathy-gtk/empathy-presence-chooser.c:946
+msgid "Set your presence and current status"
+msgstr "మీ ఉనికిని మరియు ప్రస్తుత స్థితిని అమర్చండి"
+
+#. Custom messages
+#: ../libempathy-gtk/empathy-presence-chooser.c:1134
+msgid "Custom messages…"
+msgstr "అనురూపిత సందేశాలు..."
+
+#. Create account
+#. To translator: %s is the name of the protocol, such as "Google Talk" or
+#. * "Yahoo!"
+#.
+#: ../libempathy-gtk/empathy-protocol-chooser.c:584
+#, c-format
+msgid "New %s account"
+msgstr "కొత్త %s ఖాతా"
+
+#: ../libempathy-gtk/empathy-search-bar.ui.h:1
+msgid "Find Next"
+msgstr "తరువాతది కనుగొను"
+
+#: ../libempathy-gtk/empathy-search-bar.ui.h:2
+msgid "Find Previous"
+msgstr "మునుపటిది కనుగొను"
+
+#: ../libempathy-gtk/empathy-search-bar.ui.h:3
+msgid "Find:"
+msgstr "కనుగొను:"
+
+#: ../libempathy-gtk/empathy-search-bar.ui.h:4
+msgid "Match case"
+msgstr "సరిపోలు సందర్భం"
+
+#: ../libempathy-gtk/empathy-search-bar.ui.h:5
+msgid "Phrase not found"
+msgstr "పదబందం కనపడలేదు"
+
+#: ../libempathy-gtk/empathy-sound-manager.c:51
+msgid "Received an instant message"
+msgstr "ఒక సత్వర సందేశమును స్వీకరించినది"
+
+#: ../libempathy-gtk/empathy-sound-manager.c:53
+msgid "Sent an instant message"
+msgstr "ఒక సత్వర సందేశమును పంపు"
+
+#: ../libempathy-gtk/empathy-sound-manager.c:55
+msgid "Incoming chat request"
+msgstr "లోనికివస్తున్న చాట్ అభ్యర్ధన"
+
+#: ../libempathy-gtk/empathy-sound-manager.c:57
+msgid "Contact connected"
+msgstr "పరిచయం అనుసంధానించబడింది"
+
+#: ../libempathy-gtk/empathy-sound-manager.c:59
+msgid "Contact disconnected"
+msgstr "పరిచయం అననుసంధానించబడింది"
+
+#: ../libempathy-gtk/empathy-sound-manager.c:61
+msgid "Connected to server"
+msgstr "సేవకానికి అనుసంధానించబడింది"
+
+#: ../libempathy-gtk/empathy-sound-manager.c:63
+msgid "Disconnected from server"
+msgstr "సేవకము నుండి అననుసంధానించబడింది"
+
+#: ../libempathy-gtk/empathy-sound-manager.c:65
+msgid "Incoming voice call"
+msgstr "లోనికివస్తున్న వాయిస్ కాల్"
+
+#: ../libempathy-gtk/empathy-sound-manager.c:67
+msgid "Outgoing voice call"
+msgstr "బయటకు వెళ్ళు వాయిస్ కాల్"
+
+#: ../libempathy-gtk/empathy-sound-manager.c:69
+msgid "Voice call ended"
+msgstr "వాయిల్ కాల్ ముగిసినది"
+
+#: ../libempathy-gtk/empathy-status-preset-dialog.c:364
+msgid "Enter Custom Message"
+msgstr "అనురూపిత సందేశమును ప్రవేశపెట్టు"
+
+#: ../libempathy-gtk/empathy-status-preset-dialog.c:523
+msgid "Edit Custom Messages"
+msgstr "అనురూపిత సందేశాలను సవరించు"
+
+#: ../libempathy-gtk/empathy-status-preset-dialog.ui.h:1
+msgid "Save _New Status Message"
+msgstr "కొత్త స్థితి సందేశాన్ని భద్రపరుచు (_N)"
+
+#: ../libempathy-gtk/empathy-status-preset-dialog.ui.h:2
+msgid "Saved Status Messages"
+msgstr "భద్రపరుచబడిన స్థితి సందేశాలు"
+
+#: ../libempathy-gtk/empathy-theme-adium.c:1782
+msgid "Normal"
+msgstr "సాధారణ"
+
+#: ../libempathy-gtk/empathy-theme-manager.c:75
+msgid "Classic"
+msgstr "శాస్త్రీయ"
+
+#: ../libempathy-gtk/empathy-theme-manager.c:76
+msgid "Simple"
+msgstr "సరళమైన"
+
+#: ../libempathy-gtk/empathy-theme-manager.c:77
+msgid "Clean"
+msgstr "శుభ్రముచేయి"
+
+#: ../libempathy-gtk/empathy-theme-manager.c:78
+msgid "Blue"
+msgstr "నీలం"
+
+#: ../libempathy-gtk/empathy-tls-dialog.c:150
+msgid "The identity provided by the chat server cannot be verified."
+msgstr ""
+
+#: ../libempathy-gtk/empathy-tls-dialog.c:157
+msgid "The certificate is not signed by a Certification Authority."
+msgstr "ధృవీకరణపత్రము ధృవీకరణ సంస్థచే సంతకం చేయబడలేదు."
+
+#: ../libempathy-gtk/empathy-tls-dialog.c:161
+msgid "The certificate has expired."
+msgstr "ధృవీకరణపత్రం కాలము చెల్లినది."
+
+#: ../libempathy-gtk/empathy-tls-dialog.c:164
+msgid "The certificate hasn't yet been activated."
+msgstr "ధృవీకరణపత్రం ఇప్పటివరకూ క్రియాశీలపర్చిలేదు."
+
+#: ../libempathy-gtk/empathy-tls-dialog.c:167
+msgid "The certificate does not have the expected fingerprint."
+msgstr "ధృవీకరణపత్రము ఊహించిన వేలిముద్రను కలిగిలేదు."
+
+#: ../libempathy-gtk/empathy-tls-dialog.c:170
+msgid "The hostname verified by the certificate doesn't match the server name."
+msgstr "ఆతిథేయిపేరు తనిఖీచేయబడిన ధృవీకరణపత్రము సేవకము పేరుతో సరిపోలడం లేదు."
+
+#: ../libempathy-gtk/empathy-tls-dialog.c:174
+msgid "The certificate is self-signed."
+msgstr "ధృవీకరణపత్రం స్వంతగా-సతకం చేసినది"
+
+#: ../libempathy-gtk/empathy-tls-dialog.c:177
+msgid ""
+"The certificate has been revoked by the issuing Certification Authority."
+msgstr "యోగ్యతాపత్రము ధృవీకరణ సంస్థచే తిరస్కరించబడింది."
+
+#: ../libempathy-gtk/empathy-tls-dialog.c:181
+msgid "The certificate is cryptographically weak."
+msgstr "ధృవీకరణపత్రము యొక్క రహస్యలిపి బలహీనంగా ఉన్నది."
+
+#: ../libempathy-gtk/empathy-tls-dialog.c:184
+msgid "The certificate length exceeds verifiable limits."
+msgstr "ధృవీకరణపత్రము పొడవు తనిఖీచేయు పరిమితులను దాటినది."
+
+#: ../libempathy-gtk/empathy-tls-dialog.c:188
+msgid "The certificate is malformed."
+msgstr "ధృవీకరణపత్రం వైకల్యం చెందినది."
+
+#: ../libempathy-gtk/empathy-tls-dialog.c:206
+#, c-format
+msgid "Expected hostname: %s"
+msgstr "అపేక్షిత ఆతిథేయముపేరు: %s"
+
+#: ../libempathy-gtk/empathy-tls-dialog.c:209
+#, c-format
+msgid "Certificate hostname: %s"
+msgstr "ధృవీకరణపత్ర అతిథ్యముపేరు: %s"
+
+#: ../libempathy-gtk/empathy-tls-dialog.c:281
+msgid "Continue"
+msgstr "కొనసాగు"
+
+#: ../libempathy-gtk/empathy-tls-dialog.c:287
+msgid "This connection is untrusted. Would you like to continue anyway?"
+msgstr ""
+"అనుసంధానము నమ్మదగినది కాదు. ఏది ఏమైనప్పటికీ మీరు కొనసాగాలనుకుంటున్నారా?"
+
+#: ../libempathy-gtk/empathy-tls-dialog.c:297
+msgid "Remember this choice for future connections"
+msgstr "మునుముందు అనుసంధానాలకు ఈ ఎంపికను గుర్తుంచుకొను"
+
+#: ../libempathy-gtk/empathy-tls-dialog.c:303
+msgid "Certificate Details"
+msgstr "ధృవీకరణపత్రం వివరాలు"
+
+#: ../libempathy-gtk/empathy-ui-utils.c:1653
+msgid "Unable to open URI"
+msgstr "URI తెరువలేకపోతుంది"
+
+#: ../libempathy-gtk/empathy-ui-utils.c:1748
+msgid "Select a file"
+msgstr "ఒక ఫైల్‌ని ఎంచుకొను"
+
+#: ../libempathy-gtk/empathy-ui-utils.c:1820
+msgid "Insufficient free space to save file"
+msgstr "ఫైలును భద్రపరుచుటకు తగిన ఖాళీ స్థలము లేదు"
+
+#: ../libempathy-gtk/empathy-ui-utils.c:1828
+#, c-format
+msgid ""
+"%s of free space are required to save this file, but only %s is available. "
+"Please choose another location."
+msgstr ""
+"ఈ ఫైలును భద్రపరుచుటకు %s ఖాళీ స్థలము అవసరము, కాని కేవలం %s మాత్రమే అందుబాటులో "
+"ఉన్నది. దయచేసి "
+"వేరొక స్థానమును ఎన్నుకోండి."
+
+#: ../libempathy-gtk/empathy-ui-utils.c:1872
+#, c-format
+msgid "Incoming file from %s"
+msgstr "%s నుండి ఫైల్ లోనికివస్తున్నది"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:158
+msgid "Current Locale"
+msgstr "ప్రస్తుత స్థానికం"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:161
+#: ../libempathy-gtk/totem-subtitle-encoding.c:163
+#: ../libempathy-gtk/totem-subtitle-encoding.c:165
+#: ../libempathy-gtk/totem-subtitle-encoding.c:167
+msgid "Arabic"
+msgstr "అరబిక్"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:170
+msgid "Armenian"
+msgstr "అర్మేనియన్"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:173
+#: ../libempathy-gtk/totem-subtitle-encoding.c:175
+#: ../libempathy-gtk/totem-subtitle-encoding.c:177
+msgid "Baltic"
+msgstr "బాల్టిక్"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:180
+msgid "Celtic"
+msgstr "సెల్టిక్"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:183
+#: ../libempathy-gtk/totem-subtitle-encoding.c:185
+#: ../libempathy-gtk/totem-subtitle-encoding.c:187
+#: ../libempathy-gtk/totem-subtitle-encoding.c:189
+msgid "Central European"
+msgstr "సెంట్రల్ యూరోపియన్"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:192
+#: ../libempathy-gtk/totem-subtitle-encoding.c:194
+#: ../libempathy-gtk/totem-subtitle-encoding.c:196
+#: ../libempathy-gtk/totem-subtitle-encoding.c:198
+msgid "Chinese Simplified"
+msgstr "సరళీకృత చైనీస్"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:201
+#: ../libempathy-gtk/totem-subtitle-encoding.c:203
+#: ../libempathy-gtk/totem-subtitle-encoding.c:205
+msgid "Chinese Traditional"
+msgstr "సాంప్రదాయ చైనీస్"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:208
+msgid "Croatian"
+msgstr "క్రోటియన్"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:211
+#: ../libempathy-gtk/totem-subtitle-encoding.c:213
+#: ../libempathy-gtk/totem-subtitle-encoding.c:215
+#: ../libempathy-gtk/totem-subtitle-encoding.c:217
+#: ../libempathy-gtk/totem-subtitle-encoding.c:219
+#: ../libempathy-gtk/totem-subtitle-encoding.c:221
+msgid "Cyrillic"
+msgstr "సిరిల్లిక్"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:224
+msgid "Cyrillic/Russian"
+msgstr "సిరిలిక్/రష్యన్"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:227
+#: ../libempathy-gtk/totem-subtitle-encoding.c:229
+msgid "Cyrillic/Ukrainian"
+msgstr "సిరిలిక్/ఉక్రైనియన్"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:232
+msgid "Georgian"
+msgstr "జార్జియన్"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:235
+#: ../libempathy-gtk/totem-subtitle-encoding.c:237
+#: ../libempathy-gtk/totem-subtitle-encoding.c:239
+msgid "Greek"
+msgstr "గ్రీక్"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:242
+msgid "Gujarati"
+msgstr " గుజరాతీ"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:245
+msgid "Gurmukhi"
+msgstr "గురుముఖి"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:248
+#: ../libempathy-gtk/totem-subtitle-encoding.c:250
+#: ../libempathy-gtk/totem-subtitle-encoding.c:252
+#: ../libempathy-gtk/totem-subtitle-encoding.c:254
+msgid "Hebrew"
+msgstr "హిబ్రూ"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:257
+msgid "Hebrew Visual"
+msgstr "హిబ్రూ విజువల్"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:260
+msgid "Hindi"
+msgstr "హింది"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:263
+msgid "Icelandic"
+msgstr "ఐస్‌లాండిక్"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:266
+#: ../libempathy-gtk/totem-subtitle-encoding.c:268
+#: ../libempathy-gtk/totem-subtitle-encoding.c:270
+msgid "Japanese"
+msgstr "జపనీస్"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:273
+#: ../libempathy-gtk/totem-subtitle-encoding.c:275
+#: ../libempathy-gtk/totem-subtitle-encoding.c:277
+#: ../libempathy-gtk/totem-subtitle-encoding.c:279
+msgid "Korean"
+msgstr "కొరియన్"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:282
+msgid "Nordic"
+msgstr "నార్డిక్"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:285
+msgid "Persian"
+msgstr "పర్షియన్"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:288
+#: ../libempathy-gtk/totem-subtitle-encoding.c:290
+msgid "Romanian"
+msgstr "రొమానియన్"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:293
+msgid "South European"
+msgstr "సౌత్ యూరోపియన్"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:296
+msgid "Thai"
+msgstr "థాయి"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:299
+#: ../libempathy-gtk/totem-subtitle-encoding.c:301
+#: ../libempathy-gtk/totem-subtitle-encoding.c:303
+#: ../libempathy-gtk/totem-subtitle-encoding.c:305
+msgid "Turkish"
+msgstr "టర్కిష్"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:308
+#: ../libempathy-gtk/totem-subtitle-encoding.c:310
+#: ../libempathy-gtk/totem-subtitle-encoding.c:312
+#: ../libempathy-gtk/totem-subtitle-encoding.c:314
+#: ../libempathy-gtk/totem-subtitle-encoding.c:316
+msgid "Unicode"
+msgstr "యూనికోడ్"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:319
+#: ../libempathy-gtk/totem-subtitle-encoding.c:321
+#: ../libempathy-gtk/totem-subtitle-encoding.c:323
+#: ../libempathy-gtk/totem-subtitle-encoding.c:325
+#: ../libempathy-gtk/totem-subtitle-encoding.c:327
+msgid "Western"
+msgstr "వెస్ట్రన్"
+
+#: ../libempathy-gtk/totem-subtitle-encoding.c:330
+#: ../libempathy-gtk/totem-subtitle-encoding.c:332
+#: ../libempathy-gtk/totem-subtitle-encoding.c:334
+msgid "Vietnamese"
+msgstr "వియెత్నామీస్"
+
+#: ../nautilus-sendto-plugin/empathy-nautilus-sendto.c:108
+msgid "The selected contact cannot receive files."
+msgstr "ఎంచుకున్న పరిచయము ఫైళ్ళను స్వీకరించలేదు."
+
+#: ../nautilus-sendto-plugin/empathy-nautilus-sendto.c:114
+msgid "The selected contact is offline."
+msgstr "ఎంచుకున్న పరిచయము ఆఫ్‌లైనులో ఉంది."
+
+#: ../nautilus-sendto-plugin/empathy-nautilus-sendto.c:169
+msgid "No error message"
+msgstr "ఏ దోష సందేశము లేదు"
+
+#: ../nautilus-sendto-plugin/empathy-nautilus-sendto.c:242
+msgid "Instant Message (Empathy)"
+msgstr "సత్వర సందేశం (ఎంపతి)"
+
+#: ../src/empathy.c:309
+msgid "Don't connect on startup"
+msgstr "వ్యవస్థ ప్రారంభములో అనుసంధానించవద్దు"
+
+#: ../src/empathy.c:313
+msgid "Don't display the contact list or any other dialogs on startup"
+msgstr "వ్యవస్థ ప్రారంభమయినపుడు పరిచయ జాబితా గాని లేక ఏ ఇతర డైలాగులను చూపవద్దు"
+
+#: ../src/empathy.c:321
+msgid "- Empathy IM Client"
+msgstr "- ఎంపతి IM క్లయింటు"
+
+#: ../src/empathy.c:500
+msgid "Error contacting the Account Manager"
+msgstr "ఖాతా నిర్వాహకాన్ని సంప్రదించుటలో దోషము"
+
+#: ../src/empathy.c:502
+#, c-format
+msgid ""
+"There was an error while trying to connect to the Telepathy Account Manager. "
+"The error was:\n"
+"\n"
+"%s"
+msgstr ""
+
+#: ../src/empathy-about-dialog.c:81
+msgid ""
+"Empathy is free software; you can redistribute it and/or modify it under the "
+"terms of the GNU General Public License as published by the Free Software "
+"Foundation; either version 2 of the License, or (at your option) any later "
+"version."
+msgstr ""
+"ఎంపతి అనేది ఒక ఉచిత సాఫ్ట్‍వేర్; దీనిని మీరు ఫ్రీ సాఫ్ట్‍వేర్ ఫౌండేషన్ "
+"ప్రచురించిన విధంగా గ్నూ జనరల్ పబ్లిక్ "
+"లైసెన్స్  నిబంధనలకు అనుగుణంగా పంచవచ్చు మరియు/లేదా సవరించవచ్చు; వెర్షన్ 2 "
+"లైసెన్స్, లేదా (మీ ఐచ్చికాన్ని "
+"బట్టి) ఏదైనా తరువాత వెర్షన్."
+
+#: ../src/empathy-about-dialog.c:85
+msgid ""
+"Empathy is distributed in the hope that it will be useful, but WITHOUT ANY "
+"WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS "
+"FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more "
+"details."
+msgstr ""
+"ఎంపతి అనేది ఏ విధమైన పూచికత్తులు లేకుండా ఉపయోగపడుతుందనే నమ్మకంతో పంచబడుతుంది; "
+"వ్యాపారానికి గాని లేదా "
+"ఒక ఖచ్చితమైన ప్రయోజనానికి ఉపయోగించవచ్చని కనీసం భావించిన పూచికత్తులు కూడా "
+"లేకుండా ఇవ్వబడుతుంది.  "
+"మరిన్ని వివరాలకు గ్నూ జనరల్ పబ్లిక్ లైసెన్స్ చూడండి."
+
+#: ../src/empathy-about-dialog.c:89
+msgid ""
+"You should have received a copy of the GNU General Public License along with "
+"Empathy; if not, write to the Free Software Foundation, Inc., 51 Franklin "
+"Street, Fifth Floor, Boston, MA 02110-130159 USA"
+msgstr ""
+"మీరు ఎంపతితో పాటుగా గ్నూ జనరల్ పబ్లిక్ లైసెన్స్ యొక్క నకలు పొందివుండాలి; "
+"ఒకవేళ పొందకపోతే, Free "
+"Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-"
+"1301 USA కి వ్రాయండి"
+
+#: ../src/empathy-about-dialog.c:107
+msgid "An Instant Messaging client for GNOME"
+msgstr "GNOME కొరకు సత్వర సందేశక క్లయింటు"
+
+#: ../src/empathy-about-dialog.c:113
+msgid "translator-credits"
+msgstr ""
+"KrishnaBabu K <kkrothap@redhat.com> 2008\n"
+"Praveen Illa <mail2ipn@gmail.com>, 2011."
+
+#: ../src/empathy-account-assistant.c:167
+msgid "There was an error while importing the accounts."
+msgstr "ఖాతాలను దిగుమతిచేయుచున్నప్పుడు అక్కడ ఒక దోషము వుంది."
+
+#: ../src/empathy-account-assistant.c:170
+msgid "There was an error while parsing the account details."
+msgstr "ఖాతా వివరములను నిరూపిస్తున్నప్పుడు అక్కడ ఒక దోషము వుంది."
+
+#: ../src/empathy-account-assistant.c:173
+msgid "There was an error while creating the account."
+msgstr "ఖాతాను సృష్టించునప్పుడు అక్కడ ఒక దోషము వుంది."
+
+#: ../src/empathy-account-assistant.c:175
+msgid "There was an error."
+msgstr "అక్కడ ఒక దోషమువుంది."
+
+#: ../src/empathy-account-assistant.c:179
+#, c-format
+msgid "The error message was: %s"
+msgstr "దోష సందేశం: %s"
+
+#: ../src/empathy-account-assistant.c:183
+msgid ""
+"You can either go back and try to enter your accounts' details again or quit "
+"this assistant and add accounts later from the Edit menu."
+msgstr ""
+"మీరు మీ ఖాతాల సమాచారమును ప్రవేశపెట్టుటకు మరలా వెనక్కువెళ్ళి ప్రయత్నించవచ్చు "
+"లేదా ఈ సహాయకాన్ని నిష్క్రమించి "
+"మరియు సవరణ మెనూ నుండి మీ ఖాతాలను తరువాత జతచేయండి."
+
+#: ../src/empathy-account-assistant.c:220
+#: ../src/empathy-account-assistant.c:1271
+msgid "An error occurred"
+msgstr "ఒక దోషము ఎదురైంది"
+
+#: ../src/empathy-account-assistant.c:467
+msgid "What kind of chat account do you have?"
+msgstr "మీరు ఏ రకపు చాట్ ఖాతాను కలిగివున్నారు?"
+
+#: ../src/empathy-account-assistant.c:473
+msgid "Do you have any other chat accounts you want to set up?"
+msgstr "మీరు అమర్చాలనుకుంటున్న ఏవైనా ఇతర చాట్ ఖాతాలను కలిగివున్నారా?"
+
+#: ../src/empathy-account-assistant.c:479
+msgid "Enter your account details"
+msgstr "మీ ఖాతా వివరాలను ప్రవేశపెట్టండి"
+
+#: ../src/empathy-account-assistant.c:484
+msgid "What kind of chat account do you want to create?"
+msgstr "మీరు ఏ రకమైన చాట్ ఖాతాను సృష్టించాలనుకుంటున్నారు?"
+
+#: ../src/empathy-account-assistant.c:490
+msgid "Do you want to create other chat accounts?"
+msgstr "మీరు వేరే ఇతర చాట్ ఖాతాలను సృష్టించాలనుకుంటున్నారా?"
+
+#: ../src/empathy-account-assistant.c:497
+msgid "Enter the details for the new account"
+msgstr "కొత్త ఖాతా కొరకు వివరాలను ప్రవేశపెట్టండి"
+
+#: ../src/empathy-account-assistant.c:612
+msgid ""
+"With Empathy you can chat with people online nearby and with friends and "
+"colleagues who use Google Talk, AIM, Windows Live and many other chat "
+"programs. With a microphone or a webcam you can also have audio or video "
+"calls."
+msgstr ""
+"ఎంపతితో మీరు ఆన్‌లైనులో ఉన్న వ్యక్తులతో మాట్లాడవచ్చును మరియు గూగుల్ టాక్, "
+"AIM, విండోస్ లైవ్ వంటి ఇతర "
+"చాట్ ప్రోగ్రాములు ఉపయోగించే తోటివారితో మరియు స్నేహితులతో చాట్ చేయవచ్చు. "
+"మైక్రోఫోన్ లేదా వెబ్‌కామ్‌తో మీరు ఆడియో లేదా "
+"వీడియో కాల్సును కూడా చేయవచ్చు."
+
+#: ../src/empathy-account-assistant.c:629
+msgid "Do you have an account you've been using with another chat program?"
+msgstr "మీరు ఇతర చాట్ ప్రోగ్రాముతో ఉపయోగించుతున్న ఖాతాను మీరు కలిగివున్నారా?"
+
+#: ../src/empathy-account-assistant.c:652
+msgid "Yes, import my account details from "
+msgstr "అవును, నా ఖాతా వివరములను దీనినుండి దిగుమతిచేయి"
+
+#: ../src/empathy-account-assistant.c:673
+msgid "Yes, I'll enter my account details now"
+msgstr "అవును, నేను నా ఖాతా వివరములను ఇప్పుడే ప్రవేశపెడతాను"
+
+#: ../src/empathy-account-assistant.c:695
+msgid "No, I want a new account"
+msgstr "లేదు, నాకు ఒక కొత్త ఖాతా కావాలి"
+
+#: ../src/empathy-account-assistant.c:705
+msgid "No, I just want to see people online nearby for now"
+msgstr ""
+"లేదు, ఇప్పుడు కేవలం దగ్గరలోని ఆన్‌లైన్‌లోవున్న వ్యక్తులను చూడాలనుకుంటున్నాను"
+
+#: ../src/empathy-account-assistant.c:726
+msgid "Select the accounts you want to import:"
+msgstr "మీరు దిగుమతి చేయాలనుకొంటున్న ఖాతాలను ఎంచుకోండి:"
+
+#: ../src/empathy-account-assistant.c:813
+#: ../src/empathy-new-chatroom-dialog.c:555
+#: ../src/empathy-new-chatroom-dialog.c:556
+msgid "Yes"
+msgstr "అవును"
+
+#: ../src/empathy-account-assistant.c:820
+msgid "No, that's all for now"
+msgstr "లేదు, ఇప్పటికి యింతే"
+
+#: ../src/empathy-account-assistant.c:1085
+msgid ""
+"Empathy can automatically discover and chat with the people connected on the "
+"same network as you. If you want to use this feature, please check that the "
+"details below are correct. You can easily change these details later or "
+"disable this feature by using the 'Accounts' dialog"
+msgstr ""
+
+#: ../src/empathy-account-assistant.c:1091
+#: ../src/empathy-account-assistant.c:1147
+msgid "Edit->Accounts"
+msgstr "సవరణ->ఖాతాలు"
+
+#: ../src/empathy-account-assistant.c:1107
+msgid "I do _not want to enable this feature for now"
+msgstr "ఈ విశిష్ట లక్షణాన్ని నేను ఇప్పుడు ప్రారంభించాలనుకోవడం లేదు"
+
+#: ../src/empathy-account-assistant.c:1143
+msgid ""
+"You won't be able to chat with people connected to your local network, as "
+"telepathy-salut is not installed. If you want to enable this feature, please "
+"install the telepathy-salut package and create a People Nearby account from "
+"the Accounts dialog"
+msgstr ""
+
+#: ../src/empathy-account-assistant.c:1149
+msgid "telepathy-salut not installed"
+msgstr "టెలీపతి-సాల్యూట్ స్థాపించబడిలేదు"
+
+#: ../src/empathy-account-assistant.c:1195
+msgid "Messaging and VoIP Accounts Assistant"
+msgstr "సందేశకము మరియు VoIP ఖాతాల సహాయకం"
+
+#: ../src/empathy-account-assistant.c:1229
+msgid "Welcome to Empathy"
+msgstr "ఎంపతికి స్వాగతము"
+
+#: ../src/empathy-account-assistant.c:1238
+msgid "Import your existing accounts"
+msgstr "మీకు ఉన్న ఖాతాలను దిగుమతిచేయి"
+
+#: ../src/empathy-account-assistant.c:1256
+msgid "Please enter personal details"
+msgstr "దయచేసి వ్యక్తిగత వివరాలను ప్రవేశపెట్టండి"
+
+#. The primary text of the dialog shown to the user when he is about to lose
+#. * unsaved changes
+#: ../src/empathy-accounts-dialog.c:64
+#, c-format
+msgid "There are unsaved modifications to your %s account."
+msgstr "మీ %s ఖాతాకి భద్రపరుచబడని సవరణలు ఉన్నాయి."
+
+#. The primary text of the dialog shown to the user when he is about to lose
+#. * an unsaved new account
+#: ../src/empathy-accounts-dialog.c:68
+msgid "Your new account has not been saved yet."
+msgstr "మీ కొత్త ఖాతా ఇంకా భద్రపరుచబడలేదు."
+
+#: ../src/empathy-accounts-dialog.c:345
+#: ../src/empathy-streamed-media-window.c:797 ../src/empathy-call-window.c:780
+msgid "Connecting…"
+msgstr "అనుసంధానిస్తున్నది..."
+
+#: ../src/empathy-accounts-dialog.c:386
+#, c-format
+msgid "Offline — %s"
+msgstr "ఆఫ్‌లైన్ — %s"
+
+#: ../src/empathy-accounts-dialog.c:398
+#, c-format
+msgid "Disconnected — %s"
+msgstr "అననుసంధానించబడ్డారు — %s"
+
+#: ../src/empathy-accounts-dialog.c:409
+msgid "Offline — No Network Connection"
+msgstr "ఆఫ్‌లైన్ — నెట్‌వర్క్ అనుసంధానం లేదు"
+
+#: ../src/empathy-accounts-dialog.c:416
+msgid "Unknown Status"
+msgstr "తెలియని స్థితి"
+
+#: ../src/empathy-accounts-dialog.c:428
+msgid "Offline — Account Disabled"
+msgstr "ఆఫ్‌లైన్ — ఖాతా అచేతనం చేయబడింది"
+
+#: ../src/empathy-accounts-dialog.c:831
+msgid ""
+"You are about to create a new account, which will discard\n"
+"your changes. Are you sure you want to proceed?"
+msgstr ""
+"మీరు కొత్త ఖాతాను సృష్టించబోతున్నారు, అది మీ మార్పులను\n"
+"తీసివేస్తుంది. మీరు ఖచ్చితంగా కొనసాగాలనుకుంటున్నారా?"
+
+#: ../src/empathy-accounts-dialog.c:1192
+#, c-format
+msgid "Do you want to remove %s from your computer?"
+msgstr "కంప్యూటర్ నుండి %s ను తీసివేద్దామనుకుంటున్నారా?"
+
+#: ../src/empathy-accounts-dialog.c:1196
+msgid "This will not remove your account on the server."
+msgstr "ఇది మీ ఖాతాను సేవకము నుండి తీసివేయదులేండి."
+
+#: ../src/empathy-accounts-dialog.c:1432
+msgid ""
+"You are about to select another account, which will discard\n"
+"your changes. Are you sure you want to proceed?"
+msgstr ""
+"మీరు వేరే ఖాతాను ఎంచుకోబోతున్నారు, అది మీ మార్పులను\n"
+"తీసివేస్తుంది. మీరు ఖచ్చితంగా కొనసాగాలనుకుంటున్నారా?"
+
+#. Menu items: to enabled/disable the account
+#: ../src/empathy-accounts-dialog.c:1643
+msgid "_Enable"
+msgstr "చేతనపరుచు (_E)"
+
+#: ../src/empathy-accounts-dialog.c:1644
+msgid "_Disable"
+msgstr "అచేతనపరుచు (_D)"
+
+#: ../src/empathy-accounts-dialog.c:2154
+msgid ""
+"You are about to close the window, which will discard\n"
+"your changes. Are you sure you want to proceed?"
+msgstr ""
+"మీరు విండోను మూసివేయబోతున్నారు, అది మీ మార్పులను తీసివేస్తుంది.\n"
+"మీరు కొనసాగాలనుకుంటున్నారా?"
+
+#: ../src/empathy-accounts-dialog.ui.h:1
+#, fuzzy
+#| msgid "_Add…"
+msgid "Add…"
+msgstr "జతచేయి...(_A)"
+
+#: ../src/empathy-accounts-dialog.ui.h:2
+msgid "Loading account information"
+msgstr "ఖాతా సమాచారాన్ని లోడుచేస్తున్నది"
+
+#: ../src/empathy-accounts-dialog.ui.h:3
+msgid "No protocol installed"
+msgstr "ఏ ప్రోటోకాల్ స్థాపించబడిలేదు"
+
+#: ../src/empathy-accounts-dialog.ui.h:4
+msgid "Protocol:"
+msgstr "ప్రోటోకాల్:"
+
+#: ../src/empathy-accounts-dialog.ui.h:5
+#, fuzzy
+#| msgid "_Remove"
+msgid "Remove"
+msgstr "తీసివేయి (_R)"
+
+#: ../src/empathy-accounts-dialog.ui.h:6
+msgid ""
+"To add a new account, you first have to install a backend for each protocol "
+"you want to use."
+msgstr ""
+"కొత్త ఖాతాను జతచేయుటకు, మీరు ఉపయోగించాలనుకుంటున్న ప్రతీ ప్రొటోకాల్‌కు మొదట "
+"బ్యాకెండ్‌ను స్థాపించాలి."
+
+#: ../src/empathy-accounts-dialog.ui.h:7
+msgid "_Import…"
+msgstr "దిగుమతిచేయి...(_I)"
+
+#: ../src/empathy-auth-client.c:249
+msgid " - Empathy authentication client"
+msgstr "- ఎంపతి ప్రామాణీకరణ క్లయింటు"
+
+#: ../src/empathy-auth-client.c:265
+msgid "Empathy authentication client"
+msgstr "ఎంపతి ప్రామాణీకరణ క్లయింటు"
+
+#: ../src/empathy-auto-salut-account-helper.c:83
+msgid "People nearby"
+msgstr "దగ్గరలోని ప్రజలు"
+
+#: ../src/empathy-av.c:118 ../src/empathy-call.c:120
+msgid "- Empathy Audio/Video Client"
+msgstr "- ఎంపతి ఆడియో/వీడియో క్లయింటు"
+
+#: ../src/empathy-av.c:134 ../src/empathy-call.c:138
+msgid "Empathy Audio/Video Client"
+msgstr "ఎంపతి ఆడియో/వీడియో క్లయింటు"
+
+#: ../src/empathy-streamed-media-window.c:478 ../src/empathy-call-window.c:472
+msgid "Contrast"
+msgstr "భేదము"
+
+#: ../src/empathy-streamed-media-window.c:481 ../src/empathy-call-window.c:475
+msgid "Brightness"
+msgstr "ప్రకాశము"
+
+#: ../src/empathy-streamed-media-window.c:484 ../src/empathy-call-window.c:478
+msgid "Gamma"
+msgstr "గామా"
+
+#: ../src/empathy-streamed-media-window.c:589 ../src/empathy-call-window.c:583
+msgid "Volume"
+msgstr "ధ్వనిస్థాయి"
+
+#: ../src/empathy-streamed-media-window.c:1153
+#: ../src/empathy-call-window.c:1127
+msgid "_Sidebar"
+msgstr "పక్క పట్టీ(_S)"
+
+#: ../src/empathy-streamed-media-window.c:1173
+#: ../src/empathy-call-window.c:1149
+msgid "Audio input"
+msgstr "ఆడియో ఇన్‌పుట్"
+
+#: ../src/empathy-streamed-media-window.c:1177
+#: ../src/empathy-call-window.c:1153
+msgid "Video input"
+msgstr "వీడియో ఇన్‌పుట్"
+
+#: ../src/empathy-streamed-media-window.c:1181
+#: ../src/empathy-call-window.c:1157
+msgid "Dialpad"
+msgstr "డయల్‌ప్యాడ్"
+
+#: ../src/empathy-streamed-media-window.c:1192
+#: ../src/empathy-call-window.c:1167
+msgid "Details"
+msgstr "వివరాలు"
+
+#. translators: Call is a noun and %s is the contact name. This string
+#. * is used in the window title
+#: ../src/empathy-streamed-media-window.c:1261
+#: ../src/empathy-call-window.c:1239
+#, c-format
+msgid "Call with %s"
+msgstr "%sతో కాల్ చేయి"
+
+#: ../src/empathy-streamed-media-window.c:1494
+#: ../src/empathy-call-window.c:1459
+msgid "The IP address as seen by the machine"
+msgstr "యంత్రముతో చూడబడిన IP చిరునామా"
+
+#: ../src/empathy-streamed-media-window.c:1496
+#: ../src/empathy-call-window.c:1461
+msgid "The IP address as seen by a server on the Internet"
+msgstr "అంతర్జాలంతో ఒక సేవకముతో చూడబడిన IP చిరునామా"
+
+#: ../src/empathy-streamed-media-window.c:1498
+#: ../src/empathy-call-window.c:1463
+msgid "The IP address of the peer as seen by the other side"
+msgstr ""
+
+#: ../src/empathy-streamed-media-window.c:1500
+#: ../src/empathy-call-window.c:1465
+msgid "The IP address of a relay server"
+msgstr "రిలే సేవకము యొక్క IP చిరునామా"
+
+#: ../src/empathy-streamed-media-window.c:1502
+#: ../src/empathy-call-window.c:1467
+msgid "The IP address of the multicast group"
+msgstr "బహుళప్రసార గుంపు యొక్క IP చిరునామా"
+
+#: ../src/empathy-streamed-media-window.c:1884
+msgctxt "encoding video codec"
+msgid "Unknown"
+msgstr "తెలియదు"
+
+#: ../src/empathy-streamed-media-window.c:1887
+msgctxt "encoding audio codec"
+msgid "Unknown"
+msgstr "తెలియదు"
+
+#: ../src/empathy-streamed-media-window.c:1890
+msgctxt "decoding video codec"
+msgid "Unknown"
+msgstr "తెలియదు"
+
+#: ../src/empathy-streamed-media-window.c:1893
+msgctxt "decoding audio codec"
+msgid "Unknown"
+msgstr "తెలియదు"
+
+#. Translators: number of minutes:seconds the caller has been connected
+#: ../src/empathy-streamed-media-window.c:2185
+#, c-format
+msgid "Connected — %d:%02dm"
+msgstr "అనుసంధానించబడింది — %d:%02dm"
+
+#: ../src/empathy-streamed-media-window.c:2246
+#: ../src/empathy-call-window.c:2187
+msgid "Technical Details"
+msgstr "సాంకేతిక వివరాలు"
+
+#: ../src/empathy-streamed-media-window.c:2284
+#: ../src/empathy-call-window.c:2225
+#, c-format
+msgid ""
+"%s's software does not understand any of the audio formats supported by your "
+"computer"
+msgstr ""
+"మీ కంప్యూటరుచే సహకరించబడుతున్న ఏ ఆడియో ఫార్మేట్లను %s సాఫ్ట్‌వేర్ "
+"అర్థంచేసుకోలేకపోతున్నది"
+
+#: ../src/empathy-streamed-media-window.c:2289
+#: ../src/empathy-call-window.c:2230
+#, c-format
+msgid ""
+"%s's software does not understand any of the video formats supported by your "
+"computer"
+msgstr ""
+
+#: ../src/empathy-streamed-media-window.c:2295
+#: ../src/empathy-call-window.c:2236
+#, c-format
+msgid ""
+"Can't establish a connection to %s. One of you might be on a network that "
+"does not allow direct connections."
+msgstr ""
+"%s కి అనుసంధానమును స్థాపించలేకపోతున్నది. మీలో ఒకరు నేరుగా అనుసంధానమగుటకు "
+"అనుమతించని నెట్‌వర్క్ పై "
+"ఉండి వుండవచ్చును."
+
+#: ../src/empathy-streamed-media-window.c:2301
+#: ../src/empathy-call-window.c:2242
+msgid "There was a failure on the network"
+msgstr "నెట్‌వర్కు నందు వైఫల్యము ఉన్నది"
+
+#: ../src/empathy-streamed-media-window.c:2305
+#: ../src/empathy-call-window.c:2246
+msgid ""
+"The audio formats necessary for this call are not installed on your computer"
+msgstr "ఈ కాల్‌కి అవసరమైన ఆడియో ఫార్మేట్లు మీ కంప్యూటర్‌లో స్థాపించబడిలేవు"
+
+#: ../src/empathy-streamed-media-window.c:2308
+#: ../src/empathy-call-window.c:2249
+msgid ""
+"The video formats necessary for this call are not installed on your computer"
+msgstr "ఈ కాల్‌కి అవసరమైన వీడియో ఫార్మేట్లు మీ కంప్యూటర్‌లో స్థాపించబడిలేవు"
+
+#: ../src/empathy-streamed-media-window.c:2318
+#: ../src/empathy-call-window.c:2261
+#, c-format
+msgid ""
+"Something unexpected happened in a Telepathy component. Please <a href=\"%s"
+"\">report this bug</a> and attach logs gathered from the 'Debug' window in "
+"the Help menu."
+msgstr ""
+
+#: ../src/empathy-streamed-media-window.c:2326
+#: ../src/empathy-call-window.c:2270
+msgid "There was a failure in the call engine"
+msgstr "కాల్ ఇంజనులో ఒక వైఫల్యము ఉన్నది"
+
+#: ../src/empathy-streamed-media-window.c:2329
+#: ../src/empathy-call-window.c:2273
+msgid "The end of the stream was reached"
+msgstr "ప్రవాహము చివరకు చేరుకున్నది"
+
+#: ../src/empathy-streamed-media-window.c:2369
+#: ../src/empathy-call-window.c:2313
+msgid "Can't establish audio stream"
+msgstr "ఆడియో ప్రవాహాన్ని స్థాపించలేకపోతుంది"
+
+#: ../src/empathy-streamed-media-window.c:2379
+#: ../src/empathy-call-window.c:2323
+msgid "Can't establish video stream"
+msgstr "వీడియో ప్రవాహాన్ని స్థాపించలేకపోతుంది"
+
+#: ../src/empathy-call-window.ui.h:1
+msgid "Audio"
+msgstr "ఆడియో"
+
+#: ../src/empathy-call-window.ui.h:2
+msgid "Call the contact again"
+msgstr "పరిచయానికి మళ్ళీ కాల్ చేయి"
+
+#: ../src/empathy-call-window.ui.h:3
+msgid "Camera Off"
+msgstr "కెమెరా ఆపు"
+
+#: ../src/empathy-call-window.ui.h:4
+msgid "Camera On"
+msgstr "కెమెరా ఆన్ చేయి"
+
+#: ../src/empathy-call-window.ui.h:5
+msgid "Decoding Codec:"
+msgstr "డీకోడింగ్ కొడెక్:"
+
+#: ../src/empathy-call-window.ui.h:6
+msgid "Disable camera and stop sending video"
+msgstr "కెమెరాను అచేతనపరుచు మరియు వీడియోని పంపుట ఆపివేయి"
+
+#: ../src/empathy-call-window.ui.h:7
+msgid "Enable camera and send video"
+msgstr "కెమెరాను చేతనపరిచి, వీడియోను పంపు"
+
+#: ../src/empathy-call-window.ui.h:8
+msgid "Enable camera but don't send video"
+msgstr "కెమెరాను చేతనపరుచు కాని వీడియో పంపవద్దు"
+
+#: ../src/empathy-call-window.ui.h:9
+msgid "Encoding Codec:"
+msgstr "ఎన్కోడింగ్ కొడెక్:"
+
+#: ../src/empathy-call-window.ui.h:10
+msgid "Hang up"
+msgstr "హాంగ్ చేయి"
+
+#: ../src/empathy-call-window.ui.h:11
+msgid "Hang up current call"
+msgstr "ప్రస్తుత కాల్‌ని హాంగ్ చేయి"
+
+#: ../src/empathy-call-window.ui.h:12
+msgid "Local Candidate:"
+msgstr "స్థానిక అభ్యర్ధి:"
+
+#: ../src/empathy-call-window.ui.h:13
+msgid "Preview"
+msgstr "మునుజూపు"
+
+#: ../src/empathy-call-window.ui.h:14
+msgid "Redial"
+msgstr "తిరిగిడయిల్‌చేయి"
+
+#: ../src/empathy-call-window.ui.h:15
+msgid "Remote Candidate:"
+msgstr "దూరస్థ అభ్యర్ధి:"
+
+#: ../src/empathy-call-window.ui.h:16
+msgid "Send Audio"
+msgstr "ఆడియోను పంపు"
+
+#: ../src/empathy-call-window.ui.h:17
+msgid "Toggle audio transmission"
+msgstr ""
+
+#: ../src/empathy-call-window.ui.h:18 ../src/empathy-call-window.c:1824
+#: ../src/empathy-call-window.c:1825 ../src/empathy-call-window.c:1826
+#: ../src/empathy-call-window.c:1827
+msgid "Unknown"
+msgstr "తెలియదు"
+
+#: ../src/empathy-call-window.ui.h:19
+msgid "V_ideo"
+msgstr "వీడియో (_i)"
+
+#: ../src/empathy-call-window.ui.h:21
+msgid "Video Off"
+msgstr "వీడియో ఆపు"
+
+#: ../src/empathy-call-window.ui.h:22
+msgid "Video On"
+msgstr "వీడియో ఆన్‌చేయి"
+
+#: ../src/empathy-call-window.ui.h:23
+msgid "Video Preview"
+msgstr "వీడియో మునుజూపు"
+
+#: ../src/empathy-call-window.ui.h:24
+msgid "_Call"
+msgstr "కాల్ (_C)"
+
+#: ../src/empathy-call-window.ui.h:25
+#, fuzzy
+#| msgid "Dialpad"
+msgid "_Dialpad"
+msgstr "డయల్‌ప్యాడ్"
+
+#: ../src/empathy-call-window.ui.h:26 ../src/empathy-main-window.ui.h:30
+msgid "_View"
+msgstr "వీక్షణం (_V)"
+
+#: ../src/empathy-chat-window.c:480 ../src/empathy-chat-window.c:500
+#, c-format
+msgid "%s (%d unread)"
+msgid_plural "%s (%d unread)"
+msgstr[0] "%s (%d చదువనిది)"
+msgstr[1] "%s (%d చదువనివి)"
+
+#: ../src/empathy-chat-window.c:492
+#, c-format
+msgid "%s (and %u other)"
+msgid_plural "%s (and %u others)"
+msgstr[0] "%s (మరియు %u ఇతర)"
+msgstr[1] "%s (మరియు %u ఇతరాలు)"
+
+#: ../src/empathy-chat-window.c:508
+#, c-format
+msgid "%s (%d unread from others)"
+msgid_plural "%s (%d unread from others)"
+msgstr[0] "%s (%d ఇతరుల నుండి చదవనివి)"
+msgstr[1] "%s (%d ఇతరుల నుండి చదవనివి)"
+
+#: ../src/empathy-chat-window.c:517
+#, c-format
+msgid "%s (%d unread from all)"
+msgid_plural "%s (%d unread from all)"
+msgstr[0] "%s (%d అన్నిటిని నుండి చదవనివి)"
+msgstr[1] "%s (%d అన్నిటిని నుండి చదవనివి)"
+
+#: ../src/empathy-chat-window.c:732
+msgid "SMS:"
+msgstr "SMS:"
+
+#: ../src/empathy-chat-window.c:742
+#, c-format
+msgid "Sending %d message"
+msgid_plural "Sending %d messages"
+msgstr[0] "%d సందేశమును పంపుతున్నది"
+msgstr[1] "%d సందేశాలను పంపుతున్నది"
+
+#: ../src/empathy-chat-window.c:764
+msgid "Typing a message."
+msgstr "ఒక సందేశమును టైపు చేస్తున్నారు."
+
+#: ../src/empathy-chat-window.ui.h:1
+msgid "C_lear"
+msgstr "శుభ్రపరచు (_l)"
+
+#: ../src/empathy-chat-window.ui.h:2
+msgid "C_ontact"
+msgstr "పరిచయం (_o)"
+
+#: ../src/empathy-chat-window.ui.h:4
+msgid "Insert _Smiley"
+msgstr "చిరునవ్వును చేర్చు (_S)"
+
+#: ../src/empathy-chat-window.ui.h:5
+msgid "Invite _Participant…"
+msgstr "భాగస్వామిని ఆహ్వానించు...(_P)"
+
+#: ../src/empathy-chat-window.ui.h:6
+msgid "Move Tab _Left"
+msgstr "ట్యాబ్‌ను ఎడమవైపుకు కదుపు (_L)"
+
+#: ../src/empathy-chat-window.ui.h:7
+msgid "Move Tab _Right"
+msgstr "ట్యాబ్‌ను కుడివైపుకు కదుపు (_R)"
+
+#: ../src/empathy-chat-window.ui.h:8
+msgid "Notify for All Messages"
+msgstr "అన్ని సందేశాలకూ తెలియజేయి"
+
+#: ../src/empathy-chat-window.ui.h:9 ../src/empathy-main-window.ui.h:18
+msgid "_Contents"
+msgstr "విషయసూచిక (_C)"
+
+#: ../src/empathy-chat-window.ui.h:10
+msgid "_Conversation"
+msgstr "సంభాషణ (_C)"
+
+#: ../src/empathy-chat-window.ui.h:11
+msgid "_Detach Tab"
+msgstr "ట్యాబ్‌ను వేరుచేయి (_D)"
+
+#: ../src/empathy-chat-window.ui.h:13
+msgid "_Favorite Chat Room"
+msgstr "ఇష్టమైన చాట్ గది (_F)"
+
+#: ../src/empathy-chat-window.ui.h:14 ../src/empathy-main-window.ui.h:22
+msgid "_Help"
+msgstr "సహాయం (_H)"
+
+#: ../src/empathy-chat-window.ui.h:15
+msgid "_Next Tab"
+msgstr "తరువాత ట్యాబ్ (_N)"
+
+#: ../src/empathy-chat-window.ui.h:16
+msgid "_Previous Tab"
+msgstr "మునుపటి ట్యాబ్ (_P)"
+
+#: ../src/empathy-chat-window.ui.h:17 ../src/empathy-status-icon.ui.h:5
+msgid "_Show Contact List"
+msgstr "పరిచయ జాబితాను చూపించు (_S)"
+
+#: ../src/empathy-chat-window.ui.h:18
+msgid "_Tabs"
+msgstr "ట్యాబ్‌లు (_T)"
+
+#: ../src/empathy-chat-window.ui.h:19
+msgid "_Undo Close Tab"
+msgstr "ట్యాబ్‌ని మూసివేయుట రద్దుచేయి (_U)"
+
+#: ../src/empathy-chatrooms-window.c:241
+msgid "Name"
+msgstr "పేరు"
+
+#: ../src/empathy-chatrooms-window.c:259
+msgid "Room"
+msgstr "గది"
+
+#: ../src/empathy-chatrooms-window.c:267
+msgid "Auto-Connect"
+msgstr "స్వయం-అనుసంధానం"
+
+#: ../src/empathy-chatrooms-window.ui.h:2
+msgid "Manage Favorite Rooms"
+msgstr "ఇష్టమైన గదులను నిర్వహించు"
+
+#: ../src/empathy-event-manager.c:542
+msgid "Incoming video call"
+msgstr "లోనికివచ్చు వీడియో కాల్"
+
+#: ../src/empathy-event-manager.c:542
+msgid "Incoming call"
+msgstr "లోనికివచ్చు కాల్"
+
+#: ../src/empathy-event-manager.c:546
+#, c-format
+msgid "%s is video calling you. Do you want to answer?"
+msgstr "%s మీకు వీడియో కాల్ చేస్తున్నారు, మీరు సమాధానమివ్వాలనుకుంటున్నారా?"
+
+#: ../src/empathy-event-manager.c:547
+#, c-format
+msgid "%s is calling you. Do you want to answer?"
+msgstr "%s మీకు కాల్ చేస్తున్నారు. మీరు సమాధానమివ్వాలనుకుంటున్నారా?"
+
+#: ../src/empathy-event-manager.c:550 ../src/empathy-event-manager.c:751
+#: ../src/empathy-event-manager.c:784
+#, c-format
+msgid "Incoming call from %s"
+msgstr "%s నుండి లోనికి కాల్ వస్తున్నది"
+
+#: ../src/empathy-event-manager.c:575
+msgid "_Reject"
+msgstr "తిరస్కరించు (_R)"
+
+#: ../src/empathy-event-manager.c:583 ../src/empathy-event-manager.c:591
+msgid "_Answer"
+msgstr "సమాధానంయివ్వు (_A)"
+
+#: ../src/empathy-event-manager.c:591
+msgid "_Answer with video"
+msgstr ""
+
+#: ../src/empathy-event-manager.c:751 ../src/empathy-event-manager.c:784
+#, c-format
+msgid "Incoming video call from %s"
+msgstr "%s నుండి వీడియో కాల్ వస్తున్నది"
+
+#: ../src/empathy-event-manager.c:857
+msgid "Room invitation"
+msgstr "గది ఆహ్వానము"
+
+#: ../src/empathy-event-manager.c:859
+#, c-format
+msgid "Invitation to join %s"
+msgstr "%s లో చేరుటకు ఆహ్వానం"
+
+#: ../src/empathy-event-manager.c:866
+#, c-format
+msgid "%s is inviting you to join %s"
+msgstr "%s మిమ్మలను %sకు జేరుటకు ఆహ్వానిస్తున్నారు"
+
+#: ../src/empathy-event-manager.c:874
+msgid "_Decline"
+msgstr "తిరస్కరించు(_D)"
+
+#: ../src/empathy-event-manager.c:879
+#: ../src/empathy-new-chatroom-dialog.ui.h:7
+msgid "_Join"
+msgstr "చేరు (_J)"
+
+#: ../src/empathy-event-manager.c:906
+#, c-format
+msgid "%s invited you to join %s"
+msgstr "%s మిమ్ములను %sనందు జేరుటకు ఆహ్వానించారు"
+
+#: ../src/empathy-event-manager.c:912
+#, c-format
+msgid "You have been invited to join %s"
+msgstr "%s లో చేరుటకు మీరు ఆహ్వానించబడ్డారు"
+
+#: ../src/empathy-event-manager.c:963
+#, c-format
+msgid "Incoming file transfer from %s"
+msgstr "%s నుండి వచ్చుచున్న ఫైల్ బదిలీకరణ"
+
+#: ../src/empathy-event-manager.c:1155 ../src/empathy-main-window.c:375
+msgid "Password required"
+msgstr "సంకేతపదం అవసరం"
+
+#: ../src/empathy-event-manager.c:1211
+#, c-format
+msgid "%s would like permission to see when you are online"
+msgstr ""
+
+#: ../src/empathy-event-manager.c:1215
+#, c-format
+msgid ""
+"\n"
+"Message: %s"
+msgstr ""
+"\n"
+"సందేశం: %s"
+
+#. Translators: time left, when it is more than one hour
+#: ../src/empathy-ft-manager.c:100
+#, c-format
+msgid "%u:%02u.%02u"
+msgstr "%u:%02u.%02u"
+
+#. Translators: time left, when is is less than one hour
+#: ../src/empathy-ft-manager.c:103
+#, c-format
+msgid "%02u.%02u"
+msgstr "%02u.%02u"
+
+#: ../src/empathy-ft-manager.c:179
+msgctxt "file transfer percent"
+msgid "Unknown"
+msgstr "తెలియదు"
+
+#: ../src/empathy-ft-manager.c:274
+#, c-format
+msgid "%s of %s at %s/s"
+msgstr "%2$s యొక్క %1$s దీనివద్ద %3$s/s"
+
+#: ../src/empathy-ft-manager.c:275
+#, c-format
+msgid "%s of %s"
+msgstr "%2$s లో %1$s"
+
+#. translators: first %s is filename, second %s is the contact name
+#: ../src/empathy-ft-manager.c:306
+#, c-format
+msgid "Receiving \"%s\" from %s"
+msgstr "\"%s\"ను \"%s\"నుండి స్వీకరిస్తోంది"
+
+#. translators: first %s is filename, second %s is the contact name
+#: ../src/empathy-ft-manager.c:309
+#, c-format
+msgid "Sending \"%s\" to %s"
+msgstr "\"%s\"ను \"%s\"కు పంపుతోంది"
+
+#. translators: first %s is filename, second %s
+#. * is the contact name
+#: ../src/empathy-ft-manager.c:339
+#, c-format
+msgid "Error receiving \"%s\" from %s"
+msgstr "%2$s నుండి \"%1$s\" స్వీకరించుటలో దోషము"
+
+#: ../src/empathy-ft-manager.c:342
+msgid "Error receiving a file"
+msgstr "ఫైలును స్వీకరించుటలో దోషము"
+
+#: ../src/empathy-ft-manager.c:347
+#, c-format
+msgid "Error sending \"%s\" to %s"
+msgstr "%2$sకు \"%1$s\" పంపుటలో దోషము"
+
+#: ../src/empathy-ft-manager.c:350
+msgid "Error sending a file"
+msgstr "ఫైలును పంపుటలో దోషము"
+
+#. translators: first %s is filename, second %s
+#. * is the contact name
+#: ../src/empathy-ft-manager.c:489
+#, c-format
+msgid "\"%s\" received from %s"
+msgstr "\"%s\" అనునది %sనుండి స్వీకరించబడింది"
+
+#. translators: first %s is filename, second %s
+#. * is the contact name
+#: ../src/empathy-ft-manager.c:494
+#, c-format
+msgid "\"%s\" sent to %s"
+msgstr "\"%s\" అనునది %sకు పంపబడింది"
+
+#: ../src/empathy-ft-manager.c:497
+msgid "File transfer completed"
+msgstr "ఫైల్ బదిలీ పూర్తయినది"
+
+#: ../src/empathy-ft-manager.c:616 ../src/empathy-ft-manager.c:780
+msgid "Waiting for the other participant's response"
+msgstr "ఇంకొక భాగస్వామి స్పందన కొరకు వేచివుంది"
+
+#: ../src/empathy-ft-manager.c:642 ../src/empathy-ft-manager.c:680
+#, c-format
+msgid "Checking integrity of \"%s\""
+msgstr "\"%s\" యొక్క ఇంటిగ్రిటిని పరిశీలించుచున్నది"
+
+#: ../src/empathy-ft-manager.c:645 ../src/empathy-ft-manager.c:683
+#, c-format
+msgid "Hashing \"%s\""
+msgstr "\"%s\" హాషింగ్"
+
+#: ../src/empathy-ft-manager.c:1038
+msgid "File"
+msgstr "ఫైల్"
+
+#: ../src/empathy-ft-manager.c:1060
+msgid "Remaining"
+msgstr "మిగిలినవి"
+
+#: ../src/empathy-ft-manager.ui.h:1
+msgid "File Transfers"
+msgstr "ఫైల్ బదిలీలు"
+
+#: ../src/empathy-ft-manager.ui.h:2
+msgid "Remove completed, canceled and failed file transfers from the list"
+msgstr "పూర్తయిన, రద్దయిన మరియు విఫలమైన ఫైల్ బదిలీలను జాబితా నుండి తీసివేయి"
+
+#: ../src/empathy-import-dialog.c:84
+msgid ""
+"No accounts to import could be found. Empathy currently only supports "
+"importing accounts from Pidgin."
+msgstr ""
+"దిగుమతి చేయుటకు ఏ ఖాతాలు కనుగొనలేకపోయింది. ఎంపతి ప్రస్తుతం ఖాతాలను పిడ్జిన్ "
+"నుండి దిగుమతి చేయుటకు "
+"మాత్రమే సహకరిస్తుంది."
+
+#: ../src/empathy-import-dialog.c:199
+msgid "Import Accounts"
+msgstr "ఖాతాలను దిగుమతిచేయి"
+
+#. Translators: this is the header of a treeview column
+#: ../src/empathy-import-widget.c:301
+msgid "Import"
+msgstr "దిగుమతిచేయి"
+
+#: ../src/empathy-import-widget.c:310
+msgid "Protocol"
+msgstr "ప్రోటోకాల్"
+
+#: ../src/empathy-import-widget.c:334
+msgid "Source"
+msgstr "మూలము"
+
+#: ../src/empathy-main-window.c:392
+msgid "Provide Password"
+msgstr "సంకేతపదాన్ని సమకూర్చు"
+
+#: ../src/empathy-main-window.c:398
+msgid "Disconnect"
+msgstr "అననుసంధానించు"
+
+#: ../src/empathy-main-window.c:622
+msgid "No match found"
+msgstr "సరిపోలినది కనపడలేదు"
+
+#: ../src/empathy-main-window.c:777
+msgid "Reconnect"
+msgstr "తిరిగి అనుసంధానించు"
+
+#: ../src/empathy-main-window.c:783
+msgid "Edit Account"
+msgstr "ఖాతాను సవరించు"
+
+#: ../src/empathy-main-window.c:789
+msgid "Close"
+msgstr "మూసివేయి"
+
+#. Translators: this string will be something like:
+#. *   Top up My Account ($1.23)..."
+#: ../src/empathy-main-window.c:928
+#, c-format
+msgid "Top up %s (%s)..."
+msgstr "టాప్ అప్ %s (%s)..."
+
+#: ../src/empathy-main-window.c:975
+msgid "Top up account credit"
+msgstr "టాప్ అప్ ఖాతా క్రెడిట్"
+
+#. top up button
+#: ../src/empathy-main-window.c:1050
+msgid "Top Up..."
+msgstr "టాప్ అప్..."
+
+#: ../src/empathy-main-window.c:1817
+msgid "Contact"
+msgstr "చిరునామా"
+
+#: ../src/empathy-main-window.c:2169
+msgid "Contact List"
+msgstr "పరిచయముల జాబితా"
+
+#: ../src/empathy-main-window.c:2287
+msgid "Show and edit accounts"
+msgstr "ఖాతాలను చూపించు మరియు సవరించు"
+
+#: ../src/empathy-main-window.ui.h:1
+msgid "Contacts on a _Map"
+msgstr "పటము పై పరిచయాలు (_M)"
+
+#: ../src/empathy-main-window.ui.h:2
+msgid "Credit Balance"
+msgstr "క్రెడిట్ బ్యాలెన్స్"
+
+#: ../src/empathy-main-window.ui.h:3
+msgid "Find in Contact _List"
+msgstr "పరిచయముల జాబితాలో వెతుకు (_L)"
+
+#: ../src/empathy-main-window.ui.h:4
+msgid "Join _Favorites"
+msgstr "ఇష్టాంశాలలో చేరు (_F)"
+
+#: ../src/empathy-main-window.ui.h:5
+msgid "Manage Favorites"
+msgstr "ఇష్టాంశాలను నిర్వహించు"
+
+#: ../src/empathy-main-window.ui.h:6
+msgid "N_ormal Size"
+msgstr "సాధారణ పరిమాణము (_o)"
+
+#: ../src/empathy-main-window.ui.h:7 ../src/empathy-status-icon.ui.h:1
+msgid "New _Call…"
+msgstr "కొత్త కాల్...(_C)"
+
+#: ../src/empathy-main-window.ui.h:8
+msgid "Normal Size With _Avatars"
+msgstr "అవతారములతో సాధారణ పరిమాణము (_A)"
+
+#: ../src/empathy-main-window.ui.h:9
+msgid "P_references"
+msgstr "ప్రాధాన్యతలు (_r)"
+
+#: ../src/empathy-main-window.ui.h:10
+msgid "Show P_rotocols"
+msgstr "ప్రోటోకాల్సును చూపించు (_r)"
+
+#: ../src/empathy-main-window.ui.h:11
+msgid "Sort by _Name"
+msgstr "పేరుని బట్టి క్రమబద్దీకరించు (_N)"
+
+#: ../src/empathy-main-window.ui.h:12
+msgid "Sort by _Status"
+msgstr "స్థితిని బట్టి క్రమబద్దీకరించు (_S)"
+
+#: ../src/empathy-main-window.ui.h:13
+msgid "_Accounts"
+msgstr "ఖాతాలు (_A)"
+
+#: ../src/empathy-main-window.ui.h:15
+msgid "_Blocked Contacts"
+msgstr "నిరోధించబడిన పరిచయాలు (_O)"
+
+#: ../src/empathy-main-window.ui.h:17
+msgid "_Compact Size"
+msgstr "పరిమాణమును కుదించు (_C)"
+
+#: ../src/empathy-main-window.ui.h:19
+msgid "_Debug"
+msgstr "డీబగ్ (_D)"
+
+#: ../src/empathy-main-window.ui.h:21
+msgid "_File Transfers"
+msgstr "ఫైల్ బదిలీలు (_F)"
+
+#: ../src/empathy-main-window.ui.h:23
+msgid "_Join…"
+msgstr "చేరు...(_J)"
+
+#: ../src/empathy-main-window.ui.h:24 ../src/empathy-status-icon.ui.h:3
+msgid "_New Conversation…"
+msgstr "కొత్త సంభాషణ...(_N)"
+
+#: ../src/empathy-main-window.ui.h:25
+msgid "_Offline Contacts"
+msgstr "ఆఫ్‌లైన్ పరిచయాలు (_O)"
+
+#: ../src/empathy-main-window.ui.h:26
+msgid "_Personal Information"
+msgstr "వ్యక్తిగత సమాచారము (_P)"
+
+#: ../src/empathy-main-window.ui.h:28
+msgid "_Room"
+msgstr "గది (_R)"
+
+#: ../src/empathy-main-window.ui.h:29
+msgid "_Search for Contacts…"
+msgstr "పరిచయాల కోసం వెతుకు...(_S)"
+
+#: ../src/empathy-new-chatroom-dialog.c:337
+msgid "Chat Room"
+msgstr "చాట్ గది"
+
+#: ../src/empathy-new-chatroom-dialog.c:353
+msgid "Members"
+msgstr "సభ్యులు"
+
+#. Translators: Room/Join's roomlist tooltip. Parameters are a channel name,
+#. yes/no, yes/no and a number.
+#: ../src/empathy-new-chatroom-dialog.c:553
+#, c-format
+msgid ""
+"%s\n"
+"Invite required: %s\n"
+"Password required: %s\n"
+"Members: %s"
+msgstr ""
+"%s\n"
+"ఆహ్వానం అవసరమైనవి: %s\n"
+"సంకేతపదము అవసరం: %s\n"
+"సభ్యులు: %s"
+
+#: ../src/empathy-new-chatroom-dialog.c:555
+#: ../src/empathy-new-chatroom-dialog.c:556
+msgid "No"
+msgstr "కాదు"
+
+#: ../src/empathy-new-chatroom-dialog.c:584
+msgid "Could not start room listing"
+msgstr "గది జాబితాకరణను ప్రారంభించలేకపోయింది"
+
+#: ../src/empathy-new-chatroom-dialog.c:594
+msgid "Could not stop room listing"
+msgstr "గది జాబితాకరణను ఆపలేకపోయింది"
+
+#: ../src/empathy-new-chatroom-dialog.ui.h:2
+msgid "Couldn't load room list"
+msgstr "గది జాబితాను లోడు చేయలేకపోయింది"
+
+#: ../src/empathy-new-chatroom-dialog.ui.h:3
+msgid ""
+"Enter the room name to join here or click on one or more rooms in the list."
+msgstr ""
+"ఇక్కడ చేరుటకు గది పేరును ప్రవేశపెట్టండి లేదా జాబితాలోని ఒకటి లేదా ఎక్కువ గదుల "
+"పై నొక్కండి."
+
+#: ../src/empathy-new-chatroom-dialog.ui.h:4
+msgid ""
+"Enter the server which hosts the room, or leave it empty if the room is on "
+"the current account's server"
+msgstr ""
+"గదికి ఆతిధ్యమిచ్చు సేవకమును ప్రవేశపెట్టండి, లేదా ఒకవేళ గది ప్రస్తుత ఖాతా "
+"సేవకములో ఉంటే ఖాళీగా వదిలివేయండి"
+
+#: ../src/empathy-new-chatroom-dialog.ui.h:5
+msgid "Join Room"
+msgstr "గదిలో చేరు"
+
+#: ../src/empathy-new-chatroom-dialog.ui.h:6
+msgid "Room List"
+msgstr "గది జాబితా"
+
+#: ../src/empathy-new-chatroom-dialog.ui.h:8
+msgid "_Room:"
+msgstr "గది (_R):"
+
+#: ../src/empathy-preferences.c:156
+msgid "Message received"
+msgstr "సందేశం స్వీకరించబడింది"
+
+#: ../src/empathy-preferences.c:157
+msgid "Message sent"
+msgstr "సందేశం పంపబడింది"
+
+#: ../src/empathy-preferences.c:158
+msgid "New conversation"
+msgstr "కొత్త సంభాషణ"
+
+#: ../src/empathy-preferences.c:159
+msgid "Contact goes online"
+msgstr "పరిచయం ఆన్‌లైన్‌కు వెళుతుంది"
+
+#: ../src/empathy-preferences.c:160
+msgid "Contact goes offline"
+msgstr "పరిచయం ఆఫ్‌లైనుకు వెళుతుంది"
+
+#: ../src/empathy-preferences.c:161
+msgid "Account connected"
+msgstr "ఖాతా అనుసంధానించబడింది"
+
+#: ../src/empathy-preferences.c:162
+msgid "Account disconnected"
+msgstr "ఖాతా అననుసంధానించబడింది"
+
+#: ../src/empathy-preferences.c:459
+msgid "Language"
+msgstr "భాష"
+
+#. translators: Contact name for the chat theme preview
+#: ../src/empathy-preferences.c:709
+msgid "Juliet"
+msgstr "జూలియట్"
+
+#. translators: Contact name for the chat theme preview
+#: ../src/empathy-preferences.c:716
+msgid "Romeo"
+msgstr "రోమియో"
+
+#. translators: Quote from Romeo & Julier, for chat theme preview
+#: ../src/empathy-preferences.c:722
+msgid "O Romeo, Romeo, wherefore art thou Romeo?"
+msgstr "ఓ రోమియో, రోమియో, ఎక్కడున్నావు రోమియో?"
+
+#. translators: Quote from Romeo & Julier, for chat theme preview
+#: ../src/empathy-preferences.c:725
+msgid "Deny thy father and refuse thy name;"
+msgstr ""
+
+#. translators: Quote from Romeo & Julier, for chat theme preview
+#: ../src/empathy-preferences.c:728
+msgid "Or if thou wilt not, be but sworn my love"
+msgstr ""
+
+#. translators: Quote from Romeo & Julier, for chat theme preview
+#: ../src/empathy-preferences.c:731
+msgid "And I'll no longer be a Capulet."
+msgstr ""
+
+#. translators: Quote from Romeo & Julier, for chat theme preview
+#: ../src/empathy-preferences.c:734
+msgid "Shall I hear more, or shall I speak at this?"
+msgstr "నేనింకా ఎక్కువ వినాలా, లేక నేను ఇక మాట్లాడవచ్చా?"
+
+#. translators: Quote from Romeo & Julier, for chat theme preview
+#: ../src/empathy-preferences.c:737
+msgid "Juliet has disconnected"
+msgstr "జూలియట్ అననుసంధానించింది"
+
+#: ../src/empathy-preferences.c:1131
+msgid "Preferences"
+msgstr "ప్రాధాన్యతలు"
+
+#: ../src/empathy-preferences.ui.h:1
+msgid "Appearance"
+msgstr "కనిపించువిధము"
+
+#: ../src/empathy-preferences.ui.h:2
+msgid "Behavior"
+msgstr "ప్రవర్తన"
+
+#: ../src/empathy-preferences.ui.h:3
+msgid "Chat Th_eme:"
+msgstr "చాట్ థీము (_e):"
+
+#: ../src/empathy-preferences.ui.h:4
+msgid "Disable notifications when _away or busy"
+msgstr "దూరంగా లేదాతీరికలేనప్పుడు ప్రకటనలను అచేతనపరుచు (_a)"
+
+#: ../src/empathy-preferences.ui.h:5
+msgid "Disable sounds when _away or busy"
+msgstr "దూరంగా లేదా తీరికలేనప్పుడు శబ్దములను అచేతనపరుచు (_a)"
+
+#: ../src/empathy-preferences.ui.h:6
+msgid "Display incoming events in the notification area"
+msgstr "లోనికివచ్చు ఘటనలను ప్రకటిత ప్రాంతములో చూపించు"
+
+#: ../src/empathy-preferences.ui.h:7
+msgid "Enable notifications when a contact comes online"
+msgstr "పరిచయము ఆన్‌లైనుకు వచ్చినప్పుడు ప్రకటనలను చేతనపరుచు"
+
+#: ../src/empathy-preferences.ui.h:8
+msgid "Enable notifications when a contact goes offline"
+msgstr "పరిచయం ఆఫ్‌లైన్‌కు వెళ్ళినప్పుడు ప్రకటనలను చేతనపరుచు"
+
+#: ../src/empathy-preferences.ui.h:9
+msgid "Enable notifications when the _chat is not focused"
+msgstr "చాట్ పై దృష్టిసారించనప్పుడు ప్రకటనలను చేతనపరుచు (_c)"
+
+#: ../src/empathy-preferences.ui.h:10
+msgid "Enable spell checking for languages:"
+msgstr "ఈ భాషలకు అక్షరక్రమ తనిఖీచేయుటని చేతనపరుచు:"
+
+#: ../src/empathy-preferences.ui.h:11
+msgid "General"
+msgstr "సాధారణ"
+
+#: ../src/empathy-preferences.ui.h:13
+msgid "Location sources:"
+msgstr "స్థాన మూలాలు:"
+
+#: ../src/empathy-preferences.ui.h:14
+msgid "Log conversations"
+msgstr "సంభాషణల చిట్టా"
+
+#: ../src/empathy-preferences.ui.h:15
+msgid "Notifications"
+msgstr "ప్రకటనలు"
+
+#: ../src/empathy-preferences.ui.h:16
+msgid "Play sound for events"
+msgstr "ఘటనల కొరకు శబ్దమును ప్లేచేయి"
+
+#: ../src/empathy-preferences.ui.h:17
+msgid "Privacy"
+msgstr "గోప్యత"
+
+#: ../src/empathy-preferences.ui.h:18
+msgid ""
+"Reduced location accuracy means that nothing more precise than your city, "
+"state and country will be published.  GPS coordinates will be accurate to 1 "
+"decimal place."
+msgstr ""
+"స్థానము ఖచ్చితత్వమును తగ్గించుట వలన మీ పట్టణము, రాష్ట్రము మరియు దేశము కంటే "
+"ఎక్కువ స్పష్టముగా "
+"ప్రచురించబడవు.  GPS నిర్దేశకాలు ఖచ్చితముగా 1 డెసిమల్ స్థానమునకు ఉంటాయి."
+
+#: ../src/empathy-preferences.ui.h:19
+msgid "Show _smileys as images"
+msgstr "చిరునవ్వులను బొమ్మల వలె చూపించు (_s)"
+
+#: ../src/empathy-preferences.ui.h:20
+msgid "Show contact _list in rooms"
+msgstr "గదులలో పరిచయ జాబితాను చూపించు (_l)"
+
+#: ../src/empathy-preferences.ui.h:21
+msgid "Sounds"
+msgstr "శబ్దములు"
+
+#: ../src/empathy-preferences.ui.h:22
+msgid "Spell Checking"
+msgstr "అక్షరక్రమ తనిఖీ"
+
+#: ../src/empathy-preferences.ui.h:23
+msgid ""
+"The list of languages reflects only the languages for which you have a "
+"dictionary installed."
+msgstr ""
+"మీరు ఏ భాషలకైతే ఒక నిఘంటువుని స్థాపించారో ఆ భాషల యొక్క జాబితా మాత్రమే "
+"ప్రతిబింబిస్తుంది."
+
+#: ../src/empathy-preferences.ui.h:24
+msgid "Themes"
+msgstr "థీములు"
+
+#: ../src/empathy-preferences.ui.h:25
+#, fuzzy
+#| msgid "Theme Variant:"
+msgid "Variant:"
+msgstr "థీము రూపాంతరం:"
+
+#: ../src/empathy-preferences.ui.h:26
+msgid "_Automatically connect on startup"
+msgstr "వ్యవస్థ ప్రారంభమయినపుడు స్వయంచాలకంగా అనుసంధానమవ్వు (_A)"
+
+#: ../src/empathy-preferences.ui.h:27
+msgid "_Cellphone"
+msgstr "సెల్‌ఫోన్ (_C)"
+
+#: ../src/empathy-preferences.ui.h:28
+msgid "_Enable bubble notifications"
+msgstr "బుడగ ప్రకటనలను చేతనపరుచు (_E)"
+
+#: ../src/empathy-preferences.ui.h:29
+msgid "_Enable sound notifications"
+msgstr "శబ్దపు ప్రకటనలను చేతనపరుచు (_E)"
+
+#: ../src/empathy-preferences.ui.h:30
+msgid "_GPS"
+msgstr "_GPS"
+
+#: ../src/empathy-preferences.ui.h:31
+msgid "_Network (IP, Wi-Fi)"
+msgstr "నెట్‌వర్కు (IP, Wi-Fi) (_N)"
+
+#: ../src/empathy-preferences.ui.h:32
+msgid "_Open new chats in separate windows"
+msgstr "వేరువేరు విండోలలో కొత్త చాట్‌లను తెరువు (_O)"
+
+#: ../src/empathy-preferences.ui.h:33
+msgid "_Publish location to my contacts"
+msgstr "స్థానమును నా పరిచయములకు ప్రచురించు (_P)"
+
+#. To translators: The longitude and latitude are rounded to closest 0,1 degrees, so for example 146,2345° is rounded to round(146,2345*10)/10 = 146,2 degrees.
+#: ../src/empathy-preferences.ui.h:35
+msgid "_Reduce location accuracy"
+msgstr "స్థానము ఖచ్చితత్వమును తగ్గించు (_R)"
+
+#: ../src/empathy-status-icon.ui.h:2
+msgid "Status"
+msgstr "స్థితి"
+
+#: ../src/empathy-status-icon.ui.h:4
+msgid "_Quit"
+msgstr "నిష్క్రమించు (_Q)"
+
+#: ../src/empathy-map-view.c:448
+msgid "Contact Map View"
+msgstr "పరిచయ పటము వీక్షణ"
+
+#: ../src/empathy-debug-window.c:1218
+msgid "Save"
+msgstr "భద్రపరచు"
+
+#: ../src/empathy-debug-window.c:1394
+msgid "Debug Window"
+msgstr "దోషశుద్ది విండో"
+
+#: ../src/empathy-debug-window.c:1476
+msgid "Pause"
+msgstr "నిలిపివేయి"
+
+#: ../src/empathy-debug-window.c:1488
+msgid "Level "
+msgstr "స్థాయి "
+
+#: ../src/empathy-debug-window.c:1508
+msgid "Debug"
+msgstr "దోషశుద్ది"
+
+#: ../src/empathy-debug-window.c:1514
+msgid "Info"
+msgstr "సమాచారము"
+
+#: ../src/empathy-debug-window.c:1520 ../src/empathy-debug-window.c:1569
+msgid "Message"
+msgstr "సందేశము"
+
+#: ../src/empathy-debug-window.c:1526
+msgid "Warning"
+msgstr "హెచ్చరిక"
+
+#: ../src/empathy-debug-window.c:1532
+msgid "Critical"
+msgstr "క్లిష్టమైన"
+
+#: ../src/empathy-debug-window.c:1538
+msgid "Error"
+msgstr "దోషము"
+
+#: ../src/empathy-debug-window.c:1557
+msgid "Time"
+msgstr "సమయం"
+
+#: ../src/empathy-debug-window.c:1560
+msgid "Domain"
+msgstr "డొమైన్"
+
+#: ../src/empathy-debug-window.c:1562
+msgid "Category"
+msgstr "వర్గము"
+
+#: ../src/empathy-debug-window.c:1564
+msgid "Level"
+msgstr "స్థాయి"
+
+#: ../src/empathy-debug-window.c:1601
+msgid ""
+"The selected connection manager does not support the remote debugging "
+"extension."
+msgstr ""
+"ఎంచుకున్న అనుసంధాన నిర్వాహకము దూరస్థ దోషశుద్ధిచేసే పొడిగింపుకు సహకరించుటలేదు."
+
+#: ../src/empathy-invite-participant-dialog.c:429
+#: ../src/empathy-invite-participant-dialog.c:477
+msgid "Invite Participant"
+msgstr "భాగస్వామిని ఆహ్వానించు"
+
+#: ../src/empathy-invite-participant-dialog.c:430
+msgid "Choose a contact to invite into the conversation:"
+msgstr "సంభాషణలోకి ఆహ్వానించుటకు ఒక పరిచయాన్ని ఎన్నుకోండి:"
+
+#: ../src/empathy-invite-participant-dialog.c:473
+msgid "Invite"
+msgstr "ఆహ్వానించు"
+
+#: ../src/empathy-accounts.c:183
+msgid "Don't display any dialogs; do any work (eg, importing) and exit"
+msgstr ""
+"ఏ డైలాగులను ప్రదర్శించవద్దు; ఏదైనా పనిచేయి (ఉదా. దిగుమతిచేయుట) మరియు "
+"నిష్క్రమించు"
+
+#: ../src/empathy-accounts.c:187
+msgid ""
+"Don't display any dialogs unless there are only \"People Nearby\" accounts"
+msgstr "కేవలం \"దగ్గరలోని వ్యక్తులు\" ఖాతాలు ఉంటే తప్ప ఏ డైలాగులను చూపించవద్దు"
+
+#: ../src/empathy-accounts.c:191
+msgid "Initially select given account (eg, gabble/jabber/foo_40example_2eorg0)"
+msgstr ""
+"ప్రాథమికంగా ఇచ్చిన ఖాతాను ఎంచుకొను (ఉదా, gabble/jabber/foo_40example_2eorg0)"
+
+#: ../src/empathy-accounts.c:193
+msgid "<account-id>"
+msgstr "<account-id>"
+
+#: ../src/empathy-accounts.c:198
+msgid "- Empathy Accounts"
+msgstr "- ఎంపతి ఖాతాలు"
+
+#: ../src/empathy-accounts.c:237
+msgid "Empathy Accounts"
+msgstr "ఎంపతి ఖాతాలు"
+
+#: ../src/empathy-debugger.c:66
+msgid "Empathy Debugger"
+msgstr "ఎంపతి దోష శుద్దిచేసేది"
+
+#: ../src/empathy-chat.c:107
+msgid "- Empathy Chat Client"
+msgstr "- ఎంపతి చాట్ క్లయింటు"
+
+#: ../src/empathy-notifications-approver.c:203
+msgid "Respond"
+msgstr "స్పందించు"
+
+#: ../src/empathy-notifications-approver.c:217
+msgid "Reject"
+msgstr "తిరస్కరించు"
+
+#: ../src/empathy-notifications-approver.c:222
+#: ../src/empathy-notifications-approver.c:227
+msgid "Answer"
+msgstr "సమాధానమివ్వు"
+
+#: ../src/empathy-notifications-approver.c:227
+msgid "Answer with video"
+msgstr ""
+
+#: ../src/empathy-notifications-approver.c:235
+#: ../src/empathy-notifications-approver.c:245
+msgid "Decline"
+msgstr "నిరాకరించు"
+
+#: ../src/empathy-notifications-approver.c:239
+#: ../src/empathy-notifications-approver.c:250
+msgid "Accept"
+msgstr "అంగీకరించు"
+
+#: ../src/empathy-notifications-approver.c:260
+msgid "Provide"
+msgstr "సమకూర్చు"
+
+#: ../src/empathy-call-observer.c:133
+#, c-format
+msgid "%s just tried to call you, but you were in another call."
+msgstr ""
+"%s ఇప్పుడే కాల్ చేయడానికి ప్రయత్నించారు, కాని మీరు వేరే కాల్ నందు ఉన్నారు."
+
+#: ../src/empathy-call-window.c:1246
+#, fuzzy, c-format
+#| msgid "Call with %s"
+msgid "Call with %d participants"
+msgstr "%sతో కాల్ చేయి"
+
+#. Translators: 'status - minutes:seconds' the caller has been connected
+#: ../src/empathy-call-window.c:2124
+#, fuzzy, c-format
+#| msgid "Connected — %d:%02dm"
+msgid "%s — %d:%02dm"
+msgstr "అనుసంధానించబడింది — %d:%02dm"
+
+#: ../src/empathy-call-window.c:2125
+msgid "On hold"
+msgstr ""
+
+#: ../libempathy-gtk/empathy-search-bar.c:282
+msgid "_Match case"
+msgstr "సరిపోలు సందర్భం (_M)"
+
+#~ msgid "All"
+#~ msgstr "అన్ని"
+
+#~ msgid "Date"
+#~ msgstr "తేదీ"
+
+#~ msgid "Conversations"
+#~ msgstr "సంభాషణలు"
+
+#~ msgid "Previous Conversations"
+#~ msgstr "మునుపటి సంభాషణలు"
+
+#~ msgid "_For:"
+#~ msgstr "కొరకు (_F):"
+
+#~ msgid "Send and receive messages"
+#~ msgstr "సందేశములను పంపుము మరియు స్వీకరించుము"
+
+#~ msgid "Empathy has asked about importing accounts"
+#~ msgstr "Empathy దిగుమతి చేయుచున్న ఖాతాలగురించి అడిగింది"
+
+#~ msgid "MC 4 accounts have been imported"
+#~ msgstr "MC 4 ఖాతాలు దిగుమతిచేయబడినవి"
+
+#~ msgid "MC 4 accounts have been imported."
+#~ msgstr "MC 4 ఖాతాలు దిగుమతిచేయబడినవి."
+
+#~ msgid ""
+#~ "Whether or not Empathy has asked about importing accounts from other "
+#~ "programs."
+#~ msgstr "ఇతర ప్రోగ్రామ్సునుండి ఖాతాలను డౌనులోడు చేయుట గురించి Empathy అడగవలెనా లేదా."
+
+#~ msgid ""
+#~ "Whether or not the Salut account has been created on the first Empathy "
+#~ "run."
+#~ msgstr "Empathy మొదటిసారి నడిపినప్పుడు Salut ఖాతా సృష్టించవలెనా లేదా."
+
+#~ msgid "Can't set an empty display name"
+#~ msgstr "ఖాళీ ప్రదర్శన నామమును అమర్చలేక పోయింది"
+
+#~ msgid "The hash of the received file and the sent one do not match"
+#~ msgstr "స్వీకరించిన దస్త్రము మరియు పంపిన దానియొక్క హాష్ సరిపోలలేదు"
+
+#~ msgid "Hidden"
+#~ msgstr "మరుగుపడిన"
+
+#~ msgid "_Charset:"
+#~ msgstr "అక్షరసమితి (_C):"
+
+#~ msgid "_Email:"
+#~ msgstr "ఈమెయిల్ (_E):"
+
+#~ msgid "_Nickname:"
+#~ msgstr "ముద్దుపేరు (_N):"
+
+#~ msgid "Use _Yahoo Japan"
+#~ msgstr "_Yahoo జపాన్ వుపయోగించుము"
+
+#~ msgid "Unsupported command"
+#~ msgstr "మద్దతీయని ఆదేశము"
+
+#~ msgid "_View Previous Conversations"
+#~ msgstr "మునుపటి చర్చలను దర్శించుము (_V)"
+
+#~ msgid "<b>Location</b>"
+#~ msgstr "<b>స్థానము</b>"
+
+#~ msgid "<b>Location</b>, "
+#~ msgstr "<b>స్థానము</b>, "
+
+#~ msgid "Email:"
+#~ msgstr "ఈమెయిల్:"
+
+#~ msgid "Edit Custom Messages..."
+#~ msgstr "మలచుకొనిన సందేశాలను సరికూర్చుము..."
+
+#~ msgid "Add _New Preset"
+#~ msgstr "కొత్త వుపస్థితిని జతచేయుము (_N)"
+
+#~ msgid "Saved Presets"
+#~ msgstr "దాయబడిన ప్రీసెట్లు"
+
+#~ msgid "Select a destination"
+#~ msgstr "గమ్యమును యెంచుకొనుము"
+
+#~ msgid ""
+#~ "The contact to display in the applet. Empty means no contact is displayed."
+#~ msgstr "ఆప్లెట్ నందు ప్రదర్శించుటకు పరిచయం. ఖాళీ అంటే ఏ పరిచయం ప్రదర్శించలేదని అర్ధం."
+
+#~ msgid "The contact's avatar token. Empty means contact has no avatar."
+#~ msgstr "పరిచయంయొక్క అవతార్ టోకెన్. ఖాళీ అంటే పరిచయం అవతార్‌ను కలిగిలేదు అని అర్ధం."
+
+#~ msgid "Talk!"
+#~ msgstr "మాట్లాడు!"
+
+#~ msgid "_Information"
+#~ msgstr "సమాచారం (_I)"
+
+#~ msgid "_Preferences"
+#~ msgstr "అభీష్టాలు (_P)"
+
+#~ msgid "Please configure a contact."
+#~ msgstr "దయచేసి వొక పరిచయం ఆకృతీకరించుము."
+
+#~ msgid "Select contact..."
+#~ msgstr "పరిచయాన్ని యెంచుకొనుము..."
+
+#~ msgid "Presence"
+#~ msgstr "హాజరు"
+
+#~ msgid "Set your own presence"
+#~ msgstr "మీ స్వంత హాజరును అమర్చుము"
+
+#~ msgid "Show the accounts dialog"
+#~ msgstr "ఖాతాల డైలాగును చూపవద్దు"
+
+#~ msgid "The error message was: <span style=\"italic\">%s</span>"
+#~ msgstr "దోషము సందేశము: <span style=\"italic\">%s</span>"
+
+#~ msgid ""
+#~ "You are about to remove your %s account!\n"
+#~ "Are you sure you want to proceed?"
+#~ msgstr ""
+#~ "మీరు మీ %s ఖాతాను తీసివేయబోతున్నారు!\n"
+#~ "మీరు ఖచ్చితముగా తీసివేద్దామని అనుకొనుచున్నారా?"
+
+#~ msgid ""
+#~ "Any associated conversations and chat rooms will NOT be removed if you "
+#~ "decide to proceed.\n"
+#~ "\n"
+#~ "Should you decide to add the account back at a later time, they will "
+#~ "still be available."
+#~ msgstr ""
+#~ "మీరు కొనసాగించినా సంభందిత చాట్‌గదులు మరియు చర్చలు తీసివేయబడవు.\n"
+#~ "\n"
+#~ "మీరు ఖాతాను తర్వాత తిరిగి జతచేయాలని అనుకొన్నా, అవి అందుబాటులోనే వుంటాయి."
+
+#~ msgid "Add new"
+#~ msgstr "కొత్త దానిని జతచేయుము"
+
+#~ msgid "Cr_eate"
+#~ msgstr "సృష్టించు (_e)"
+
+#~ msgid "_Add..."
+#~ msgstr "జతచేయుము... (_A)"
+
+#~ msgid "_Reuse an existing account"
+#~ msgstr "ఉన్న ఖాతాను తిరిగివుపయోగించుము (_R)"
+
+#~ msgid "Conversations (%d)"
+#~ msgstr "చర్చలు (%d)"
+
+#~ msgid "%s is offering you an invitation"
+#~ msgstr "%s మీకు ఆహ్వానమును అందించుచున్నది"
+
+#~ msgid "An external application will be started to handle it."
+#~ msgstr "దీనిని సంబాలించుటకు వొక బహిర్గత అనువర్తనము ప్రారంభించబడుతుంది."
+
+#~ msgid "You don't have the needed external application to handle it."
+#~ msgstr "దీనిని సంభాలించుటకు అవసరమైన బహిర్గత అనువర్తనము మీరు కలిగిలేరు."
+
+#~ msgid "Subscription requested by %s"
+#~ msgstr "%s ద్వారా చందా అభ్యర్ధించబడింది"
+
+#~| msgid "New %s account"
+#~ msgid "%s account"
+#~ msgstr "%s ఖాతా"
+
+#~ msgid "No error specified"
+#~ msgstr "ఎటువంటి దోషము తెలుపబడలేదు"
+
+#~ msgid "Unknown error"
+#~ msgstr "తెలియని దోషము"
+
+#~ msgid "_Join..."
+#~ msgstr "చేరు... (_J)"
+
+#~ msgid "_New Conversation..."
+#~ msgstr "కొత్త చర్చ... (_N)"
+
+#~ msgid "Allow _GPS usage"
+#~ msgstr "_GPS వినియోగమును అనుమతించుము"
+
+#~ msgid "Allow _cellphone usage"
+#~ msgstr "సెల్‌ఫోన్ వినియోగమును అనుమతించుము (_c)"
+
+#~ msgid "Allow _network usage"
+#~ msgstr "నెట్వర్కు వినియోగమును అనుమతించుము (_n)"
+
+#~ msgid "Geoclue Settings"
+#~ msgstr "Geoclue అమరికలు"
+
+#~ msgid "Unable to start application for service %s: %s"
+#~ msgstr "సేవ %s కొరకు అనువర్తనమును ప్రారంభించలేదు: %s"
+
+#~ msgid ""
+#~ "An invitation was offered for service %s, but you don't have the needed "
+#~ "application to handle it"
+#~ msgstr ""
+#~ "సేవ %s కొరకు వొక అహ్వానము అందించబడింది, అయితే దానిని సంభాలించుటకు అవసరమైన అనువర్తనమును మీరు "
+#~ "కలిగిలేరు."

@@ -1,0 +1,36 @@
+From 05368f2d8821f9e3a134050e197c52ad7df1cb80 Mon Sep 17 00:00:00 2001
+From: Jovanka Gulicoska <jovanka.gulicoska@gmail.com>
+Date: Fri, 27 Jan 2012 17:16:23 +0100
+Subject: [PATCH] Server field expan
+
+---
+ libempathy-gtk/empathy-irc-network-dialog.c |    6 +++---
+ 1 files changed, 3 insertions(+), 3 deletions(-)
+
+diff --git a/libempathy-gtk/empathy-irc-network-dialog.c b/libempathy-gtk/empathy-irc-network-dialog.c
+index e837627..8164f6c 100644
+--- a/libempathy-gtk/empathy-irc-network-dialog.c
++++ b/libempathy-gtk/empathy-irc-network-dialog.c
+@@ -510,6 +510,9 @@ empathy_irc_network_dialog_show (EmpathyIrcNetwork *network,
+       GTK_TREE_VIEW (dialog->treeview_servers),
+       -1, _("Server"), renderer, "text", COL_ADR,
+       NULL);
++  column = gtk_tree_view_get_column (GTK_TREE_VIEW (dialog->treeview_servers),
++      0);
++  gtk_tree_view_column_set_expand (column, TRUE);
+ 
+   /* port */
+   adjustment = (GtkAdjustment *) gtk_adjustment_new (6667, 1, G_MAXUINT16,
+@@ -525,9 +528,6 @@ empathy_irc_network_dialog_show (EmpathyIrcNetwork *network,
+       GTK_TREE_VIEW (dialog->treeview_servers),
+       -1, _("Port"), renderer, "text", COL_PORT,
+       NULL);
+-  column = gtk_tree_view_get_column (GTK_TREE_VIEW (dialog->treeview_servers),
+-      1);
+-  gtk_tree_view_column_set_expand (column, TRUE);
+ 
+   /* SSL */
+   renderer = gtk_cell_renderer_toggle_new ();
+-- 
+1.7.8.4
+
